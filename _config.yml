@@ -4,7 +4,7 @@ email: jiaps@iaps.info
 description: > # this means to ignore newlines until "baseurl:"
   the journal of the International Association of Physics Students
 baseurl: "/jIAPS/" # the subpath of your site, e.g. /blog/
-url: "http://physics-int.github.io/jIAPS" # the base hostname & protocol for your site
+url: "http://physics-int.github.io" # the base hostname & protocol for your site
 twitter_username: _jiaps_
 github_username:  physics-int
 
