@@ -2,27 +2,27 @@
 layout: post
 title: Æter - new member of IAPS
 date: 2015-08-02 16:53:08
-categories: Committee Article
+categories: Article
 author: Henrik Siboni
 excerpt: Ever felt like visiting the Danish city of Odense but never had a proper occasion? Now you have - Odense has got its very own local committee of IAPS.
 ---
 
-![Æter in Europe. Original map by courtesy of Wikimedia Commons.]({{ site.baseurl }}assets/Map-872x1024.png)
+![Æter in Europe. Original map by courtesy of Wikimedia Commons.]({{ site.url }}/assets/Map-872x1024.png)
 
 Being part of Scandinavia with Germany to the South, the UK to the West, Sweden to the East, and Norway to the North, Denmark is comfortably placed in Northern Europe. The country's shape is defined by one of the largest coast lines in the world compared to land area, with the addition of a coastal climate which keeps the weather not too cold nor too warm. The largest and mainland part of the country is Jutland with the largest island being Zeeland where the capital Copenhagen is located. It is possible to study physics in Jutland in Aalborg and Aarhus as well as on Sealand in Copenhagen and Roskilde but we'll focus on the central island of Funen with the city of Odense.
 
 ##Æter
 Æter (Danish for "ether") is the student council for physics, chemistry, and pharmacy students in Odense at the University of Southern Denmark. Run by the students, Æter works in the interest of its students and influences the politics at the university in general and in each of the study programmes. Æter has its own rooms at the university where students can come to study or have fun with the other colleagues while drinking coffee for free.
 
-![Playing table football is not unheard of.]({{ site.baseurl }}assets/Bordfodbold.jpg)
+![Playing table football is not unheard of.]({{ site.url }}/assets/Bordfodbold.jpg)
 
 Though not obligatory, many of our members will have attended one of our christmas and easter lunches as it is customary to hold in Denmark. We also have a day for making christmas decorations as well as some movie nights.
 
-![A christmas decoration demonstrating the body centred cubic structure - a lattice structure in hard matter physics.]({{ site.baseurl }}assets/Decoration-872x1024.jpg)
+![A christmas decoration demonstrating the body centred cubic structure - a lattice structure in hard matter physics.]({{ site.url }}/assets/Decoration-872x1024.jpg)
 
 Usually around May, the grand finale is our trip where we go to a remote cabin somewhere else on the island to party and have fun for a weekend, supplying us with stories to tell until next year.
 
-![Æter celebrating fastelavn (Danish carneval)]({{ site.baseurl }}assets/Fastelavn.jpg)
+![Æter celebrating fastelavn (Danish carneval)]({{ site.url }}/assets/Fastelavn.jpg)
 
 When it comes to the relationship between students and researcher, Æter has started having the so called Torsdagste "Thursday Tea". Every other time hosted by Æter and every other time hosted by the institute itself, it is an event where students and professors meet for tea and cake while talking about whatever they want. Often, it may be combined with a presentations on subjects such as job opportunities.
 
@@ -46,7 +46,7 @@ Finally, the University of Southern Denmark also host the Center For Life and Li
 ##The city
 When you are not at the university you can go to the city. In the day, cafés are available with two, StudieStuen and Studenterhuset, specifically targeting students ensuring a nice place to study as well. StudieStuen (English: "the Study Living Room") was founded by students in 2010 and continuous to be run and financed exclusively through the work of students. Events like lectures, concerts and social singing happen regularly.
 
-![StudieStuen - one of many cafés]({{ site.baseurl }}assets/Cafe-1024x576.jpg)
+![StudieStuen - one of many cafés]({{ site.url }}/assets/Cafe-1024x576.jpg)
 
 Studenterhuset is supported by the city's institutions for education including the university. Being the largest of cafés, it is often visited by musicians and comedians; they even have something called Science in the City where the researchers from CP<sup>3</sup> come by for a beer and discuss physics with anyone who wants to.
 
@@ -58,7 +58,7 @@ If you are really looking for something out of the ordinary, Odense also hosts s
 
 If you, on the other hand, want to party with some music, the festival Tinderbox might be the thing for you. 2015 being its first year ever, the festival is in a small forest at the edge of the city and was celebrated this year with artists including Robbie Williams. A name fitting for a budget of around 40 million kroner or about 5.3 million euros.
 
-![Attending Tinderbox]({{ site.baseurl }}assets/Tinderbox-1024x576.jpg)
+![Attending Tinderbox]({{ site.url }}/assets/Tinderbox-1024x576.jpg)
 
 If you don't feel like paying for a festival ticket, you can also just go to the King's Garden near the city centre where free concerts are hosted every Thursday during the Summer.
 
@@ -69,16 +69,27 @@ So from all of us to all of you: See you in Zagreb!
 
 ##Find out more
 If you want to get in touch with us at Æter, you are welcome to write to our e-mail: [lc-odense@iaps.info](mailto:lc-odense@iaps.info)
+
 If you want to learn more about studying in Odense, we recommend checking out these pages:
+
 Æter on Facebook: [facebook.com/aeter.sdu](http://facebook.com/aeter.sdu)
+
 The University of Southern Denmark: [sdu.dk/english](http://sdu.dk/english)
+
 CP<sup>3</sup>-Origins: [CP3-origins.dk](http://CP3-origins.dk)
+
 The Physics Challenge: [CP3-genius-program](http://CP3-origins.dk/research/CP3-genius-program/2015-physics-challenge)
+
 MEMPHYS: [memphys.dk](http://memphys.dk)
+
 FLinT: [flint.sdu.dk/](http://flint.sdu.dk/)
+
 Can I receive support from the state?: [su.dk](http://su.dk/English/Sider/foreign.aspx)
 
 If you want to learn more about spare time activities and life in general, you can also check out:
+
 Tinderbox: [tinderbox.dk](http://tinderbox.dk)
+
 Odense's website: [odense.dk](http://odense.dk/subsites5/english)
+
 This Is Odense (weekly recommendations): [thisisodense.dk](http://thisisodense.dk/en)

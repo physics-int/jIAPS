@@ -1,69 +1,62 @@
 ---
 layout: post
 title: PLANCKS 2015
-date: 2015-07-27 23:23:05.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags:
-- '2015'
-- Leiden
-- PLANCKS
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1440909204;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:781;}i:1;a:1:{s:2:"id";i:356;}i:2;a:1:{s:2:"id";i:283;}}}}
-  _thumbnail_id: '947'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: "From the 22nd to the 24th of May 2015, the second edition of PLANCKS (Physics
-  League Across Numerous Countries for Kick-ass Students) was held. The event started
-  on Friday with a very successful opening symposium, which hosted to over 300 people.\r\n\r\nThe
-  main event was of course the physics olympiad organised on Saturday. A total of
-  28 teams from 18 different countries took up the challenge, but only the best could
-  be praised with the title of \"Best Physics Students of the World\", and winning
-  the grand prize of € $latex \\frac{h}{\\pi}\\cdot 10^{37}$.\r\n\r\nIn the remaining
-  part of the weekend, we focused on the most important goal of the whole event: bringing
-  together physics students from all over the world. The competitors enjoyed one of
-  the several excursions that we organised and a barbecue. As a grand finale, the
-  closing ceremony was held in museum Boerhaave, the Leiden Museum of the History
-  of Science.\r\nWe, as the organizing committee, are grateful for a great weekend
-  and think that PLANCKS 2015 was a huge success!"
+date: 2015-07-27 23:23:05
+categories: Article
+author: Henrik Siboni
+excerpt: "From the 22nd to the 24th of May 2015, the second edition of PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) was held. The event started on Friday with a very successful opening symposium, which hosted to over 300 people. The main event was of course the physics olympiad organised on Saturday. A total of 28 teams from 18 different countries took up the challenge, but only the best could be praised with the title of "Best Physics Students of the World", and winning the grand prize of €2109.14. In the remaining part of the weekend, we focused on the most important goal of the whole event: bringing together physics students from all over the world. The competitors enjoyed one of the several excursions that we organised and a barbecue. As a grand finale, the closing ceremony was held in museum Boerhaave, the Leiden Museum of the History of Science. We, as the organizing committee, are grateful for a great weekend and think that PLANCKS 2015 was a huge success!"
 ---
-<p style="text-align: justify;">From the 22nd to the 24th of May 2015, the second edition of PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) was held. The event started on Friday with a very successful opening symposium, which hosted over 300 people.</p>
-<p style="text-align: justify;">The main event was of course the physics olympiad organised on Saturday. A total of 28 teams from 18 different countries took up the challenge, but only the best could be praised with the title of "Best Physics Students of the World", and winning the grand prize of € $latex \frac{h}{\pi}\cdot 10^{37}$.</p>
-<p style="text-align: justify;">In the remaining part of the weekend, we focused on the most important goal of the whole event: bringing together physics students from all over the world. The competitors enjoyed one of the several excursions that we organised and a barbecue. As a grand finale, the closing ceremony was held in museum Boerhaave, the Leiden Museum of the History of Science.</p>
-<p style="text-align: justify;">We, as the organizing committee, are grateful for a great weekend and think that PLANCKS 2015 was a huge success!</p>
-<h2>Symposium</h2>
-<p style="text-align: justify;">On Friday the 22nd of May, 2015 the PLANCKS symposium was held. It started in the early afternoon when the speakers and visitors arrived. The participants stored their luggage and after everyone had grabbed their coffee they went to the lecture hall. Irene Haasnoot, president of PLANCKS 2015, opened the symposium and welcomed our guests. She then introduced the scientific director of the Leiden Institute of Physics, Dr. Prof. Eric Eliel, who welcomed all and gave an introductory talk about the Leiden Institute of Physics and its history. He told stories about the research of Kamerlingh Onnes, Albert Einstein and Hendrik Lorentz. The structure of the institute was presented so that our international visitors would get an idea of how a Dutch physics institute is organised. He then thanked everyone for their presence and interest and introduced the first speaker of the day: Dr. Carlo Beenakker.</p>
-<p><img class="aligncenter size-full wp-image-943" src="{{ site.baseurl }}/assets/symp2.jpg" alt="symp2" width="960" height="640" /></p>
-<p style="text-align: justify;">Dr. Carlo Beenakker spoke about quantum computing. He focused mainly on the conceptual part of this wildly complicated topic so that listeners would get a basic working understanding of what quantum computing is, what the main ideas are and why we need it. This talk was greatly complemented by the next talk by Dr. Leo Kouwenhoven, who spoke of the practical problems of building a quantum computer and went into detail about where in this long process we currently are. In this he talked about his own research at the Technical University of Delft, NL.</p>
-<p><img class="aligncenter size-large wp-image-944" src="{{ site.baseurl }}/assets/beenakker-1024x768.jpg" alt="beenakker" width="1024" height="768" /></p>
-<p style="text-align: justify;">After Dr. Kouwenhoven's lecture there was time for a short coffee break. During the break there was time for the visitors to engage the speakers with questions.</p>
-<p style="text-align: justify;">After this short break, John Ellis, professor of King's college London, lectured on his speciality: particle physics. He talked about the institute CERN, where it is and its physical layout. He discussed the standard model and how experimental results about it can be obtained and verified. The talk was interspersed with anecdotes of his own time at CERN, where he was head of the theoretical physics department for several years. He then gave way for Dr. John Pendry from Imperial College London. Dr. John Pendry holds the Lorentz chair for 2015 and was asked by the theoretical physics department of the Leiden Institute of Physics to work and live in the city for several months to lecture to and collaborate with Leiden researchers. He lectured on optics and metamaterials, specifically his own work on invisibility cloaks. The concepts of cloaking were revealed and the tests with which cloaks can be verified to work explained. Our host, Dr. Eric Eliel, then announced that the dinner was next up on the program.</p>
-<p style="text-align: justify;">The guests went to their respective dinner locations: students to the students' barbecue, organised by the Leiden Student Association "De Leidsche Flesch". Most other guests had dinner in the canteen of the Gorlaeus Laboratory, where a buffet was served. The guests enjoyed their dinners and the speakers discussed their careers and fields of research. When the dinner was over all guests walked back to the main lecture hall where Dr. Erik Verlinde lectured on his theoretical research into a new theory of gravity.</p>
-<p style="text-align: justify;"><img class="aligncenter size-large wp-image-945" src="{{ site.baseurl }}/assets/symp1-1024x680.jpg" alt="symp1" width="1024" height="680" /></p>
-<p style="text-align: justify;">Dr. Verlinde's talk was mixed with a wide range of physics topics to tell of a new perspective of widely known phenomena. The theory that he's working on is all about gravity and how it can be explained by different means than general relativity. He told the audience about the theory and about how it was formed. Many questions from the audience ensued and when they were done, the visitors were thanked and went home.</p>
-<p style="text-align: justify;">Many of the visitors gave very positive feedback and the speakers enjoyed their day. The lectures were engaging and diverse, whilst being conceptual yet innovative.</p>
-<h2 style="text-align: justify;">Competition</h2>
-<p style="text-align: justify;">Saturday morning the contestants arrived at the Leiden University physics building for the main event of the weekend: the competition. After a short briefing the teams were brought to their rooms where they had 4 hours to crack 10 problems ranging from scattering of subatomic particles to the drift of iceberg on open sea. The problems were carefully selected from the submissions we received from professors all over the Netherlands. During the competition one of the jury members was present to answer any question the contestants might have about the problems. When 4 hours had passed the contestants were picked up and handed in their solutions. While the contestants were enjoying the rest of the program, the correctors were spending their Saturday afternoon correcting all the problems handed in. At the end of the afternoon all the problems were corrected and the results were in.</p>
-<p style="text-align: justify;"><img class="aligncenter size-large wp-image-946" src="{{ site.baseurl }}/assets/wedstrijd-1024x768.jpg" alt="wedstrijd" width="1024" height="768" /></p>
-<h2 style="text-align: justify;">Excursions, barbecue and party</h2>
-<p style="text-align: justify;">After the lunch on Saturday the contestants had the option to join one of three possible excursions. After working hard on solving the problems in the contest some people chose to relax in a boat tour through the canals of Leiden, while the others chose to expand their knowledge in a lab tour through the Leiden physics faculty or have a guided tour through the historical museum Boerhaave. The people who chose the lab tour were greeted by the science historian Dirk van Delft, who gave a talk about the history of physics in Leiden. After his talk they saw the different subjects that scientists in Leiden are studying like quantum cavities, metamaterials and surface physics. In the Boerhaave museum a tour guide showed the historical artefacts collected there, like the first Leyden jar and the set-up that Kamerlingh Onnes used to liquefy helium. After the tour they were free to look around in the museum themselves. The people from the boat tour were shown Leiden in the best possible way, through a tour of the canals. Fortunately they weren't shown typical Dutch weather because it was actually quite nice.</p>
-<p style="text-align: justify;"><img class="aligncenter size-large wp-image-947" src="{{ site.baseurl }}/assets/groep-1024x504.jpg" alt="groep" width="1024" height="504" /></p>
-<p style="text-align: justify;">After an either informative or cultural excursion it was time to do absolutely nothing but unwind.</p>
-<p style="text-align: justify;">The FooBar is always open for students who want to do just that, and so specially for PLANCKS the bar officially opened in the weekend for the first time in years. The barbecues were already set up by our wonderful crew, and if this all wasn't enough, the drinks were free as well.</p>
-<p style="text-align: justify;">Even though the line for the barbecue was a bit long sometimes, the sun was shining, there was enough bread with sauce and salad and the people were all socializing. After the group photo was taken everyone went to the party location. Student association SSR, where the party was located, was a very suitable place for our party. People could still talk in the bar area and when the evening progressed, more and more people would join the real party on the dance floor, where committee, crew and participants merged together in one group of friends.</p>
-<h2 style="text-align: justify;">Closing ceremony</h2>
-<p style="text-align: justify;">On Sunday the weekend was closed with a ceremony at museum Boerhaave. During this ceremony, various people took the stage. The first was Andreea Munteanu, the president of the PLANCKS committee 2016, who told us about their plans for next year. Jan van Ruitenbeek, the chairman of the Dutch physical society (NNV), spoke about the problem he had contributed to the contest and the way he encountered it during research. Willem Tromp, the committee member responsible for the contest, showed us some statistics about the contest, and awarded some fun awards for remarkable results of the contest, such as a creativity award for an ingenious but wrong answer, and an efficiency award for the team that had managed the best points per page ratio.</p>
-<p style="text-align: justify;">Then Jan van Ruitenbeek took the stage again to award the main prizes. The first prize, an amount of €$latex \frac{h}{\pi} \cdot 10^{37}$ = €2109.14, went to the Dutch team Strength in Unitarity, who had scored a total of 88.5 points out of 120. The second prize was won by the Dutch team Tena, the third place went to Czech team Charles' Angels.</p>
-<p style="text-align: justify;"><img class="aligncenter size-large wp-image-948" src="{{ site.baseurl }}/assets/winnaar-1024x686.jpg" alt="winnaar" width="1024" height="686" /></p>
-<p style="text-align: justify;">After the ceremony, there was a lunch provided by the Boerhaave museum, and there was the possibility of visiting the museum itself for those who hadn't seen it on Saturday or who wanted to see it again. When everyone had eaten, there was an optional excursion organised to Amsterdam, for those teams that wanted to see the city.</p>
+
+From the 22nd to the 24th of May 2015, the second edition of PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) was held. The event started on Friday with a very successful opening symposium, which hosted over 300 people.
+
+The main event was of course the physics olympiad organised on Saturday. A total of 28 teams from 18 different countries took up the challenge, but only the best could be praised with the title of "Best Physics Students of the World", and winning the grand prize of € $\frac{h}{\pi}\cdot 10^{37}$.
+
+In the remaining part of the weekend, we focused on the most important goal of the whole event: bringing together physics students from all over the world. The competitors enjoyed one of the several excursions that we organised and a barbecue. As a grand finale, the closing ceremony was held in museum Boerhaave, the Leiden Museum of the History of Science.
+
+We, as the organizing committee, are grateful for a great weekend and think that PLANCKS 2015 was a huge success!
+
+##Symposium
+On Friday the 22nd of May, 2015 the PLANCKS symposium was held. It started in the early afternoon when the speakers and visitors arrived. The participants stored their luggage and after everyone had grabbed their coffee they went to the lecture hall. Irene Haasnoot, president of PLANCKS 2015, opened the symposium and welcomed our guests. She then introduced the scientific director of the Leiden Institute of Physics, Dr. Prof. Eric Eliel, who welcomed all and gave an introductory talk about the Leiden Institute of Physics and its history. He told stories about the research of Kamerlingh Onnes, Albert Einstein and Hendrik Lorentz. The structure of the institute was presented so that our international visitors would get an idea of how a Dutch physics institute is organised. He then thanked everyone for their presence and interest and introduced the first speaker of the day: Dr. Carlo Beenakker.
+
+[]({{ site.url }}/assets/symp2.jpg")
+
+Dr. Carlo Beenakker spoke about quantum computing. He focused mainly on the conceptual part of this wildly complicated topic so that listeners would get a basic working understanding of what quantum computing is, what the main ideas are and why we need it. This talk was greatly complemented by the next talk by Dr. Leo Kouwenhoven, who spoke of the practical problems of building a quantum computer and went into detail about where in this long process we currently are. In this he talked about his own research at the Technical University of Delft, NL.
+
+[]({{ site.url }}/assets/beenakker-1024x768.jpg)
+
+After Dr. Kouwenhoven's lecture there was time for a short coffee break. During the break there was time for the visitors to engage the speakers with questions.
+
+After this short break, John Ellis, professor of King's college London, lectured on his speciality: particle physics. He talked about the institute CERN, where it is and its physical layout. He discussed the standard model and how experimental results about it can be obtained and verified. The talk was interspersed with anecdotes of his own time at CERN, where he was head of the theoretical physics department for several years. He then gave way for Dr. John Pendry from Imperial College London. Dr. John Pendry holds the Lorentz chair for 2015 and was asked by the theoretical physics department of the Leiden Institute of Physics to work and live in the city for several months to lecture to and collaborate with Leiden researchers. He lectured on optics and metamaterials, specifically his own work on invisibility cloaks. The concepts of cloaking were revealed and the tests with which cloaks can be verified to work explained. Our host, Dr. Eric Eliel, then announced that the dinner was next up on the program.
+
+The guests went to their respective dinner locations: students to the students' barbecue, organised by the Leiden Student Association "De Leidsche Flesch". Most other guests had dinner in the canteen of the Gorlaeus Laboratory, where a buffet was served. The guests enjoyed their dinners and the speakers discussed their careers and fields of research. When the dinner was over all guests walked back to the main lecture hall where Dr. Erik Verlinde lectured on his theoretical research into a new theory of gravity.
+
+[]({{ site.url }}/assets/symp1-1024x680.jpg)
+
+Dr. Verlinde's talk was mixed with a wide range of physics topics to tell of a new perspective of widely known phenomena. The theory that he's working on is all about gravity and how it can be explained by different means than general relativity. He told the audience about the theory and about how it was formed. Many questions from the audience ensued and when they were done, the visitors were thanked and went home.
+
+Many of the visitors gave very positive feedback and the speakers enjoyed their day. The lectures were engaging and diverse, whilst being conceptual yet innovative.
+
+##Competition
+Saturday morning the contestants arrived at the Leiden University physics building for the main event of the weekend: the competition. After a short briefing the teams were brought to their rooms where they had 4 hours to crack 10 problems ranging from scattering of subatomic particles to the drift of iceberg on open sea. The problems were carefully selected from the submissions we received from professors all over the Netherlands. During the competition one of the jury members was present to answer any question the contestants might have about the problems. When 4 hours had passed the contestants were picked up and handed in their solutions. While the contestants were enjoying the rest of the program, the correctors were spending their Saturday afternoon correcting all the problems handed in. At the end of the afternoon all the problems were corrected and the results were in.
+
+[]({{ site.url }}/assets/wedstrijd-1024x768.jpg)
+
+##Excursions, barbecue and party
+After the lunch on Saturday the contestants had the option to join one of three possible excursions. After working hard on solving the problems in the contest some people chose to relax in a boat tour through the canals of Leiden, while the others chose to expand their knowledge in a lab tour through the Leiden physics faculty or have a guided tour through the historical museum Boerhaave. The people who chose the lab tour were greeted by the science historian Dirk van Delft, who gave a talk about the history of physics in Leiden. After his talk they saw the different subjects that scientists in Leiden are studying like quantum cavities, metamaterials and surface physics. In the Boerhaave museum a tour guide showed the historical artefacts collected there, like the first Leyden jar and the set-up that Kamerlingh Onnes used to liquefy helium. After the tour they were free to look around in the museum themselves. The people from the boat tour were shown Leiden in the best possible way, through a tour of the canals. Fortunately they weren't shown typical Dutch weather because it was actually quite nice.
+
+[]({{ site.url }}/assets/groep-1024x504.jpg)
+
+After an either informative or cultural excursion it was time to do absolutely nothing but unwind.
+
+The FooBar is always open for students who want to do just that, and so specially for PLANCKS the bar officially opened in the weekend for the first time in years. The barbecues were already set up by our wonderful crew, and if this all wasn't enough, the drinks were free as well.
+
+Even though the line for the barbecue was a bit long sometimes, the sun was shining, there was enough bread with sauce and salad and the people were all socializing. After the group photo was taken everyone went to the party location. Student association SSR, where the party was located, was a very suitable place for our party. People could still talk in the bar area and when the evening progressed, more and more people would join the real party on the dance floor, where committee, crew and participants merged together in one group of friends.
+
+##Closing ceremony
+On Sunday the weekend was closed with a ceremony at museum Boerhaave. During this ceremony, various people took the stage. The first was Andreea Munteanu, the president of the PLANCKS committee 2016, who told us about their plans for next year. Jan van Ruitenbeek, the chairman of the Dutch physical society (NNV), spoke about the problem he had contributed to the contest and the way he encountered it during research. Willem Tromp, the committee member responsible for the contest, showed us some statistics about the contest, and awarded some fun awards for remarkable results of the contest, such as a creativity award for an ingenious but wrong answer, and an efficiency award for the team that had managed the best points per page ratio.
+
+Then Jan van Ruitenbeek took the stage again to award the main prizes. The first prize, an amount of €$\frac{h}{\pi} \cdot 10^{37}$ = €2109.14, went to the Dutch team Strength in Unitarity, who had scored a total of 88.5 points out of 120. The second prize was won by the Dutch team Tena, the third place went to Czech team Charles' Angels.
+
+[]({{ site.url }}/assets/winnaar-1024x686.jpg")
+
+After the ceremony, there was a lunch provided by the Boerhaave museum, and there was the possibility of visiting the museum itself for those who hadn't seen it on Saturday or who wanted to see it again. When everyone had eaten, there was an optional excursion organised to Amsterdam, for those teams that wanted to see the city.

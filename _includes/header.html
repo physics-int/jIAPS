@@ -1,16 +1,16 @@
 <!-- Header -->
     <section id="header" class="skel-layers-fixed">
         <header>
-            <span class="image avatar"><img src="images/jiaps.png"/></span>
+            <span class="image avatar"><img src="{{ site.url }}images/jiaps.png"/></span>
             <h1 id="logo"><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
             <p>{{ site.description }}</p>
         </header>
         <nav id="nav">
             <ul>
-                <li><a href="{{ site.baseurl }}">Home</a></li>
-                <li><a href="{{ "aboutus" | prepend: site.baseurl }}">About Us</a></li>
-                <li><a href="{{ "article-contest" | prepend: site.baseurl }}">jIAPS article contest</a></li>
-                <li><a href="{{ "archive" | prepend: site.baseurl }}">Archive</a></li>
+                <li><a href="{{ site.url }}">Home</a></li>
+                <li><a href="{{ site.url }}aboutus">About Us</a></li>
+                <li><a href="{{ site.url }}article-contest">jIAPS article contest</a></li>
+                <li><a href="{{ site.url }}archive">Archive</a></li>
             </ul>
         </nav>
         <footer>
