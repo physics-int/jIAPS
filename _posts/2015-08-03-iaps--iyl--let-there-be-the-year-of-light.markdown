@@ -2,7 +2,8 @@
 layout: post
 title: "IAPS & IYL – Let there be the year of light!"
 author: Ezster Piros
-date: "2015-09-15"
+date: "2015-08-03"
+categories: event
 ---
 
 2015 is a magical year for sure, especially for scientists all over the world uniting to celebrate the International Year of Light and Light-based Technologies. IAPS is proud to be a Silver Associate sponsor of IYL 2015 and had the privilege to participate in the Opening Ceremony that took place on 19-20 January 2015 at the UNESCO headquarters, Paris. IAPS was present with 16 volunteers from different national and local committees, including 6 EC members.

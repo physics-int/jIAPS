@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Balaton Summer School in Physics 2015"
-date:   2015-08-03 10:00:00
+date:   2015-08-03
 author: Tamas Almos Vami
 categories: event
 ---
