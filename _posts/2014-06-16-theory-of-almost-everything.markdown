@@ -1,0 +1,122 @@
+---
+layout: post
+title: 'Theory of Almost Everything: The Standard Model and its imperfections'
+date: 2014-06-16 19:55:20.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Article
+tags:
+- Particle Physics
+- Standard Model
+meta:
+  _wpcom_is_markdown: '1'
+  _edit_last: '4'
+  _yoast_wpseo_focuskw: Theory of Almost Everything
+  _yoast_wpseo_title: Theory of Almost Everything - jIAPS
+  _yoast_wpseo_linkdex: '71'
+  _wpas_done_all: '1'
+  _thumbnail_id: '672'
+  _wpas_skip_2192546: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442294218;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:898;}i:1;a:1:{s:2:"id";i:758;}i:2;a:1:{s:2:"id";i:915;}}}}
+author:
+  login: bertu
+  email: norbert@bonnici.co
+  display_name: Norbert Bonnici
+  first_name: Norbert
+  last_name: Bonnici
+---
+<div title="Page 9">
+<div>
+<h1 style="text-align: justify;">Introduction to the Standard Model</h1>
+<p style="text-align: justify;">The Standard Model of particle physics (SM) is a theoretical framework which unifies the electromagnetic, weak, and strong nuclear interactions. They have the most important role in the world of the elementary particles known by mankind. As the parts of the SM we can mention two very important theories:</p>
+<p style="text-align: justify;">a) Electroweak theory. This is the unification of the weak and electromagnetic interaction between the elementary particles. This theory was elaborated by Abdus Salam, Sheldon Glashow and Steven Weinberg in the latter half of the 20th century. In appreciation of their work they got the Nobel Prize in Physics in 1979. [1]</p>
+<p style="text-align: justify;">b) Quantum chromodynamics (QCD). The QCD is a theory of strong interactions, a fundamental force describing the interactions between quarks and gluons which make up hadrons (such as protons and neutrons, see more detailed description later). David J. Gross, H. David Politzer and Frank Wilczek were rewarded with the Nobel Prize in 2004 for recognizing one of the consequences of the QCD. [2]</p>
+<p style="text-align: justify;">Most physicists' main object in life is to find the ultimate theory that would unite all of these theories into one integrated theory of everything. In that case, all the other known laws would be special cases of this ultimate theory, and the behavior of all kinds of matter and energy could be derived from it. The Standard Model, of course, is not the ultimate theory, it has imperfections, for example gravitational interactions are left out from it. Still the SM is an amazing achievement, which describes almost everything we know about matter and its interactions. This is why the Standard Model is sometimes regarded as a "theory of almost everything" [3]</p>
+<h1 style="text-align: justify;">Types of particles</h1>
+<p style="text-align: justify;">The elementary particles are classified according to specific aspects.</p>
+<h2 style="text-align: justify;">Classification according to spin</h2>
+<p style="text-align: justify;">The most important one is classification according to spin. Particles with half-integer spins, such as 1/2, 3/2, 5/2, are known as <em>fermions</em>, while particles with integer spins, such as 1, 2, 3 are known as <em>bosons</em>. (Figure 1.)</p>
+<p style="text-align: justify;">A principal difference between the two families is that fermions obey the Pauli exclusion principle, however bosons do not. According to the principle there cannot be two identical fermions simultaneously having the same quantum numbers (this roughly means that two particles cannot be in the same place with the same velocity). The common idea that "matter takes up space" actually comes from the Pauli exclusion principle.</p>
+<p style="text-align: justify;">The quarks and the leptons (including electrons and neutrinos), which make up what is classically known as matter, are all fermions with spin 1/2. The quarks take place in the strong and electroweak interactions. However leptons only do in the electroweak.</p>
+<p style="text-align: justify;">Elementary fermions with other spins (3/2, 5/2 etc.) were not observed yet, as of 2014.</p>
+<p style="text-align: justify;">The elementary particles which are carrying forces are all bosons with spin 1. They include the photon which carries the electromagnetic force, the gluon (strong force), and the W and Z bosons (weak force)</p>
+<p style="text-align: justify;">The third type of particle is the Higgs boson with spin 0.The SM has theoretically predicted one Higgs boson [4], however some other theories claim that there are more. In 2012 two experiments of the Large Hadron Collider (LHC) found a Higgs boson like particle. [5,6,7] Existence of the SM Higgs boson was proven in 2012-2013 by both the ATLAS and CMS experiments at CERN. [8]</p>
+<p style="text-align: justify;">The Higgs mechanism causes the mass to most of the elementary particle by interacting with them.</p>
+<p>[caption id="attachment_658" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/06/spin.jpg"><img class="wp-image-658 size-medium" src="{{ site.baseurl }}/assets/spin-300x155.jpg" alt="" width="300" height="155" /></a> Figure 1: Classification by spin: The spin-1/2 particles are fermions, those with integer spins are bosons[/caption]</p>
+<h2 style="text-align: justify;">Classification according to the role in the interactions</h2>
+<p style="text-align: justify;">The other type of classification is according to the role in the interactions, and how they are related to the known four interactions. These are Gravitation, Electromagnetism, Weak interaction, and Strong interaction. Gravitation effects everything, but its role is important at the universal scale. Weak interaction effects everything as well, and electromagnetism effects every electrically charged particle or interacts with uncharged magnetic force fields. Strong interaction produces effects only in extremely small scale.</p>
+<p style="text-align: justify;">Particles which interact by the strong interaction, like baryons, are called <em>hadrons</em>. Baryons are both hadrons and fermions (such as protons and neutrons, made of three quarks), and <em>mesons</em> are those, which are bosons as well (such as pions, made of one quark and one antiquark).</p>
+<p style="text-align: justify;">Particles that do not interact by the strong interaction are called <em>leptons</em>.</p>
+<p>[caption id="attachment_659" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/06/grouping.jpg"><img class="size-medium wp-image-659" src="{{ site.baseurl }}/assets/grouping-300x102.jpg" alt="Classification of the Standard Model particles" width="300" height="102" /></a> Figure 2: Classification of the Standard Model particles[/caption]</p>
+<h1 style="text-align: justify;">Symmetries</h1>
+<p style="text-align: justify;">The Standard Model is based on quantum field theories in which the certain degrees of freedom of the physical space can be chosen independently at various points in the geometric space. These kind of theories are called <em>gauge theories</em> and the symmetry, which comes from the freely chosen degrees of freedom, is called <em>gauge symmetry.</em></p>
+<p style="text-align: justify;">The fundamental symmetry of SM is the Strong interaction which is the consequence of SU(3) gauge symmetry. Symmetry means that we can freely choose the degrees of freedom of the three quarks. The degrees of freedom are called <em>colours</em> for the sake of simplicity.</p>
+<p style="text-align: justify;"><span style="line-height: 1.5em;">$latex G = SU(3) \times [SU(2) \times U(1)]$</span></p>
+<p style="text-align: justify;">The symmetry merges the electromagnetic and the weak interactions into the electroweak theory.</p>
+<p style="text-align: justify;">$latex SU(2) \times U(1)$</p>
+<h1 style="text-align: justify;">Particle content</h1>
+<h2 style="text-align: justify;">Antiparticles</h2>
+<p style="text-align: justify;">In the Standard Model every fermion has an <em>antiparticle</em> having the same mass and is of opposite charge. For example, the antiparticle of the electron is the positively charged electron, which is called <em>positron</em>. If an electron encounters a positron, they annihilate into two or three gamma rays by converting their mass entirely into energy.</p>
+<p style="text-align: justify;">The Big Bang should have created as much matter as antimatter. But today, everything we see from the smallest entities on Earth to the largest stellar objects in the Universe are made almost entirely of matter. One of the greatest challenges in physics is to figure out what happened to the antimatter, or why we see matter/antimatter asymmetry.</p>
+<h2 style="text-align: justify;">Quark Model and fermion families</h2>
+<p style="text-align: justify;">The quark model originally was intended to organize the huge number of hadrons that were being discovered starting in the 1950s and continuing through the 1960s.</p>
+<p style="text-align: justify;">Quark model consists of six particles, which are related in pairs, or <em>generations</em>. The lightest and the most stable particles make up the first generation, whereas the heavier and less stable particles belong to the second and third generations. All stable matter in the universe is made from particles that belong to the first generation; any heavier particles quickly decay to the next most stable level. The six quarks are paired in the three generations – the “up quark” and the “down quark” form the first generation, followed by the “charm quark” and “strange quark”, then the “top quark” and “bottom (or beauty) quark”. Quarks also come in three different “colours” and only mix in such ways as to form colourless objects. (Figure 3.)</p>
+<p style="text-align: justify;">The quark model in its modern form was developed by Murray Gell-Mann and Kazuhiko Nishijima. Gell-Mann received the Nobel prize for his work in 1969 [9].</p>
+<p style="text-align: justify;">The next step from Quark Model towards the SM was the GIM–mechanism, which was named after Glashow, Iliopoulos, and Maiani. The fermions were organized in three fermion families by them. The six leptons are similarly arranged in three generations like the quarks: the “electron” and the “electron neutrino”, the “muon” and the “muon neutrino”, and the “tau” and the “tau neutrino”. The electron, the muon and the tau all have an electric charge and a sizeable mass, whereas the neutrinos are electrically neutral and have very little mass.</p>
+<p>[caption id="attachment_662" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/06/fermionfamilies.jpg"><img class="size-medium wp-image-662" src="{{ site.baseurl }}/assets/fermionfamilies-300x203.jpg" alt="Fermion generations: ordinary(I), exotic(II) and very exotic(III)" width="300" height="203" /></a> Figure 3: Fermion generations: ordinary(I), exotic(II) and very exotic(III)[/caption]</p>
+<h1 style="text-align: justify;">Interactions</h1>
+<p style="text-align: justify;">According to the SM the interactions came from the local symmetries and they are carried by bosons. These bosons not only exist as carriers, but as free, elementary particles as well. They can be observed experimentally too [12].</p>
+<h2 style="text-align: justify;">Electroweak interaction</h2>
+<p style="text-align: justify;">The particle that carries the electromagnetic interaction is called photon. Particles interact weakly through the exchange of W or Z bosons — the carriers of the weak force. For example, when a neutron decays into a proton, a W boson is responsible. When a neutron captures a neutrino, a W boson mediated.</p>
+<h2 style="text-align: justify;">Strong interaction</h2>
+<p style="text-align: justify;">The model used to describe the interaction of coloured particles through the exchange of gluons is known as quantum chromodynamics (QCD). The force between quarks is called the colour force.</p>
+<p style="text-align: justify;">While quarks have color, the particles that they make up are colorless. The red, blue, and green quarks present in every particle come together to make a colorless particle. A meson is composed of a color quark and an anticolor antiquark, thus canceling the colors out.</p>
+<p>[caption id="attachment_663" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/06/colors.jpg"><img class="size-medium wp-image-663" src="{{ site.baseurl }}/assets/colors-300x204.jpg" alt="The colorless combination using the color charges (G is the gluon field)" width="300" height="204" /></a> Figure 5: The colorless combination using the color charges (G is the gluon field)[/caption]</p>
+<p style="text-align: justify;">It is called the the strong interaction since it results in forces in the nucleus that are stronger than the electromagnetic force. Without the strong force, every nucleus would blow itself to smithereens.</p>
+<h1 style="text-align: justify;">Imperfections of the Standard Model</h1>
+<h2 style="text-align: justify;">Phenomena not explained</h2>
+<p style="text-align: justify;">The Standard Model is inherently an incomplete theory. There are fundamental physical phenomena in nature that the Standard Model does not perfectly explain:</p>
+<h3 style="text-align: justify;">Gravity</h3>
+<p style="text-align: justify;">One of the most important phenomena that the Standard Model does not explain is gravity. One approach to solve this problem is to simply add a new particle "graviton" to the Standard Model. However this solution does not recreate what is observed experimentally.</p>
+<p style="text-align: justify;">Moreover, the Standard Model is widely considered to be incompatible with general relativity, which is the most successful theory of gravity to date.</p>
+<h3 style="text-align: justify;">Dark matter and dark energy</h3>
+<p style="text-align: justify;">Cosmological observations quantified the SM explains about 4% of the energy present in the universe.</p>
+<p style="text-align: justify;">About 27% that is considered to be dark matter, would behave just like other matter, but it only interacts weakly with the standard model fields. Yet, the Standard Model does not supply any fundamental particles that are good dark matter candidates [13].</p>
+<p>[caption id="attachment_664" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/06/universe.jpg"><img class="size-medium wp-image-664" src="{{ site.baseurl }}/assets/universe-300x178.jpg" alt="Composition of the Universe" width="300" height="178" /></a> Figure 6: Composition of the Universe[/caption]</p>
+<p style="text-align: justify;">The rest should be dark energy, a constant energy density of the vacuum. Attempts to explain dark energy in terms of vacuum energy of the Standard Model lead to a mismatch of 120 orders of magnitude.</p>
+<h3 style="text-align: justify;">Neutrino masses</h3>
+<p style="text-align: justify;">According to the Standard Model, neutrinos are massless particles. However, neutrino oscillation experiments have shown that neutrinos do have mass. Mass terms for the neutrinos can be added to the Standard Model by hand, but these lead to new theoretical problems. For example, the mass terms need to be extraordinarily small and it is not clear if the neutrino masses would arise in the same way that the masses of other fundamental particles do in the Standard Model.</p>
+<h3 style="text-align: justify;">Matter/antimatter asymmetry</h3>
+<p style="text-align: justify;">The universe is made mostly out of matter. However, the Standard Model predicts that matter and anti-matter should have been created in (almost) equal amounts if the initial conditions of the universe did not involve disproportionate matter relative to antimatter. Yet, no mechanism sufficient to explain this asymmetry exists in the Standard Model.</p>
+<h2 style="text-align: justify;">Experimental results not explained</h2>
+<p style="text-align: justify;">No experimental result is widely accepted as contradicting the Standard Model at a level that definitively contradicts it at the "five sigma" (i.e. five standard deviations). This level is widely considered to be the threshold of a "discovery" in particle physics.</p>
+<p style="text-align: justify;">Every experiment contains some degree of statistical and systematic uncertainty, and the theoretical predictions themselves are also almost never calculated exactly.</p>
+<p style="text-align: justify;">In either case, the physicists' goal is to determine if a result is a mere statistical or experimental error. But on the one hand, it could be the sign of new physics.</p>
+<p style="text-align: justify;">One of the most notable examples is the following:</p>
+<p style="text-align: justify;">Muonic Hydrogen in the Standard Model makes precise theoretical predictions regarding the atomic radius size of ordinary hydrogen (a proton-electron system) and muonic hydrogen (a proton-muon system in which a muon is a "heavy" variant of an electron). But the measured atomic radius of muonic hydrogen differs significantly from the predicted radius using existing physical constant measurements by what appears to be as many as seven standard deviations. [11]</p>
+<h1 style="text-align: justify;">Conclusions</h1>
+<p style="text-align: justify;">The accuracy of the Standard Model is proved by several experimental observations. One of most important achievements of the SM is that it could predict the mass of the W and Z bosons. For the experimental results C. Rubbia and S. van der Meer were awarded with the Nobel prize in 1984. [13] The Standard Model was created more than 30 years ago and since then all of its predictions were completely right. With the discovery of the Higgs boson the SM was roughly completed. As a result of it, P. Higgs and F. Englert were rewarded with the Nobel Prize in 2013 [14]. On Figure 7, we can see a Higgs boson. Although, the SM is not totally perfect, the possibility for a more precise theory is still open, for which the conditions are better than ever.</p>
+<p>[caption id="attachment_665" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/06/higgs.jpg"><img class="size-medium wp-image-665" src="{{ site.baseurl }}/assets/higgs-300x204.jpg" alt="A Higgs event in the Compact Muon Solenoid at the LHC" width="300" height="204" /></a> Figure 7: A Higgs event in the Compact Muon Solenoid at the LHC[/caption]</p>
+<p style="text-align: justify;">After all the table which shows all the properties of the Standard Model is shown in Figure 8., where we can see the mass, the charge, the spin and the types of the elementary particles.</p>
+<p>[caption id="attachment_666" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/06/sm.jpg"><img class="size-medium wp-image-666" src="{{ site.baseurl }}/assets/sm-300x225.jpg" alt="The Standard Model of Particle Physics" width="300" height="225" /></a> Figure 8: The Standard Model of Particle Physics[/caption]</p>
+<h1 style="text-align: justify;">References</h1>
+</div>
+<div>
+<p style="text-align: justify;">[1] <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1979/">http://www.nobelprize.org/nobel_prizes/physics/laureates/1979/</a></p>
+<p style="text-align: justify;">[2] <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/2004/">http://www.nobelprize.org/nobel_prizes/physics/laureates/2004/</a></p>
+<p style="text-align: justify;">[3] R. Oerter, ”The Theory of Almost Everything- The Standard Model, the Unsung Triumph of Modern Physics” Penguin Group p. 191. (2006) ISBN 0-13-236678-9</p>
+<p style="text-align: justify;">[4] F. Englert and R. Brout, Broken Symmetry and the Mass of Gauge Vector Mesons”, Phys.Rev.Lett. 3 (1964) pp. 321-323</p>
+<p style="text-align: justify;"><span style="line-height: 1.5em;">[5] CMS Collaboration, ”Observation of a new boson at a mass of 125 GeV with the CMS experiment </span><span style="line-height: 1.5em;">at the LHC” Phys. Lett. B 716 (2012) pp. 3061</span></p>
+<p style="text-align: justify;"><span style="line-height: 1.5em;">[6] ATLAS Collaboration, ”Observation of a new particle in the search for the Standard Model Higg </span><span style="line-height: 1.5em;">boson with the ATLAS detector at the LHC” Phys. Lett. B 716 (2012) pp. 129</span></p>
+<p style="text-align: justify;"><span style="line-height: 1.5em;">[7] D. Horvath, ”Twenty Years of Searching for the Higgs Boson: Exclusion at LEP, Discovery at </span><span style="line-height: 1.5em;">LHC”, Mod. Phys. Lett. A, 29, (2014) [20 pages] DOI: 10.1142/S0217732314300043</span></p>
+<p style="text-align: justify;"><span style="line-height: 1.5em;">[8] New results of ATLAS and CMS, see <a href="http://cms.web.cern.ch/org/cms-public">http://cms.web.cern.ch/org/cms-public </a> and </span><a href="http://atlas.ch/"><span style="line-height: 1.5em;">http://atlas.ch/</span></a></p>
+<p style="text-align: justify;">[9] <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1969/">http://www.nobelprize.org/nobel_prizes/physics/laureates/1969/</a></p>
+<p style="text-align: justify;">[10] E.J. Copeland, M. Sami and S. Tsujikawa, ”Dynamics of dark energy”, International Journal of Modern Physics. p. 12. (2006)</p>
+<p style="text-align: justify;">[11] R. Pohl, R. Gilman, G. A. Miller, K. Pachucki, ”Muonic hydrogen and the proton radius puzzle”, Rev. Nucl. Part. Sci. 63 (2013). 60 pages</p>
+<p style="text-align: justify;">[12] S. Braibant, G. Giacomelli, M. Spurio, ”Particles and Fundamental Interactions: An Introduction to Particle Physics.” Springer. pp. 313314. (2009) ISBN 978-94-007-2463-1</p>
+<p style="text-align: justify;">[13] <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/1984/">http://www.nobelprize.org/nobel_prizes/physics/laureates/1984/</a></p>
+<p style="text-align: justify;">[14] <a href="http://www.nobelprize.org/nobel_prizes/physics/laureates/2013/">http://www.nobelprize.org/nobel_prizes/physics/laureates/2013/</a></p>
+</div>
+</div>

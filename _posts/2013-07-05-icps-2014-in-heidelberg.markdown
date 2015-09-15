@@ -1,0 +1,61 @@
+---
+layout: post
+title: ICPS 2014 in Heidelberg
+date: 2013-07-05 19:10:07.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Event
+tags:
+- '2014'
+- DPG
+- Germany
+- Heidelberg
+- ICPS
+- ICPS 2014
+- International Conference for Physic
+- jDPG
+- Karlsruhe Institute of Technology
+- KIT
+- Young German Physical Society
+meta:
+  _edit_last: '1'
+  _thumbnail_id: '288'
+  _wpas_done_all: '1'
+  _wpas_skip_2192546: '1'
+  _yoast_wpseo_linkdex: '81'
+  _yoast_wpseo_metadesc: Every year in August up to 450 physics students from all
+    over the world meet to attend the International Conference of Physics Students
+    (ICPS 2014).
+  _yoast_wpseo_title: ICPS 2014 in Heidelberg - jIAPS
+  _yoast_wpseo_focuskw: ICPS 2014
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441422491;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:770;}i:1;a:1:{s:2:"id";i:879;}i:2;a:1:{s:2:"id";i:198;}}}}
+author:
+  login: anna.bakenecker
+  email: bakenecker@jdpg.de
+  display_name: Anna Bakenecker
+  first_name: Anna
+  last_name: Bakenecker
+excerpt: Every year in August up to 450 physics students from all over the world meet
+  to attend the International Conference of Physics Students (ICPS). The ICPS is the
+  main event of the International Association of Physics Students. It is a conference
+  organised for students by students and is hosted in a different country every year.
+  In 2014 it will take place in Heidelberg, Germany.
+---
+<p style="text-align: justify;"><img class="size-single-thumbnail wp-image-284 alignleft" alt="Heidelberg" src="{{ site.baseurl }}/assets/Heidelberg-640x360.jpg" width="640" height="360" /></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;">Every year in August up to 450 physics students from all over the world meet to attend the International Conference of Physics Students (ICPS). The ICPS is the main event of the <a href="http://iaps.info">International Association of Physics Students</a>. It is a conference organised for students by students and is hosted in a different country every year. In 2014 it will take place in Heidelberg, Germany.</p>
+<p style="text-align: justify;">"The main purpose of this event is to offer participants from all over the globe an opportunity to come together, talk about science, studying and academic life, as well as to give them the chance to practice giving presentations", states Peter Micke, chair of the program organising committee. All in all this event is meant for all those Physics students who have also a genuine interest in foreign cultures, meeting new people, building scientific contacts and international friendships as well as developing their professional skills and of course learning from other students.</p>
+<p style="text-align: justify;">The conference will be supported and hosted by the University of Heidelberg. The University of Heidelberg <em>Ruprecht-Karls-Universität</em> is Germany's oldest university and is home of one of Germany's largest physics departments. That is why many research centres evolved around the university. Moreover, the Heidelberg Youth hostel offers convenient on-campus accommodation during the conference. These are not the only reasons why Heidelberg has been chosen to be the right place for the ICPS, knows the chair of the local organising committee Andreas Weiden: "I'm looking forward to welcome 450 international guests from all over the world to my town of study. Heidelberg impresses not only with its touristic attractions but also with its unique research facilities covering all major research areas". Thus, the area provides great opportunities to experience culture and science at the same time.</p>
+<p style="text-align: justify;">The participants of the ICPS 2014 will be able to visit research centres and companies in the vicinity of Heidelberg, such as the Max-Planck-Institutes for Nuclear Physics or Astronomy, the Fraunhofer Institutes in Stuttgart, the GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, the German aerospace centre (DLR) or the chemical company BASF. They also will visit the prestigious research centre Karlsruhe Institute of Technology (KIT) and explore the research facilities. In this way, they can get an impression of various fields of work for physicists.</p>
+<p style="text-align: justify;">"The participant's input is the main focus of the conference. They are encouraged to take ICPS as a unique opportunity to practice giving a talk in front of an international audience or presenting their research during the poster sessions. Furthermore, we are planning workshops, which allow our participants to improve their professional skills", says Peter Micke. The scientific program is complemented by invited talks given by world's leading scientists and tours of the University's laboratories.</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2013/07/organizers_1.jpg"><img class="alignright size-single-thumbnail wp-image-287" alt="organizers_1" src="{{ site.baseurl }}/assets/organizers_1-640x360.jpg" width="640" height="360" /></a></p>
+<p style="text-align: justify;">The aspect of mixing cultures and bringing students together will be at least as important as the professional exchange and the scientific excursions. There will also be numerous social events such as stage shows and different kinds of celebrations. Thus, there will be plenty of opportunities to get to know each other and have inspiring conversations. In this way, up to 450 students will get together and realize that they are one big community. "That is why we highly encourage you to participate in the ICPS 2014 in Heidelberg from August 10th to August 17th", the organisers are looking forward to seeing you.</p>
+<h1 style="text-align: justify;">The Organisers</h1>
+<p style="text-align: justify;">25 members of the Young German Physical Society (jDPG) put heads together to organise the ICPS 2014. The jDPG is a section of the German Physical Society (DPG) which has about 62,000 members and represents Germany's physical community. It consists of 30 regional groups spread throughout the whole country. This nationwide network allows organisers from twelve different cities to cooperate.</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2013/07/Kickoff_Meeting.jpg"><img class="aligncenter size-single-thumbnail wp-image-285" alt="Kickoff_Meeting" src="{{ site.baseurl }}/assets/Kickoff_Meeting-640x360.jpg" width="640" height="360" /></a></p>
+<p style="text-align: justify;">Apart from the planning of the next ICPS the active members of the jDPG have experience in organising congresses, workshops, seminars, excursions, networking events, providing a mentoring program or publishing a magazine for high school students. The jDPG has 1,500 members and its program is addressed to about 30,000 German physics students. "With our program and nationwide network we bring physics students together with the goal of showing high school students, students and graduates modern physics beside every day's lecture room", says Anna Bakenecker, chairwoman of the jDPG.</p>
+<p style="text-align: justify;">Another task of the jDPG is to represent Germany's physics students in academic political aspects. It has a representative in DPG's executive board and council, which give recommendations concerning the physics high school curriculum and decide about national and international cooperation partners.</p>
+<p style="text-align: justify;">Furthermore, the jDPG closely works together with the national organisation of student councils. They send a representative to the conference of all physics departments in Germany, which decides about the university curriculum.</p>
+<p style="text-align: justify;">Since internationality becomes more and more important, also relations beyond German borders are an increasing part of jDPG's efforts. Matthias Zimmermann, jDPG board member for international relations, emphasises: "Our members benefit from our international contacts to find internships or research projects abroad".</p>

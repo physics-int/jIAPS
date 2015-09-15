@@ -1,0 +1,77 @@
+---
+layout: post
+title: A survival guide to Geneva
+date: 2013-07-04 16:14:12.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Event
+tags:
+- '2012'
+- cern
+- geneve
+- survival guide
+- swizerland
+meta:
+  _edit_last: '1'
+  _wpas_done_all: '1'
+  _thumbnail_id: '221'
+  _wpas_skip_2192546: '1'
+  _yoast_wpseo_focuskw: geneva
+  _yoast_wpseo_title: A survival guide to Geneva - jIAPS
+  _yoast_wpseo_metadesc: This year I helped organise the iaps2cern trip, 46 students
+    of IAPS gathered in Geneva to see for themselves what all the fuss about this
+    research centre.
+  _yoast_wpseo_linkdex: '80'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442242232;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:915;}i:1;a:1:{s:2:"id";i:977;}i:2;a:1:{s:2:"id";i:987;}}}}
+author:
+  login: antondudko
+  email: anton.dudko.ukraine@gmail.com
+  display_name: Anton Dudko
+  first_name: Anton
+  last_name: Dudko
+excerpt: 'This year I helped organise the iaps2cern trip: on 2 - 5 April 2013, 46
+  students of IAPS gathered in Geneva, Switzerland to see for themselves what all
+  the fuss about this research centre is for. It is already for several consecutive
+  years that IAPS takes a group of students for a 2-3 days study visit to the CERN,
+  and most of us know about this project and the trip has already been on the pages
+  of jIAPS before. But this time I will give a view on it from a bit different angle.'
+---
+<p dir="ltr" style="text-align: justify;">This year I helped organise the <strong>iaps2cern</strong> trip: on 2 - 5 April 2013, 46 students of IAPS gathered in Geneva, Switzerland to see for themselves what all the fuss about this research centre is for. It is already for several consecutive years that IAPS takes a group of students for a 2-3 days study visit to the CERN, and most of us know about this project and the trip has already been on the pages of jIAPS before. But this time I will give a view on it from a bit different angle.</p>
+<p dir="ltr" style="text-align: justify;">For me, the trip was something different also because I saw it as both as a first-time participant and as an organiser. Just upon becoming a "fresh" IAPS EC member, I gladly got my hands on helping with the technical jobs, recording applications, tweaking google spreadsheets and even calling some lucky people on Skype.</p>
+<p dir="ltr" style="text-align: justify;">In my article you will not read a lot about the micro-particles colliding, about the Higgs Boson, and the Physics Mecca of Europe, because it's better to visit once than to read a dozen times. But instead I will gladly give you my account of this trip - rather a travelog or the entourage - of what this visit was for me. A number of snippets in mind that glue together in a weird way - this is how my brain stored these memories. Here they go.</p>
+<p dir="ltr" style="text-align: justify;"><!--more--></p>
+<h1 style="text-align: justify;">The visa</h1>
+<p style="text-align: justify;">"A visa is a large stamp that you get onto your passport from an embassy of a different country and it allows you to go to that country" - these are the words that Sahra had to write back to one German applicant, because he didn’t know what he was being asked about. It's nice to realise that in some countries people are not even aware of what a visa is. But not in Ukraine. For some, going on a trip to Switzerland is only a question of buying a ticket, but for others, it might be a major event in life and a chance to get out abroad.</p>
+<p style="text-align: justify;">For me, in managing the iaps2cern project, preparing visa invitation letters was one of the most fun parts, because I could do something that I myself can appreciate so much. And for me, the trip already began not on 2 April in Geneva airport or something, but rather in February, in the Swiss Embassy in Kyiv. Not that I'm complaining here, I just found it amusing that in order to facilitate this visit to CERN and to go to one of the most fancy cities in the world, I had to spend a couple of hours outdoors on a snowy below-zero morning waiting in line on the porch of the Ambassade de Suisse.</p>
+<p style="text-align: justify;"><strong>Morality</strong>: Some applicants dropped out only because they couldn't get their visas on time. Apply early!</p>
+<h1 style="text-align: justify;">The French language</h1>
+<p style="text-align: justify;">I like <a href="http://en.wikipedia.org/wiki/Vagrancy_(people)">vagabonding</a>. Although the visit was to start on Tuesday, I flew in on Sunday, and spent couple more days to vagabond around Geneva and, like I often do, I stayed via CouchSurfing. My host Connor - who happens to be an American who moved to Geneva to study - told me that he speaks decent French, but "if your French is not perfect, people will answer you back in English. The Genevois will speak among themselves in French, but it's not a place to practice if you're a foreigner". "<strong>Challenge accepted!</strong>" thought I, and from then on, I addressed people in the modest extent of my French whenever I had a chance. Some of them still did answer me in French. That felt good.</p>
+<p style="text-align: justify;"><strong>Morality</strong>: speaking the language gives you another pair of eyes when you travel. Pick some up.</p>
+<h1 style="text-align: justify;">The bus to France</h1>
+<p style="text-align: justify;">It was not until I got to writing the invitation letters that I opened a Google map and found Geneva on it. I tried to find the address of our youth hostel, a LIDL store, a post office, and roam around the Lake with the tip of my cursor and the street-view. Only then did I realise that the Geneva city is surrounded by France just as badly as my body is surrounded with mosquitoes on any summer night I choose to spend near a lake in Ukraine. So, for example. Connor, with whom I spent the weekend, in fact studies in Geneva, but lives in France: he commutes using "le bus F", where "F" actually stands (or not) for Ferney-Voltaire, France. For a Ukrainian, for whom the concept of a state border is something to do with passport check, an emotionless officer staring into your mug and going through your backpack, it can be a shock. "Only your ticket is no longer valid" - he pointed at my black-and-white slip from the bus machine - "once we cross the Swiss-French customs, it's another transport zone. That's why I usually get out here and just walk the remaining 5 minutes home". Oh OK.</p>
+<p style="text-align: justify;"><strong>Morality</strong>: people from Geneva go to France to shop, because groceries cost about half cheaper than in the city. The same is true about the rent.</p>
+<h1 style="text-align: justify;">The Belarusian woman</h1>
+<p dir="ltr" style="text-align: justify;">My first day, as I was again boarding a bus "from France to Geneva", I heard some Russian being spoken on the bus stop - somewhere in Ferney-Voltaire, the middle of nowhere. Moments like these I always look on myself, my clothes and stuff to see if there is anything that could give away that I speak Russian too. Apparently, I was OK wearing the "Deutschland" scarf that day, because the two Russian-speaking ladies who entered the bus with me addressed me in English, when I was absent-mindedly messing with the ticket machine. I changed my mind and confessed (in Russian) that I understand them and I'm from Kyiv, and voilà - I already held another shiny 3.50 CHF ticket in my hand for free from their wallets, still absent-mindedly. I soon learned that they are from Belarus and Moldova, as well as a decent chunk of their life stories in an expat land. When we got to the Gare Cornavin, the Belarusian lady Viktoria (in her late thirties) told me that "Well, I need to go back to my boyfriend in Lausanne, and there is a train in half an hour, but it's such a rush... and I don't like rush... I like to take things easy. Hey, are you busy now?". That was very challenging for me to understand why she would prefer taking another train (which was two hours later) instead, and filling her time by taking me to a Rue de Mont-Blanc cafe to treat me to a two glasses of vin rosé and talk about life. To me with my impetus and the feeling that I'm being useless if I've been sitting on my butt for another 10 minutes, it was strange, but I didn't mind, wondering if this is the true Geneva lifestyle, and how I should try to go with the flow and take it easy. Although totally random, the Belarusian woman with her wine will always remain "my first day in Geneva" memory.</p>
+<p dir="ltr" style="text-align: justify;"><strong>Morality</strong>: I heard Russian being spoken in Geneva too often. Couple weeks later, on my 21st birthday, I gave up drinking.</p>
+<h1 dir="ltr" style="text-align: justify;">The hostel</h1>
+<p style="text-align: justify;">In the Auberge de Jeunesse Genève, they had our booking of 46 people under the name of "International Association of Physics Students", but probably there is a char limit on a string in their computer, so it showed as just "<strong>International Association</strong>". For some reason, that boosted self-esteem and respectability of a usual student like me so much. "Yes, International Association? That's me".</p>
+<p style="text-align: justify;">Also, there is a cooking-dining-hangout area in the hostel - downstairs from the conference rooms. And don't worry that it says on the door that it closes at 22:00.</p>
+<p style="text-align: justify;"><strong>Morality</strong>: the Wi-Fi in the hostel is OK.</p>
+<h1 style="text-align: justify;">The pizza</h1>
+<p style="text-align: justify;">The fact that we at iaps2cern don't organise group meals for lunch and dinner, urged everybody to go out hunting for their own food in the afternoon. In this trade, Couchsurfing is very valuable in getting information as well. I'm wondering at this point, to which extent I'm appearing to fellow Europeans as a poor Ukrainian student dirtbag whose monthly scholarship is 90 EUR, but I thought that this piece of advice might be useful for some readers.</p>
+<p style="text-align: justify;">"Man, Geneva is expensive. In downtown Geneva, you can find some cheap kebab places, of course. But by saying "cheap" I mean "be ready to pay at least 10 CHF for a kebab". But I'll show you one life-hack" - Connor told us on the second day. There, in that orange shop on the corner, where the "PIZZA" sign lights up at about 6 PM, they start serving pizza that costs 10 CHF. They put whatever you want on it and as much as you want, but it will always cost exactly 10 CHF. Even though they are not allowed to serve it late, they do, and after midnight - even from the backyard of their shop. And yeah, they're super-friendly. If I'm wasted and I'm eating pizza - I know where I am."</p>
+<p style="text-align: justify;">So that pizza place was where we got our dinners for three days in a row - and they were extra generous with olive oil and cheese on it. The pizza, I will remember as a symbol of surviving in the night city.</p>
+<p style="text-align: justify;"><strong>Morality</strong>: hunger is a bitch. You better find those cheap eating places in advance.</p>
+<p dir="ltr" style="text-align: justify;">=====</p>
+<p dir="ltr" style="text-align: justify;">Apart from the nonsense described in this article, the iaps2cern trip is also highlighted by visits to the United Nations office, to the Natural History Museum, the Botanical Gardens of Geneva, and plenty of exploration of the Old Town. They were just too perfect and trash-free to be interesting to describe in this travelog.</p>
+<p style="text-align: justify;">Yes, CERN was still there if you didn't forget what the article is about. "The feeling of being a small, stupid student, in the middle of this big Dome of Physics" is how my friend Anatolii described it to me when the first visited the CERN with IAPS in 2012. Obviously, it is a very decent chance to learn why the magnets are so big and why there are so many computers in their labs. Just hear what some of our participant say:</p>
+<p dir="ltr" style="text-align: justify;">=====</p>
+<p dir="ltr" style="text-align: justify;">“The CERN trip has allowed me to discover the world of IAPS and the existence of a network of Physics students around the world. Not only this journey gave me the opportunity to see with my own eyes one of the greatest technological and scientific achievements of the human kind, it also allowed me to meet fantastic people with similar interests and different backgrounds. It was great to be part of it and, since then, I am following the activities of IAPS with much more attention. I also hope to spread knowledge about these at Imperial, hoping that they will benefit others as they did to me.”</p>
+<p dir="ltr" style="text-align: justify;">Francesco Sciortino, <em>Imperial College London, </em>UK</p>
+<p dir="ltr" style="text-align: justify;">“iaps2cern 2013 was just great. The best moment? Going 100 m below the surface to see the CMS detector. This huge construction consisting of so much technology was definitely one of the most impressive things I've seen in my life!”</p>
+<p dir="ltr" style="text-align: justify;">Lukas Jablonka, <em>University of Kassel, </em>Germany</p>
+<p dir="ltr" style="text-align: justify;">=====</p>
+<h1 dir="ltr" style="text-align: justify;">The hat</h1>
+<p dir="ltr" style="text-align: justify;">It was our last day of the visit at CERN, just after lunch, when my friend Stas went, rummaging in his pockets, "Shit! I lost my hat". That bright olive-green hat with red and yellow stripes, once purchased on a flohmarkt in Kehl for 7 EUR, it meant much more to him than the Higgs Boson and all the other particles on that particular day. We went to the reception, to the gift shop, then sneaked our way again to the cafeteria, asking everybody in the best of our English and French about the "chapeau perdu", but it was not there to be found. We didn't even mind going for another extra tram trip to CERN the next day - to walk up to the reception and check once more, but alas. The sir at the desk told us, though, that one day Stas’ hat would turn up for sure. He said: "We're at the LHC, you know: everything is going in circles here".</p>

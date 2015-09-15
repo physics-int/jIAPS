@@ -1,0 +1,99 @@
+---
+layout: post
+title: 'The asymmetry of time and the thermodynamic arrow: towards a cosmic egg cosmology?'
+date: 2014-03-21 18:58:22.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+- Article
+tags:
+- entropy
+- second law of thermodynamics
+- time
+- topology of time
+meta:
+  _edit_last: '9'
+  _yoast_wpseo_focuskw: asymmetry of time
+  _yoast_wpseo_title: The asymmetry of time and the thermodynamic arrow - jIAPS
+  _yoast_wpseo_metadesc: '''It seems to me, therefore, that consciousness with its
+    insistence on time''s arrow and its rather erratic ideas of time measurement may
+    be guided by entropy-clocks in some portion of the brain… Entropy gradient is
+    then the direct equivalent of the time of consciousness in both its aspects.'''
+  _yoast_wpseo_linkdex: '71'
+  _wpas_done_all: '1'
+  _thumbnail_id: '483'
+  _wpas_skip_2192546: '1'
+  _yoast_wpseo_opengraph-image: http://jiaps.org/wp-content/uploads/2014/03/1512538_677990548890855_1575637258_n.jpg
+  _wpcom_is_markdown: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442011082;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:417;}i:1;a:1:{s:2:"id";i:678;}i:2;a:1:{s:2:"id";i:7;}}}}
+author:
+  login: annafava
+  email: anna.fava.13@um.edu.mt
+  display_name: Anna Fava
+  first_name: Anna
+  last_name: Fava
+excerpt: With the recognition of the general theory of relativity, the Newtonian edifice
+  of a mechanical world collapsed to yield the curved geometry of space-time. The
+  synthesis of space and time as one construct was the concoction of the phenomenological
+  perspective of time in accordance with the zeitgeist. The understanding of time
+  came to be perceived as internal, an intimate model, not an absolute external synchronous
+  ticking clock for all the universe. Humans exist as temporality, and human essence
+  is most fundamentally a temporality.
+---
+<blockquote>'The rule is, jam tomorrow and jam yesterday - but never jam today.'</p>
+<p>'It must come sometimes to jam today,' Alice objected.</p>
+<p>'No, it can't,' said the Queen. 'It's jam every other day: today isn't any other day, you know.'</p>
+<p>'I don't understand you,' said Alice. 'It's dreadfully confusing!'</p>
+<p>'That's the effect of living backwards,' the Queen said kindly: 'it always makes one a little giddy at first -'</p>
+<p>'Living backwards!' Alice repeated in great astonishment. 'I never heard of such a thing!'</p>
+<p>'- but there's one great advantage in it, that one's memory works both ways.'</p>
+<p>'I'm sure mine only works one way,' Alice remarked. 'I can't remember things before they happen.'</p>
+<p>'It's a poor sort of memory that only works backwards,' the Queen remarked.</p>
+<p>[<i>Through the Looking-Glass and what Alice found there</i>, Lewis Carroll]</p></blockquote>
+<h1>Vorstellung: Being and Time</h1>
+<blockquote>
+<p style="text-align: justify">Space and Time constitute the horizon within which any object must be encountered, and so in a certain sense necessarily accompany every such entity; but they are not themselves encounterable as objects of experience and neither they are separable components of it.</p>
+<p style="text-align: justify">[<i>Being and Time</i>, Martin Heidegger]</p>
+</blockquote>
+<p style="text-align: justify">With the recognition of the general theory of relativity, the Newtonian edifice of a mechanical world collapsed to yield the curved geometry of space-time. The synthesis of space and time as one construct was the concoction of the phenomenological perspective of time in accordance with the zeitgeist. The understanding of time came to be perceived as internal, an intimate model, not an absolute external synchronous ticking clock for all the universe. Humans exist as temporality, and human essence is most fundamentally a temporality.</p>
+<p style="text-align: justify">Eddington describes time as a drifting flow with a chronological order of events embedded in the fabric of the real world, the '<i>going on of time</i> is not in Minkowski's world as it stands. My own feeling is that the <i>becoming</i> is really there in the physical world, but is not formulated in the description of it in classical physics (and is, in fact, useless to a scheme of laws which is fully deterministic).'</p>
+<p style="text-align: justify">Is not the feeling of the passage of time an impression, a sensation? One cannot devise a scientific investigation which would be any more convincing than a simple introspective judgement, held by the common view, which arose mostly out of the philosophy of Kant and later, Mach. The scientific community at large holds that the experience of time is due to stimuli from the external world, in very much the same manner as the perception of light. Explicitly, a change in entropy stimulates the experience of time succession.</p>
+<h1>On the ground of spheres of consciousness: the topology of time</h1>
+<blockquote>
+<p style="text-align: justify">It seems to me, therefore, that consciousness with its insistence on time's arrow and its rather erratic ideas of time measurement may be guided by entropy-clocks in some portion of the brain… Entropy gradient is then the direct equivalent of the time of consciousness in both its aspects.</p>
+<p style="text-align: justify">[<i>The Nature of the Physical World</i>, Arthur Eddington]</p>
+</blockquote>
+<p style="text-align: justify">Along the centuries, there have been several ideas depicting time. In the Western world, there is a tendency to describe time as unfolding linearly, chronologically perhaps, as contrasted with the cyclic pulsating model coherent with the oriental idea of eternal return. One may ponder upon the possibility of time consisting of multiple time streams, each one of which is isolated from each other, so that every moment of time stands in temporal relations to other moments in its own time stream, but does not bear any temporal relations to any moment from another time stream. Likewise one can ask whether time could perhaps correspond to a branching line, a closed loop, or to a discontinuous line and whether is it best viewed as discrete or as if in a continuum. One may wonder whether one of the two directions of time is in some way privileged, in a way that makes time itself asymmetrical.</p>
+<p style="text-align: justify">If one establishes time to be an experience in the human mind, does that lead to the corollary that the notion of the time's arrow would simply be a delinquency of language stemming from a <i>European</i> culture? Is self-referentiality at the heart of what is seemingly a self-contradiction, a paradox?</p>
+<p style="text-align: justify">The answer is no. The thermodynamic asymmetry is an asymmetry of physical processes in time, not an asymmetry of time itself. The logical inconsistency stems from the apparent conjugation of two facts: phenomena in the natural world display a striking temporal bias, they are common in the <i>forward</i> temporal orientation, but rare or non-existent <i>backward</i>. Yet the underlying laws of mechanics express no such temporal preference, for a process occurring in one direction, its temporal mirror image is permitted. Hence the puzzle: if the laws are so even-handed, why are the phenomena themselves so one-sided?</p>
+<h1 style="text-align: justify">The riddle explained</h1>
+<blockquote>
+<p style="text-align: justify">Here we are, trapped in the amber of the moment. There is no why.</p>
+<p style="text-align: justify">[<i>Slaughterhouse-Five, or The Children's Crusade</i>, Kurt Vonnegut]</p>
+</blockquote>
+<p style="text-align: justify">One might be inclined to complain that dynamical laws are not time-symmetric, since they are violated in weak interactions by the neutral K meson. But if the thermodynamic time asymmetry was linked with T-symmetry violation by the K meson particle, then anti-matter would exhibit the contrary of thermodynamic asymmetry. Had there been physicists in anti-matter galaxies, they would have discovered the opposite violations of time symmetry in weak interactions to those observed in our galaxy. Yet a paradox would arise since anti-matter is not thought to behave anti-thermodynamically; but what would happen in the curious case of particles which are their own anti-particles, such as photons? In other words, the thermodynamic arrow does not only concern time asymmetry, but also PCT asymmetry as well.</p>
+<p style="text-align: justify">The characteristic of time asymmetry is not established only in the microscopic world. In fact, the observed megascopic irreversibility is a consequence of the particular configuration of the universe, specifically, the unusual low entropy conditions of the infant universe. To understand the arrow of time is to comprehend the origin (if there was such an occurrence) of the universe and the distribution of matter. Reconciling the microscopic reversibility with macroscopic irreversibility is perhaps best embodied in the profound formula <i>S = k log(W)</i>, where <i>Ѕ</i> stands for entropy, <i>k</i> is a constant of nature which carries Boltzmann's name and <i>log W</i> is the algorithm of a microscopic probabilistic quantity <i>W</i> - for an isolated system (say a gas), this would refer to the number of ways the locations and velocities of the individual particles can be arranged. The gist of Boltzmann's unidirectional character of all occurrences would result from statistical considerations. However, Boltzmann had to introduce molecular chaos (<i>stosszahlansatz</i>) in his proof of the H-theorem, a consequence of which was the arrow of time. Hence the mystery concerning time's arrow can partly be justified by resolving the source of such molecular chaos.</p>
+<p style="text-align: justify">The arrow of time seems to crop up in several branches of physics; Penrose identifies 7 arrows of time, which however seem to be the same one disguised in distinct cloaks.</p>
+<h1>Space and time fusion: quantum fluctuations and cosmological implications</h1>
+<blockquote>
+<p style="text-align: justify">The boundary condition of the universe is that it has no boundary.</p>
+<p style="text-align: justify">[<i>A Brief History of Time</i>, Stephen Hawking]</p>
+</blockquote>
+<p style="text-align: justify">The relative distinction between space and time in the macroscopic world is a somewhat misty notion on the Planck scale. If one fancies travelling <i>backward</i> in time towards the big bang, the notion time is transformed into space, so to speak. Thus rather than concerning the origin of space-time, the question should be: what is the geometry of such space? The initial conditions of the universe, upon which the shape of the universe rests, are still vast areas of research, both through astrophysical experimentation and mathematical investigation.</p>
+<p style="text-align: justify">Now, had the universe originated in a singularity of infinite compression (Big Bang), space and time would be distinct entities, which implies the conception of time. However, due to Heisenberg’s uncertainty principle, the time dimension starts to curve gradually around the space direction. The scheme is still bounded below, but it does not extend into the infinite past so that there is no definite singular origin of time. That is to say, time seems to be topologically open, without a first or last instant.</p>
+<p style="text-align: justify">Concerning these theories are numerous counter-arguments and alternative theories that propose a different worldview altogether. Vast research and experimentation is going on to attain some clues as to the apparent anisotropic nature of time. The most currently favoured theory is the growing block universe hypothesis, which regards the flow of time as an illusion constructed in the human mind. But so far the mystery remains an elusive shadow, and ancient Aion laughs menacingly still.</p>
+<h1>Note</h1>
+<p>Perhaps I didn't include a little introduction and conclusion in the spirit of the undefined conception of time and the boundless unknown, in contrast to the mortal finitude of a human lifetime.</p>
+<h1>References</h1>
+<p>[1] Esfeld Michael, <i>Popper on Irreversibility and the Arrow of Time</i> <a href="http://philsci-archive.pitt.edu/2521/1/Esfeld-Popper05.pdf">http://philsci-archive.pitt.edu/2521/1/Esfeld-Popper05.pdf</a></p>
+<p>[2] Price Huw, <i>Time’s Arrow and Eddington’s Challenge</i>, Séminaire Poincaré XV, Le Temps (2010) 115 - 140 <a href="http://www.bourbaphy.fr/price.pdf">http://www.bourbaphy.fr/price.pdf</a></p>
+<p>[3] Heidegger Martin, Being and Time, Harper and Row, Publishers, Incorporated, 1962 <a href="http://www.colorado.edu/philosophy/vstenger/Timeless/TimelessSkeptic.pdf">http://www.colorado.edu/philosophy/vstenger/Timeless/TimelessSkeptic.pdf</a></p>
+<p>[4] Eddington Arthur Stanley, <i>The Nature of the Physical World</i>, Cambridge University Press <a href="http://henry.pha.jhu.edu/Physworld.pdf">http://henry.pha.jhu.edu/Physworld.pdf</a></p>
+<p>[5] Welch Kerri, <i>Physics of Time</i>, Spring 2006 <a href="https://www.academia.edu/3777331/Physics_of_Time">https://www.academia.edu/3777331/Physics_of_Time</a></p>
+<p>[6] Welch Kerri, <i>Human Relationship to Time</i>, May 2005 <a href="https://www.academia.edu/4904757/Human_Relationship_to_Time">https://www.academia.edu/4904757/Human_Relationship_to_Time</a></p>
+<p>[7] Aczel Amir, <i>Einstein’s lost theory describes a universe without a Big Bang</i>, 7<sup>th</sup> March 2014, <i>Discover</i> Magazine <a href="http://blogs.discovermagazine.com/crux/2014/03/07/einsteins-lost-theory-describes-a-universe-without-a-big-bang/#.Ux3-h_ldW_u">http://blogs.discovermagazine.com/crux/2014/03/07/einsteins-lost-theory-describes-a-universe-without-a-big-bang/#.Ux3-h_ldW_u</a></p>
+<p>[8] Callender Craig, <i>Thermodynamic Asymmetry in Time,</i> 2011 <a href="http://plato.stanford.edu/entries/time-thermo/">http://plato.stanford.edu/entries/time-thermo/</a></p>
+<p>[9] Weinert Friedel, <i>The Scientist as Philosopher: philosophical consequences of great scientific discoveries</i>, Springer 2005, ISBN: 3 540 21374 0</p>
+<p>[10] Penrose Roger, <i>Aeons before the Big Bang</i> <a href="http://www.youtube.com/watch?v=4YYWUIxGdl4">http://www.youtube.com/watch?v=4YYWUIxGdl4</a></p>
+<p>[11] Prurient, <i>Time’s Arrow</i> <a href="http://www.youtube.com/watch?v=tDI8Eq4dsz8">http://www.youtube.com/watch?v=tDI8Eq4dsz8</a></p>

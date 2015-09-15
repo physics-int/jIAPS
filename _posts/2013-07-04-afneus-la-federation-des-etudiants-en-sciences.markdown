@@ -1,0 +1,48 @@
+---
+layout: post
+title: AFNEUS - La fédération des étudiants en Sciences
+date: 2013-07-04 22:52:08.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Committee Article
+tags:
+- afneus
+- Association Fédérative Nationale des Étudiants Universitaire Scientifiques
+- france
+- students
+meta:
+  _edit_last: '1'
+  _thumbnail_id: '256'
+  _wpas_done_all: '1'
+  _wpas_skip_2192546: '1'
+  _yoast_wpseo_focuskw: afneus
+  _yoast_wpseo_title: AFNEUS - La fédération des étudiants en Sciences - jIAPS
+  _yoast_wpseo_metadesc: The Association Fédérative Nationale des Étudiants Universitaire
+    Scientifiques (AFNEUS) is an association governed by the law of July 1st, 1901.
+  _yoast_wpseo_linkdex: '86'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1438594777;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:283;}i:1;a:1:{s:2:"id";i:198;}i:2;a:1:{s:2:"id";i:781;}}}}
+author:
+  login: alois.dubois
+  email: president@afneus.org
+  display_name: Aloïs Dubois
+  first_name: Aloïs
+  last_name: Dubois
+---
+<p style="text-align: justify;"><span style="font-size: 13px;">The Association Fédérative Nationale des Étudiants Universitaire Scientifiques (AFNEUS) is an association governed by the law of July 1st, 1901. It aims at representing the science students in the various national and university bodies by means of its associations' members in the respect for their personal freedoms, so extending their values of citizenship, help and solidarity between science students. To reach its purposes, the AFNEUS proposes training to the leaders of associations and to the associative student elected representatives in the various authorities. It continues to develop by participating in many reflections revolving about sciences. Thus since 1999, AFNEUS has been struggling against the disaffection of the scientific studies by participating and by organising national meetings to exchange the reflections. This gave rise to the publication of a first report in 2001 and a second in 2005.</span></p>
+<h1 style="text-align: justify;">Defending students</h1>
+<p style="text-align: justify;">Thanks to its direct or indirect presence in various authorities and its representativeness to the eyes of institutions, the AFNEUS defends the material and moral interests of student associations and science students. Each member association of the AFNEUS can request the help and the support of AFNEUS when itself or the students whom it represents meet a problem. AFNEUS also seeks to promote and support the development of life and associative values in the sciences. It is an arrangement of all the students who look for information or advice, as well as to create an association or to develop an existing association.</p>
+<h1 style="text-align: justify;">Representing students</h1>
+<p style="text-align: justify;">This is one of the most important interests of AFNEUS vis-à-vis its members and students in science in general. Through its participation in the elections CNESER and CNOUS since 1994, as well as its adherence to the FAGE (Federation of General Students Associations), AFNEUS enjoys the status of representative organisation under of the article 13 of the law of July 10th, 1989.</p>
+<p style="text-align: justify;">The member associations of the AFNEUS also benefit from the criterion of representativeness. This one can bring in certain cases an advantage to associations as regards the obtaining of premises, of subsidies or to be represented in certain local bodies such as the CSE (social Commission of establishment). Directly or indirectly, the AFNEUS is present or represented in more than twenty bodies and national governmental organisations.</p>
+<h1 style="text-align: justify;">Scientific thinking</h1>
+<p style="text-align: justify;">Current events concerning the scientific courses evolve very fast. Nobody except AFNEUS has for its mission to present the vision and the proposals of the representative students of this disciplinary sector. Through its meetings and its work, AFNEUS arouses and organises the reflection of the science students. It expresses then at the national level the position of the science students concerning their rights, their homework and their future. By its work, the AFNEUS participates actively, as repeatedly in past, at the elaboration of the reforms concerning the science students. It is particularly true at present with the application of the European harmonisation of diplomas (Licence-Master-Doctorat reform).</p>
+<h1 style="text-align: justify;">Federate the student associations</h1>
+<p style="text-align: justify;">AFNEUS unites associations of science students. As such, its primary role as a federation, is to allow the representatives of its member associations to get to know and meet. It allows to confront the experiences of each, to find new ideas and even a new motivation to go farther. AFNEUS allows its associations to communicate between them and to share their skills. By being an element of sustainability, AFNEUS allows that the ideas, the projects, the experiences are transmitted of city in town to remain finally permanently available.</p>
+<p style="text-align: justify;">The federative will of AFNEUS relies mainly on meetings of the Board meeting that occur several times a year and at the annual congress. By these, AFNEUS seeks to establish links of solidarity between its members and contributes to the esprit de corps between the science students, in other words develop its network. Finally, federate associations of science students answer a logic of structuring of the scientific associative movement to allow it to assure its sustainability by compensating for the problems bound to the fast renewal of managers.</p>
+<h1 style="text-align: justify;">Inform and train the representatives</h1>
+<p style="text-align: justify;">One of the most visible actions of AFNEUS is probably the broadcasting of information and the realisation of trainings as well as with the associative persons as the science students elected representatives. The training is intended for the associative personnel which allows them to better fulfil their responsibilities.</p>
+<p style="text-align: justify;">These formations play an important role in the sustainability of associations. The provided training by AFNEUS corresponds to demand scientific association leaders. The training is intended for the student elected representatives of the councils of UFR and the central advice (CA, CEVU and CS) allow them to better understand and more quickly, the functioning of institutions, councils, and thus provides greater credibility vis-à-vis their interlocutors.</p>
+<p style="text-align: justify;">These trainings thus allow the scientific students elected representatives to represent better and  to defend better the students. AFNEUS will continue its work of representation of the science students, with the ministry and various bodies of reflection and representation regarding training and regarding occupational integration of the science students.</p>
+<p style="text-align: justify;">It will lead an overall policy of training of the associative executives, the student elected representatives and the development of associations to give them the means to establish themselves as major actors of animation of the campus academics and of representation of the students.</p>

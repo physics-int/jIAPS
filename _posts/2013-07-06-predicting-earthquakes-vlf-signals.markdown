@@ -1,0 +1,57 @@
+---
+layout: post
+title: Predicting earthquakes! VLF signals
+date: 2013-07-06 14:19:15.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Article
+tags:
+- earthquakes
+- predicting
+- prediction
+- signal processing
+- VLF
+meta:
+  _edit_last: '1'
+  _wpas_done_all: '1'
+  _thumbnail_id: '321'
+  _wpas_skip_2192546: '1'
+  _yoast_wpseo_linkdex: '82'
+  _yoast_wpseo_focuskw: earthquakes
+  _yoast_wpseo_title: Predicting earthquakes! VLF signals - jIAPS
+  _yoast_wpseo_metadesc: This huge stored energy produces tremendous disturbances
+    affecting the earth's crust by attaining equilibrium through reactions we call
+    earthquakes.
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442089833;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:699;}i:1;a:1:{s:2:"id";i:678;}i:2;a:1:{s:2:"id";i:931;}}}}
+author:
+  login: suresh.pant
+  email: sureshpant@outlook.com
+  display_name: Suresh Pant
+  first_name: Suresh
+  last_name: Pant
+excerpt: Earth’s surface is under slow but continuous movement of tectonic plates
+  due to which collisions, rupturing and micro-fracturing of rocks in the crust occurs.
+  Huge amounts of strain energy is developed as a result of such contraction and stretching
+  of the tectonic plates. This huge stored energy produces tremendous disturbances
+  affecting the earth’s crust that are balanced by attaining equilibrium through reactions
+  we call earthquakes.
+---
+<p style="text-align: justify;">Earth's surface is under slow but continuous movement of tectonic plates due to which collisions, rupturing and micro-fracturing of rocks in the crust occurs. Huge amounts of strain energy is developed as a result of such contraction and stretching of the tectonic plates. This huge stored energy produces tremendous disturbances affecting the earth's crust that are balanced by attaining equilibrium through reactions we call earthquakes.</p>
+<p style="text-align: justify;">Earthquakes have been creating lots of misery almost everywhere. It is one of the natural disasters that cannot be predicted until it happens. More often than not, earthquakes have devastating effects upon property and life so the prediction of earthquakes is very important. Since quakes cannot be prevented, perhaps, the best way to face their attack is to mitigate their adverse effect. The use of quake-resistant structures, that use shockers or lightweight construction materials can be effective, but they are not always affordable for the public at large and many not be able to withstand seismic over 6.5 on the Richter scale. Although this is a proactive approach to the present impossibility of prevention, Greeks, earlier on, used to study the anomalous behaviours of animals like dogs, rats and reptiles to predict earthquakes. Also, scientists in China suggested that there was deviation in the voice bandwidth of parrots just before an earthquake. The presence of radioactivity in the atmosphere due to changes in the level of radon gas due to seismic activity was first monitored in Russia as a possible method of prediction. However, none of these methods could predict earthquake for sure and minimise the loss because of it.</p>
+<p style="text-align: justify;">Nowadays, the Very Low Frequency (VLF) techniques seem to be promising, and reliable for the prediction of earthquakes. In fact, physicists and seismologists, all over the world are now actively engaged in monitoring, formulating, and characterising the consequences of the changes in the signal strengths of long waves that are related to earthquakes. Electromagnetic radiation in the frequency range of 3 kHz - 30 kHz is known as Very Low Frequency (VLF) waves. They are being continuously propagated in the earth's atmosphere from transmitters and get reflected from the ionosphere. This frequency range has been used by military everywhere for encoded communication. Due to less attenuation, VLF waves have been used for military communication especially by Navy. A couple of stations for my region, Nepal, include VTX (18.2 KHz) and NWC (19.8 KHz) of the Indian and Australian navies respectively.</p>
+<h1 style="text-align: justify;">Propagation of VLF signal</h1>
+<p style="text-align: center;"><a href="http://jiaps.org/wp-content/uploads/2013/07/ionosphere.png"><img class="aligncenter  wp-image-315" alt="ionosphere" src="{{ site.baseurl }}/assets/ionosphere.png" width="723" height="309" /></a></p>
+<p style="text-align: justify;"><b></b>The straight propagation along the surface of the ground is known as a ground wave. The propagation due to the reflections from the D-region of the ionosphere is know as a sky wave. It is clear that a receiver gets the resultant wave formed by the superposition of a ground wave and a sky wave. Therefore, change, if any, in the propagation path alters the path difference which causes the variation in the intensity of the signal at R.</p>
+<h1 style="text-align: justify;">Receiver and Technique</h1>
+<p style="text-align: center;"><a href="http://jiaps.org/wp-content/uploads/2013/07/anteena.png"><img class="aligncenter  wp-image-314" alt="anteena" src="{{ site.baseurl }}/assets/anteena.png" width="736" height="221" /></a></p>
+<p style="text-align: justify;">VLF signals can be easily captured using a simple loop antenna and a resonance circuit (for research purposes). The signal is then fed into a computer where the variation in the intensity can be monitored using appropriate software like SpectrumLab on a PC.</p>
+<h1 style="text-align: justify;">The D-region of the Ionosphere</h1>
+<p style="text-align: justify;"><b></b>The ionosphere at 50 - 90 km from the earth's surface is known as the D-region. During daytime, the region extends down to 50 km from the earth's surface due to significant ionisation of the air by sunlight (UV rays and X-rays form Sun). During nighttime, the recombination rate is very high and this layer shifts up to 90 km from the earth's surface. Thus, the reflection height of VLF signals keeps on changing due to photoionisation and the recombination process. This change in the reflection height alters the path difference and phase difference at the point of reception (R). This leads to the variation of the signal intensity on the software.</p>
+<p style="text-align: center;"><a href="http://jiaps.org/wp-content/uploads/2013/07/singnal-intensity.png"><img class="aligncenter  wp-image-316" alt="singnal intensity" src="{{ site.baseurl }}/assets/singnal-intensity.png" width="747" height="314" /></a></p>
+<p style="text-align: justify;">The first minimum intensity in the morning is known as a morning terminator (tm). There is an evening terminator (te) as well. These terminators are noticed due to variations in the height of the D-layer (reflecting boundary) in the morning and evening because of fast ionisation and recombination process. The time interval between these morning and evening terminator is know as “VLF day”.</p>
+<h1 style="text-align: justify;">Indication of an Earthquake</h1>
+<p style="text-align: justify;"><b></b>The ionosphere, thus, is a great detector in itself. Any change in the ion density in the D-region of the ionosphere would definitely cause a change in the reflection height of the sky wave. This would cause a significant variation in the intensity of the received VLF data at Receiver (R). However, beside earthquake, some astrophysical phenomena like solar flares, Gamma Ray Bursts (GRB), X-Ray Bursts (XRB) and meteor showers have been studied by the analysis of VLF data. M. Hayakawa first noticed a change in the terminator time in the VLF signature while analyzing the data of the Kobe earthquake in Japan.</p>
+<p style="text-align: justify;">During the earthquake, preparation time within the earth, fragmentation and micro-fracturing of the rocks take place which releases ion gas into the rocks and then into the atmosphere a few days before the earthquake happens. Moreover, the production of radioactive gas from within the earth increases the conductivity of the atmosphere causing huge fluctuations in the ionisation level. This event gradually increases the “VLF day”. Experimentally, it has been noticed (in most of the cases) that the “VLF day” becomes longer just for four days before an earthquake occurs. During that time, a maximum number of anomalies have also been noticed. These observations have now encouraged scientists to predict earthquakes with more confidence. Nevertheless, continuous monitoring of the freely available VLF signals is needed to ascertain the standard model forms of the variations of the signals. Only then, any further deviation from the standard model forms can be taken as an anomaly. This tool is now becoming a trustworthy technique for the earthquake and many scientists from Japan, India, Brazil, Nepal, Russia and Germany are now publishing their valuable works in this emerging area of earth science.</p>
+<p style="text-align: justify;">Summing up, this method of monitoring VLF signals can be one of the important tools not only to study and predict earthquakes but also to research astrophysical events such as GRB, XRB, lightening in the thunder-belt of atmosphere, or solar flares. Also, this method is cheap as VLF signals are free and can be received using a simple loop antenna. So, it can even be done as a high school project by keen, innovative students or researchers for deep studies.</p>

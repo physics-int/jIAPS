@@ -1,0 +1,840 @@
+---
+layout: post
+title: ICPS 2016 - NC Hungary
+date: 2014-07-06 12:55:08.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Bid
+tags: []
+meta:
+  _wpcom_is_markdown: '1'
+  _edit_last: '1'
+  _yoast_wpseo_focuskw: ICPS 2016
+  _yoast_wpseo_title: ICPS 2016 - NC Hungary - jIAPS
+  _yoast_wpseo_metadesc: The Hungarian Association of Physics Students (Mafihe, NC
+    Hungary) would be pleased to host the ICPS 2016.
+  _yoast_wpseo_linkdex: '78'
+  _wpas_done_all: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442237901;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:977;}i:1;a:1:{s:2:"id";i:198;}i:2;a:1:{s:2:"id";i:879;}}}}
+author:
+  login: bertu
+  email: norbert@bonnici.co
+  display_name: Norbert Bonnici
+  first_name: Norbert
+  last_name: Bonnici
+---
+<p>The International Conference of Physics Students (ICPS) is organised every year by a member society of IAPS.</p>
+<p>The <strong>Hungarian Association of Physics Students</strong> (Mafihe, NC Hungary) would be pleased to host ICPS <strong>2016</strong>. Since the first conference was organized in Hungary in 1986 by the Mafihe, thus we would love to celebrate its 30th birthday at its birthplace: <strong>Budapest</strong>.</p>
+<p>Since 1986 the number of the participants have increased continuously, now we would like to welcome <strong>450 students</strong> from all around the world and involve about 50 people from Hungary as organizers.</p>
+<p><strong>Organizers</strong></p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/mafihelogo4.png"><img class="aligncenter size-medium wp-image-720" src="{{ site.baseurl }}/assets/mafihelogo4-300x132.png" alt="mafihe" width="300" height="132" /></a></p>
+<p>Hungarian Association of Physics Students (Mafihe) was founded by 137 people, of whom some were also among the founders of IAPS. It has 4 local committees in 3 cities (two in Budapest, one in Debrecen and one in Szeged)</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/DSCN0646.jpg"><img class="aligncenter size-medium wp-image-715" src="{{ site.baseurl }}/assets/DSCN0646-224x300.jpg" alt="DSCN0646" width="224" height="300" /></a></p>
+<p>We organise <strong>scientific</strong> and <strong>cultural</strong> programs for physicists or those who have any contact to physics (not just for Hungarians: check out for example the <a href="http://ortvay.elte.hu/main.html" target="_blank">Ortvay Competition</a> or the <a href="http://bss.mafihe.hu" target="_blank">Balaton Summer School</a>)</p>
+<p><em><strong>ICPS organizers</strong></em></p>
+<p>The members of the Mafihe are very enthusiastic about organizing the ICPS'16. The organizers would be divided into <strong>committees</strong>, which would have their own tasks. We would like to set up an Organizing Committee, a Scientific Committee and a Steering Committee. There would be individual teams (with a team leader) who are responsible for Excursions, Social Events, PR, Design and Scientific Program in these Committees. There would be an <strong>ICPS Coordinator</strong>, who organize the work of the committees and would have a good grip on the whole situation. The candidate for this position is Tamás Álmos Vámi, the current President of the Mafihe (email: elnok@mafihe.hu).</p>
+<p><strong>Date </strong><br />
+Beginning: Sunday, 7 August 2016.<br />
+End: Sunday, 14 August 2016<br />
+<strong>Location</strong></p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/hungaryloc.png"><img class="aligncenter size-medium wp-image-718" src="{{ site.baseurl }}/assets/hungaryloc-300x252.png" alt="hungaryloc" width="300" height="252" /></a></p>
+<p>Hungary is a country located in <strong>Central Europe</strong>. It is part of the European Union since 2004 and Schengen since 2007. Our country is famous for the <strong>palinka</strong>, the wines of Tokaj, the <strong>Lake Balaton</strong>, the spicy foods, it’s scenic cities, <strong>The Martians</strong>, it’s rich folk culture, Puskás, the <strong>Rubik Cube</strong>, the Gömböc, Liszt Ferenc, the water polo team and <strong>beautiful girls</strong>. Hungary is one of the five places in the world where the last names precede the first names. The country itself has an intricate history, which starts with the Kingdom of Hungary founded on the Christmas Eve of 1000 A.D. with the coronation of St. Stephen the First.</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/45.jpg"><img class="aligncenter size-medium wp-image-711" src="{{ site.baseurl }}/assets/45-300x200.jpg" alt="45" width="300" height="200" /></a></p>
+<p>Budapest is the capital of Hungary. The city has about two million residents, which is the fifth of the population of the country. It is composed of two historical cities: Pest and Buda on the two sides of the Danube. Budapest is often referred as the \textbf{''Queen of Danube''}, which is crowned by eight bridges, and three islands between the two sides. We are proud of the fact that the Buda Castle Quarter, the Banks of the Danube, and the Andrássy Avenue are world heritage sites and the mountains of Buda house many worldwide famous thermal baths.</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/ELTE.jpg"><img class="aligncenter size-medium wp-image-716" src="{{ site.baseurl }}/assets/ELTE-300x199.jpg" alt="ELTE" width="300" height="199" /></a></p>
+<p>According to the primary plans the ICPS would take place at the <strong>Eötvös Loránd University (ELTE)</strong>. The University was founded in 1635, making it the oldest Hungarian university. ELTE has more than 30000 students (of which 600 are physicist) studying on eight faculties, making the university also the biggest one in Hungary. The university is not only historical, but internationally acknowledged as well.</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/sch1.jpg"><img class="aligncenter size-medium wp-image-723" src="{{ site.baseurl }}/assets/sch1-200x300.jpg" alt="sch1" width="200" height="300" /></a></p>
+<p><b>Accommodation</b></p>
+<p>Schönherz Hostel is about five minutes walk from the lecture hall and the canteen. It has four-bedded-rooms and there are bathrooms in each room. It is important to mention that the building was fully renovated in 2009.</p>
+<p><strong>Conference fee &amp; Prices</strong></p>
+<p>As we could see at the former conferences, the prices of the conference are student friendly. We would like to fulfil this practice at ICPS'16 as well. We would like to have a two-step registration procedure, where the fee would be the following:</p>
+<p>Early registration fee:<strong> 180 <span style="color: #545454;">€</span></strong><br />
+Late registration fee: <strong>200 <span style="color: #545454;">€</span></strong></p>
+<p><strong>Prices in Hungary</strong><br />
+Hungary, because of the fact that is located in Central Europe, is considered to be cheap. Some price examples are shown in the table below:</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/Screen-Shot-2014-07-01-at-12.41.30.png"><img class="aligncenter wp-image-727 size-full" src="{{ site.baseurl }}/assets/Screen-Shot-2014-07-01-at-12.41.30.png" alt="Screen Shot 2014-07-01 at 12.41.30" width="274" height="218" /></a></p>
+<p><strong>Travel expenses</strong></p>
+<p>Flight prices to Budapest are shown in the table below. These are calculated as a high estimation when you buy your tickets half a year earlier.</p>
+<div class="page" title="Page 4">
+<table>
+<colgroup>
+<col />
+<col /> </colgroup>
+<tbody>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Departure place</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Return ticket (<span style="color: #545454;">€</span>)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>London</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>160</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Berlin</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>120</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Rome</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>120</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Gothenburg</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>210</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Copenhagen</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>120</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Moscow</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>250</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Kiev</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>280</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Warsaw</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>140</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Madrid</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>250</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Geneva</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>260</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Paris</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>230</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>New York City</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>990</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Peking</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>950</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Cairo</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>420</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Rio de Janeiro</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>990</p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Scientific Program</strong></p>
+<p><em><strong>Plenary lectures</strong></em></p>
+<p>We would like to invite Nobel Laureates. One of our first candidate is Professor Higgs and we have already made some progress with getting contact with him. Although he has no email address, we managed to get his postal address. We will be able to reach Professor Glashow (<em>Nobel Prize in 1979 for his contribution of the electroweak theory</em>), Professor Oláh (<em>Nobel Prize in 1979 for his contribution of carbocation chemistry</em>), Professor Kroto (<em>Nobel Prize in 1996 for fullerens</em>), Professor Gross (<em>Nobel Prize in 2004 for his contribution of the strong interaction</em>) and Professor Geim (<em>Nobel Prize in 2010 for graphene &amp; Ig Nobel Prize for levitating frogs</em>).</p>
+<p>Some of our worldwide known scientists are also considered, such as <a href="http://www.rmki.kfki.hu/~diosi/" target="_blank">Professor Diósi</a>, who is known among other things for the Diósi-Penrose theory, <a href="https://hal.elte.hu/~vicsek/" target="_blank">Professor Vicsek</a> who is working on collective motion and complex networks, <a href="http://www.cs.elte.hu/~lovasz/" target="_blank">Professor Lovász</a> who is a well-know matematician (he is the current President of the Hungarian Academy of Sciences) and <a href="https://www.renyi.hu/~szemered/" target="_blank">Professor Szemerédi</a>, who received the Abel Prize in 2012. It would be also nice to invite someone from the Founders, that is why we considers Professor Lévai to ask.</p>
+<p><em><strong>Lab tours</strong></em></p>
+<p>We plan to organize Lab tours at the Eötvös Loránd University, at the Wigner Research Centre for Physics, at the Kármán Wind Tunnel Laboratory and many more places.</p>
+<p><strong>Parties</strong></p>
+<div class="page" title="Page 5">
+<div class="layoutArea">
+<div class="column">
+<ol>
+<li>Sunday (7 Aug)<br />
+Welcome Reception – "Mad World" Party Club at the basement of the Schönherz Hostel</li>
+<li>Monday (8 Aug)<br />
+Costume Party – "Mad World" Party Club at the basement of the Schönherz Hostel</li>
+<li>Tuesday (9 Aug)<br />
+Free Night – I would suggest to see Budapest at night from the Buda Castle or from the Citadella, it is really beautiful.</li>
+<li>Wednesday (10 Aug)<br />
+Spa Party – Széchenyi Spa</li>
+<li>Thursday (11 Aug)<br />
+Hungarian Night – Party tent at the Lágymányos Campus (between the two buildings of the Eötvös Loránd University)</li>
+<li>Friday (12 Aug)<br />
+Nations Party – Party tent at the Lágymányos Cam- pus (between the two buildings of the Eötvös Loránd University)</li>
+<li>Saturday (13 Aug)<br />
+Farewell Party – Party tent at the Lágymányos Cam- pus (between the two buildings of the Eötvös Loránd University)</li>
+</ol>
+</div>
+</div>
+</div>
+<p><strong>Excursions</strong></p>
+<div class="page" title="Page 6">
+<div class="layoutArea">
+<div class="column">
+<ul>
+<li>Lake Balaton – Beach</li>
+<li>Visegrád – Boat trip &amp; City tour</li>
+<li>Esztergom – City tour</li>
+<li>Budapest – Labyrinth of Buda Castle</li>
+<li>Budapest – Mátyás Caves</li>
+<li>Rám Gorge – Outdoor Hiking</li>
+</ul>
+</div>
+</div>
+</div>
+<p>Financial budget</p>
+<p>The table below shows our estimation about the prices. This is higher estimation where we calculate a 10% revaluation of the Hungarian Forint.</p>
+<p>Prices per person:</p>
+<div class="page" title="Page 7">
+<table>
+<colgroup>
+<col />
+<col />
+<col />
+<col /> </colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>1 Person cost (HUF)</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>1 Person cost(EUR)</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Total cost(EUR)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Accomodation/night</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>4250</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>15.18</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>7589.29</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Meal/night</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>3650</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>13.04</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>6517.86</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Expense/night</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>7900</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>28.21</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>14107.14</p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Full costs of the Conference:</p>
+<div class="page" title="Page 8">
+<table>
+<colgroup>
+<col />
+<col />
+<col />
+<col /> </colgroup>
+<tbody>
+<tr>
+<td></td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>1 Person cost (HUF)</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>1 Person cost(EUR)</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Total cost(EUR)</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Accomodation total</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>29750</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>106.25</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>53125.00</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Meal total</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>25550</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>91.25</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>45625.00</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Excursion</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>3350</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>11.96</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>5982.14</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Party</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>5500</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>19.64</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>9821.43</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Lecturer</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>3200</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>11.43</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>5714.29</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Lecturer hall</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>3800</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>13.57</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>6785.71</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Public transport</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>5000</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>17.86</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>8928.57</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Other</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>3500</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>12.50</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>6250.00</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Expense</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>79650</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>284.46</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>142232.14</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>Incoming price</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>50400</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>180.00</p>
+</div>
+</div>
+</td>
+<td>
+<div class="layoutArea">
+<div class="column">
+<p>81000.00</p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Plan B for the venue - Surprise plan</strong></p>
+<p>Our "Surprise plan" would be to place the Conference at Csillebérc, at Wigner Research Centre for Physics. In that case we would get the Lecture Halls for free, the meals would be cheaper and be held at the same building. According to the plans this building will be declared open in 2015, therefore the ICPS would be one of the first big conferences there. Actually, the conference will take place here with good chances. But Plan A for the venue works for sure as a backup plan.</p>
+<p><strong>Venue</strong></p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/medence.jpg"><img class="aligncenter size-medium wp-image-721" src="{{ site.baseurl }}/assets/medence-300x225.jpg" alt="medence" width="300" height="225" /></a></p>
+<p>The accommodation would be very close to the Wigner RCP. The Youth Centre &amp; Hostel at Csillebérc is a huge area, where there are leisure facilities, sport opportunities, swimming-pool and of course the accommodations.</p>
+<p><strong>Conclusion</strong></p>
+<p>All in all, in this case the venues would be held in a much smaller area and the prices would be lower. On the other hand, Csillebérc is located in the outer part of Budapest, so it would take about 30 minutes to reach the city center. The rest of the details would be the same as written in Plan A.</p>
+<p><a href="http://jiaps.org/wp-content/uploads/2014/07/ICPS16.jpg"><img class="aligncenter wp-image-719 size-medium" src="{{ site.baseurl }}/assets/ICPS16-300x168.jpg" alt="ICPS16" width="300" height="168" /></a></p>

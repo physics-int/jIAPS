@@ -1,11 +1,19 @@
 ---
 layout: post
-title:  "Balaton Summer School in Physics 2015"
-date:   2015-08-03
+title: Balaton Summer School in Physics 2015
+date: 2015-08-03 12:05:21
 author: Tamas Almos Vami
-categories: event
+categories: Event
+excerpt: The Hungarian Association of Physics Students (Mafihe, NC Hungary) was founded
+  in 1988 in Budapest, one year after the formation of IAPS. The first Summer School
+  was organized in 1993 and continued from that time. After some years of omission
+  we were happy to organise a Summer School again in the name of celebrating the International
+  Year of Light at Lake Balaton from 20 - 26 July, 2015. We invited speakers in all
+  the hot topics in physics which are related to light. The topics included spectroscopy,
+  photonics, quantum optics, astrophysics and laser physics.
 ---
-The Hungarian Association of Physics Students (Mafihe, NC Hungary) was founded in 1988 in Budapest, one year after the formation of IAPS. The first Summer School was organized in 1993 and continued from that time. After some years of omission we were happy to organise a Summer School again in the name of celebrating the International Year of Light at Lake Balaton from 20 – 26 July, 2015. We invited speakers in all the hot topics in physics which are related to light. The topics included spectroscopy, photonics, quantum optics, astrophysics and laser physics.
+
+The Hungarian Association of Physics Students (Mafihe, NC Hungary) was founded in 1988 in Budapest, one year after the formation of IAPS. The first Summer School was organized in 1993 and continued from that time. After some years of omission we were happy to organise a Summer School again in the name of celebrating the International Year of Light at Lake Balaton from 20 - 26 July, 2015. We invited speakers in all the hot topics in physics which are related to light. The topics included spectroscopy, photonics, quantum optics, astrophysics and laser physics.
 
 The School has also acted as the Hungarian part of the jDPG-Mafihe Exchange Program. However, it was open for every IAPS member.
 

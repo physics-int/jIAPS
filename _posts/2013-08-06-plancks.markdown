@@ -1,0 +1,58 @@
+---
+layout: post
+title: PLANCKS
+date: 2013-08-06 23:17:23.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Committee Article
+- Event
+tags:
+- '2014'
+- kick-ass
+- league
+- Max Planck
+- May
+- Netherlands
+- physics competition
+- PLANCKS
+- students
+meta:
+  _edit_last: '1'
+  _thumbnail_id: '357'
+  _wpas_done_all: '1'
+  _wpas_skip_2192546: '1'
+  _yoast_wpseo_focuskw: planck
+  _yoast_wpseo_title: PLANCKS - jIAPS
+  _yoast_wpseo_metadesc: Assuming you’re a physicist... Most likely you’ll refer to
+    the famous German physicist Max Planck, which delivered great work on black body
+    radiation.
+  _yoast_wpseo_linkdex: '85'
+  _wpcom_is_markdown: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442058138;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:781;}i:1;a:1:{s:2:"id";i:940;}i:2;a:1:{s:2:"id";i:283;}}}}
+author:
+  login: caspervanschuppen
+  email: casper@plancks.info
+  display_name: Casper van Schuppen
+  first_name: Casper
+  last_name: van Schuppen
+excerpt: Did you ever hear of the name PLANCKS. Assuming you’re a physicist, sure
+  you have. Most likely you’ll refer to the famous German physicist Max Planck, which
+  delivered great work on black body radiation. PLANCKS however is also the abbreviation
+  for “Physics League Across Numerous Countries for Kick-ass Students”. Good chance
+  you haven’t heard of that before. It is an international competition for university
+  students, both undergraduates and graduates, with a focus on theoretical physics.
+  The first of what will hopefully become a long lasting series of high-level international
+  physics olympiads.
+---
+<p style="text-align: justify;">Did you ever hear of the name PLANCKS. Assuming you're a physicist, sure you have. Most likely you'll refer to the famous German physicist Max Planck, which delivered great work on black body radiation. PLANCKS however is also the abbreviation for "Physics League Across Numerous Countries for Kick-ass Students". Good chance you haven't heard of that before. It is an international competition for university students, both undergraduates and graduates, with a focus on theoretical physics. The first of what will hopefully become a long lasting series of high-level international physics olympiads.</p>
+<p style="text-align: justify;">PLANCKS is a three day event, taking place from the 23rd till the 25th of May. Core activity: a contest providing a wide range of exercises in the field of theoretical physics. From every country across the world, three teams of the finest physics students can enter the competition to show what they're capable off. Teams can be up to four contestants. As a competitor, you will not only be part of the first PLANCKS competition ever to be organized, but also visit the majestic city of Utrecht, enjoy lectures of famous Physicists and join in many social activities to meet your foreign fellow students.</p>
+<p style="text-align: justify;">The three day program will kick-off on Friday with an opening in the city centre of Utrecht followed by a nice dinner during which the participants can get to know their fellow contestants. Saturday morning we'll start straight away with the first round of exercises. By then the competition has truly begun. During the break, a rich lunch will be offered and everyone will get a chance to catch their breath. Shortly after, the second round commences and the teams will struggle over the last set of problems. The exercises will be very challenging and will cover all aspects of physics. An example can be found below and some more are provided on our website. In both sessions combined between 10 and 20 problems will be issued.</p>
+<p style="text-align: justify;">After the competition the teams will be able to enjoy a drink, join in for the barbecue and recover from the intense sessions of hard work. Later that night there will be an international party for a rousing conclusion of the day. The third and last day will be dedicated to the award ceremony. Of course eternal glory will be granted to the winning team, but also a prize of no less than $latex \frac{h}{\pi} 10^{37} \ensuremath{J}^{-1} \ensuremath{s}^{-1}$ euro (we'll leave the calculation to the reader). After the ceremony the official part of the program has come to an end. However, subsequently we'll offer all participants the possibility to explore Holland during a typical Dutch excursion.</p>
+<p style="text-align: justify;">Since the start of 2013 the organising committee has been working hard to expand their network and make preparations for the contest. We've been in contact with many student organisations worldwide, including IAPS and EPS. We're still on the lookout for any kind of contributions to the event. If you're a member of an association that could expand our network of potential participants or if you're interested in participating yourself, please don't hesitate to contact us. Since we are unable to accommodate for the participant's travel expenses, we hope that teams will be able turn to their university for financial support. However, we will be able to cover all the expenses during the event, including meals, lecturers and social activities, for a symbolic price of 25 euros per team. All participants will be provided an official certificate signed by an internationally recognized panel of judges (to be announced).</p>
+<p style="text-align: justify;">Like we mentioned before, the main stage of PLANCKS is the city of Utrecht. With more than 300,000 inhabitants, Utrecht is the fourth largest city of the Netherlands. It is located right in country's centre, approximately 40 km from Amsterdam. The city gets its unique charm from the old city centre, its canals, canal-side cellars, old churches and of course the famous Dom Tower. The University Utrecht (UU) is the country's largest university, which has made Utrecht a true student-friendly city where one in every five people is a student. On request contestants could be recommended residences to spend the weekend where they can enjoy the city's cultural diversity and vibrant nightlife. Contact the PLANCKS organisation if you have any questions about accommodation.</p>
+<p style="text-align: justify;">Can't wait for the contest to begin?</p>
+<p style="text-align: justify;">We know you've probably been waiting over 20 years now. You'll only have to wait a few more months! In any case, make sure you'll take a look on <a href="http://www.plancks.info">www.plancks.info</a>, which we'll use to keep you informed about the latest news and developments. On this website you can also subscribe to the contest and to our newsletter.</p>
+<p style="text-align: justify;">Disclaimer: information in this article is the current prospect. However, since this competition is organised for the first time and parts of the program can still change, we cannot guarantee any of the information in this article.</p>
+<p style="text-align: justify;">Click <a title="PLANCKS Challenge" href="http://jiaps.org/plancks-challenge/">here</a> for a sample challenge.</p>

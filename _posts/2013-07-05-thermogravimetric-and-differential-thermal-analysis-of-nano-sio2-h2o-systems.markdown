@@ -1,0 +1,39 @@
+---
+layout: post
+title: Thermogravimetric and differential thermal analysis of nano SiO2 - H2O systems
+date: 2013-07-05 19:25:28.000000000 +02:00
+type: post
+published: true
+status: publish
+categories:
+- Article
+tags:
+- differential thermal analysis
+- DTA
+- SiO2
+- TGA
+- Thermogravimetric
+meta:
+  _edit_last: '1'
+  _thumbnail_id: '301'
+  _wpas_done_all: '1'
+  _wpas_skip_2192546: '1'
+  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442372758;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:888;}i:1;a:1:{s:2:"id";i:690;}i:2;a:1:{s:2:"id";i:223;}}}}
+author:
+  login: elchin.huseynov
+  email: elchin55@yahoo.com
+  display_name: Elchin Huseynov
+  first_name: Elchin
+  last_name: Huseynov
+---
+<p style="text-align: justify;">SiO<sub>2</sub> - water systems prepared for the samples in selected rates were carried out for the thermogravimetric and differential thermal analysis. So, with the help of these curves a few parameters of these samples can be estimated with thermogravimetric analysis (TGA) and differential thermal analysis (DTA). The selected amount of water was added to nano-sized SiO<sub>2</sub> powder and differential thermal and thermogravimetric analysis were carried out in all cases. All TGA and DTA studies were carried out in the normal atmospheric pressure by "Simultaneous Thermal Analyser PerkinElmer, STA 6000" (USA) device with the speed of change of the temperature 10K/sec. TGA and DTA analysis of the four studies  appears that decreasing temperature, stabilisation of weight with the amount of water in the mixture increases. So, the stabilisation temperature of the weight 487.82<sup>o</sup>C (pure SiO<sub>2 </sub>nanopowder), the second case the 379.25<sup>o</sup>C (SiO<sub>2</sub> nanopowder and 0.015g water), and the third case, the 205.39<sup>o</sup>C (SiO<sub>2 </sub>nanopowder and 0.030g water), and the fourth case, the stabilisation temperature of the mixture occurs in 189.38<sup>o</sup>C (SiO<sub>2 </sub>nanopowder and 0.045g water). This can be explained by the increased amount of water in the mixture by the evaporated water rapidly taking out other admixtures from nanopowder and in the result weight stabilisation frequently occurs.</p>
+<p>[caption id="attachment_301" align="aligncenter" width="640"]<a href="http://jiaps.org/wp-content/uploads/2013/07/Screen-Shot-2013-07-05-at-19.15.05.png"><img class="size-single-thumbnail wp-image-301 " alt="Nano-SiO2 powder TGA and DTA curves containing 0.015 g of water" src="{{ site.baseurl }}/assets/Screen-Shot-2013-07-05-at-19.15.05-640x360.png" width="640" height="360" /></a> Figure 1: Nano-SiO2 powder TGA and DTA curves containing 0.015 g of water[/caption]</p>
+<p style="text-align: justify;">Four spectrums have been obtained as a result of the research where one of them has been described in the figure. Some of the parameters of the other spectrums are similar to this spectrum. There are four diagrams that have been considered in these experiments and in all the cases an amount of 10 mg were observed endoeffects. Initial amount of nanopowder was about 5mg, then it is possible to say that in the same amount of SiO<sub>2</sub> and water (about 5mg SiO<sub>2</sub> and water) are observed endoeffects.</p>
+<p>[caption id="attachment_302" align="aligncenter" width="812"]<a href="http://jiaps.org/wp-content/uploads/2013/07/Screen-Shot-2013-07-05-at-19.15.20.png"><img class=" wp-image-302 " alt="Endothermic effects of nano-SiO2 - H2O systems and weight loss depending on the temperature interval" src="{{ site.baseurl }}/assets/Screen-Shot-2013-07-05-at-19.15.20.png" width="812" height="322" /></a> Table 1: Endothermic effects of nano-SiO2 - H2O systems and weight loss depending on the temperature interval[/caption]</p>
+<p>Nano-SiO2 - H2O systems in all the studies, endothermic effects and loss of weight depending on the temperature interval are shown in the table. So, from table it becomes clear that the decreasing temperature stabilisation of weight with the amount of water in the mixture increases. All experiments were carried out synthesis by sol - gel process for 20 nm sizes of samples [1]. SiO<sub>2</sub> and SiO<sub>2</sub> - H<sub>2</sub>O systems have a high temperature and chemical resistance and these allow application of their thermal, mechanical and electrical origin [2,3,4]. <b><i>References</i></b></p>
+<ol>
+<li>R.N.Mehdiyeva, A.A.Garibov, E.M. Huseynov, Transactions of National Academy of Sciences of Azerbaijan, Series of Physics – Mathematical and Technical Sciences, Physics and Astronomy “Synthesis methods of nano SiO<sub>2</sub> powder” ISSN 0002-3108 Vol. XXXII N5, p 83/152  Baku <b>2012</b></li>
+<li>Chang C.C.; Chen W.C. “Synthesis and optical properties of polyimide-silica hybrid thin films”. Chem. Mater., 14, 4242-4248. <b>2002</b></li>
+<li>Musto P.; Ragosta G.; Scarinzi G.; Mascia L. “Polyimide-silica nanocomposites: Spectroscopic, morphological and mechanical investigations”. Polymer, 45, 1697–1706. <b>2004</b></li>
+<li>Wang Z.D.; Lu J.J.; Li Y.; Fu S.Y.; Jiang S.Q.; Zhao X.X. “Studies on thermal and mechanical properties of PI/SiO<sub>2</sub> nanocomposite films at low temperature”. Compos. Part A, 37, 74–79. <b>2006</b></li>
+</ol>
