@@ -3,8 +3,7 @@ layout: post
 title: PLANCKS 2015
 date: 2015-07-27 23:23:05
 categories: Article
-author: Henrik Siboni
-excerpt: "From the 22nd to the 24th of May 2015, the second edition of PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) was held. The event started on Friday with a very successful opening symposium, which hosted to over 300 people. The main event was of course the physics olympiad organised on Saturday. A total of 28 teams from 18 different countries took up the challenge, but only the best could be praised with the title of "Best Physics Students of the World", and winning the grand prize of €2109.14. In the remaining part of the weekend, we focused on the most important goal of the whole event: bringing together physics students from all over the world. The competitors enjoyed one of the several excursions that we organised and a barbecue. As a grand finale, the closing ceremony was held in museum Boerhaave, the Leiden Museum of the History of Science. We, as the organizing committee, are grateful for a great weekend and think that PLANCKS 2015 was a huge success!"
+author: the PLANCKS committee
 ---
 
 From the 22nd to the 24th of May 2015, the second edition of PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) was held. The event started on Friday with a very successful opening symposium, which hosted over 300 people.
