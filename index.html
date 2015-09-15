@@ -33,7 +33,7 @@ title: Home
 <section>
     <div class="container">
         <div class="features">
-            {% for post in site.posts offset:1 %}
+            {% for post in site.posts offset:1 limit:3 %}
             <article>
                 <section class="excerpt">
                     <header>
