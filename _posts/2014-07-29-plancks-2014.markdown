@@ -1,39 +1,9 @@
 ---
 layout: post
 title: PLANCKS 2014
-date: 2014-07-29 15:25:55.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-- Event
-tags: []
-meta:
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442058152;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:356;}i:1;a:1:{s:2:"id";i:940;}i:2;a:1:{s:2:"id";i:278;}}}}
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _thumbnail_id: '783'
-  _yoast_wpseo_focuskw: PLANCKS
-  _yoast_wpseo_title: PLANCKS 2014 - jIAPS
-  _yoast_wpseo_metadesc: From Friday, 23rd till Sunday 25th May, 32 teams of students
-    from 14 countries, participated in PLANCKS, the first international theoretical
-    physics competition.
-  _yoast_wpseo_linkdex: '90'
-  _wpas_done_all: '1'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: "Initiative of students of Utrecht University, the Netherlands\r\n\r\nFirst
-  international theoretical physics competition great success\r\n\r\nFrom Friday,
-  23rd till Sunday 25th May, 32 teams of students from 14 countries, participated
-  in PLANCKS, the first international theoretical physics competition. PLANCKS was
-  instigated and organised by students of Utrecht University in the Netherlands. Their
-  opening symposium became great news, when they managed to attract Professor Stephen
-  Hawking to give a lecture. Participants look forward to the next edition."
+date: 2014-07-29 15:25:55
+categories: Event
+author: ‎Casper van Schuppen
 ---
 <p><b><i>Initiative of students of Utrecht University, the Netherlands</i></b></p>
 <p><b>First international theoretical physics competition great success</b></p>

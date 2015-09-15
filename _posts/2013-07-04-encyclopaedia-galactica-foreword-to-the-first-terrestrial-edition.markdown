@@ -1,35 +1,9 @@
 ---
 layout: post
 title: Encyclopædia Galactica – foreword to the first terrestrial edition
-date: 2013-07-04 22:31:58.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Fun Article
-tags:
-- '42'
-- Carl Sagan
-- Encyclopædia Galactica
-- Isaac Asimov
-meta:
-  _edit_last: '19'
-  _thumbnail_id: '250'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: Encyclopædia Galactica
-  _yoast_wpseo_title: Encyclopædia Galactica
-  _yoast_wpseo_metadesc: Encyclopædia Galactica. Malevolent people, among whom there
-    was a large – fortunately, not large enough – number of my fellow Encyclopædists,
-    claimed it was
-  _yoast_wpseo_linkdex: '78'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1440369887;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:699;}i:1;a:1:{s:2:"id";i:641;}i:2;a:1:{s:2:"id";i:426;}}}}
-author:
-  login: vanja.blazinic
-  email: vanja.blazinic@gmail.com
-  display_name: Vanja Blazinic
-  first_name: Vanja
-  last_name: Blazinic
+date: 2013-07-04 22:31:58
+categories: Article
+author: Vanja Blazinic
 ---
 <div title="Page 1">
 <p style="text-align: justify"><span style="font-size: 13px">Every social change is met with resistance, to a greater or lesser extent. The history of mankind is full of such examples: the spread of the early Christian Church, the acceptance of the idea of a heliocentric planetary system, the rise of Isaac Newton's axiom of classical mechanics as a new theory which could explain a large number of natural phenomena, humanism and the renaissance... An eternal optimist, such as the likable coyote chasing the Road Runner, might even say that people have learned something from their rich history. Therefore we were very surprised by the wave of dissatisfaction which swept over Mankind not long after the announcement that everything except "the third rock from the Sun" would be included in the Encyclopædia Galactica. Malevolent people, among whom there was a large – fortunately, not large enough – number of my fellow Encyclopædists, claimed it was "the final proof that Mankind is a lost case, despite all accomplishments, because it is still trying to place itself into an imaginary privileged, central position".</span></p>

@@ -1,48 +1,9 @@
 ---
 layout: post
 title: 'Quantum meets Cryptography: How physics can help save our secrets'
-date: 2014-03-05 15:29:10.000000000 +01:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- alice
-- bob
-- cryptography
-- encryption
-- hacking
-- man-in-the-middle
-- quantum
-- RSA
-- security
-meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
-  _thumbnail_id: '423'
-  _yoast_wpseo_linkdex: '94'
-  _yoast_wpseo_focuskw: cryptography
-  _yoast_wpseo_title: Quantum Meets Cryptography - How physics can help save our secrets
-  _yoast_wpseo_metadesc: When one hears about Quantum Cryptography, the first thought
-    that comes to mind is, how can there be any relation between physics and codes?
-  authorsure_include_css: ''
-  authorsure_hide_author_box: ''
-  _wpas_skip_2192546: '1'
-  _wpcom_is_markdown: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442245970;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:898;}i:1;a:1:{s:2:"id";i:940;}i:2;a:1:{s:2:"id";i:699;}}}}
-author:
-  login: deividas.sabonis
-  email: deividassab@gmail.com
-  display_name: Deividas Sabonis
-  first_name: Deividas
-  last_name: Sabonis
-excerpt: When one hears about Quantum Cryptography, the first thought that comes to
-  mind is, how can there be any relation between physics and codes? It actually appears
-  to be one of the newest ideas in the cipher world to use physics and has been declared
-  as the ultimate goal in security. In this short introductory text we will try to
-  explain how these two, from first sight totally unrelated things fit together, how
-  quantum cryptography works and what makes it so secure, and therefore important.
+date: 2014-03-05 15:29:10
+categories: Article
+author: Deividas Sabonis
 ---
 <p style="text-align: justify;">When one hears about Quantum Cryptography, the first thought that comes to mind is, how can there be any relation between physics and codes? It actually appears to be one of the newest ideas in the cipher world to use physics and has been declared as the ultimate goal in security. In this short introductory text we will try to explain how these two, from first sight totally unrelated things fit together, how quantum cryptography works and what makes it so secure, and therefore important.</p>
 <h1 style="text-align: justify;">What is Cryptography?</h1>

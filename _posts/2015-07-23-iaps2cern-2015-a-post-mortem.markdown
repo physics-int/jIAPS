@@ -1,41 +1,11 @@
 ---
 layout: post
 title: 'iaps2CERN 2015: A post-mortem'
-date: 2015-07-23 13:00:43.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags:
-- '2015'
-- iaps2CERN
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _thumbnail_id: '918'
-  _yoast_wpseo_focuskw: iaps2CERN
-  _yoast_wpseo_title: 'iaps2CERN 2015: A post-mortem - jIAPS'
-  _yoast_wpseo_metadesc: The European Organisation of Nuclear Research (CERN) is the
-    place to be for particle physics, and with 45 participants from all around the
-    world.
-  _yoast_wpseo_linkdex: '77'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441587919;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:964;}i:1;a:1:{s:2:"id";i:283;}i:2;a:1:{s:2:"id";i:214;}}}}
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: The European Organisation of Nuclear Research (CERN) is the place to be for
-  particle physics, and with 45 participants from all around the world the annual
-  IAPS visit took place from the 20th to the 23rd of April 2015. As one of the volunteers
-  organising the trip, and de-facto leader during the trip I would like to both summarise
-  the trip and share some of my impressions; for the benefit of all those who where
-  there, and for those who were not - there is always another chance next year.
+date: 2015-07-23 13:00:43
+categories: Event
+author: Norbert Bonnici
 ---
+
 <p style="text-align: justify;">The European Organisation of Nuclear Research (CERN) is the place to be for particle physics, and with 45 participants from all around the world the annual IAPS visit took place from the 20th to the 23rd of April 2015. As one of the volunteers organising the trip, and de-facto leader during the trip I would like to both summarise the trip and share some of my impressions; for the benefit of all those who where there, and for those who were not - there is always another chance next year.</p>
 <p>[caption id="attachment_916" align="alignnone" width="1024"]<img class="size-large wp-image-916" src="{{ site.baseurl }}/assets/11149692_10203764736310232_7901976709789638346_o-1024x573.jpg" alt="A view of the Synchrocyclotron at CERN. Picture by Max Lisogorski" width="1024" height="573" /> A view of the Synchrocyclotron at CERN. Picture by Max Lisogorski[/caption]</p>
 <p style="text-align: justify;">First of all, the trip was a full success. The participants were of course fantastic, and the programme organised for us by CERN was amazing - even as someone who was there a few times before the visit was full of nice surprises.</p>

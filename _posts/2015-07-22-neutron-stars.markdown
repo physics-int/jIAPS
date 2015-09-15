@@ -1,33 +1,14 @@
 ---
 layout: post
 title: Neutron Stars
-date: 2015-07-22 13:00:29.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- astrophysics
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442293101;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:898;}i:1;a:1:{s:2:"id";i:798;}i:2;a:1:{s:2:"id";i:7;}}}}
-  _yoast_wpseo_focuskw: Neutron Stars
-  _yoast_wpseo_title: Neutron Stars - jIAPS
-  _yoast_wpseo_linkdex: '79'
-  _thumbnail_id: '894'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
+date: 2015-07-22 13:00:29
+categories: Article
+author: Nicholai Cumbo
 ---
-<h2>What is a Neutron Star?</h2>
-<p>A neutron star is a compact star composed mainly of neutrons. Its size is relatively small with a radius of around 10 to 20 km. However, the mass of a neutron star is about 1.4 to 2 times more than that of the Solar Mass (the mass of the Sun $latex M_o$) with the largest mass observed recorded at 2.01 $latex M_o$. This leads to high densities ranging from about $latex 2.4$ to $latex 9.1 \times 10^{17} kg/m^3$. The density distribution is lowest at the outer most part of the crust starting from about $latex 1 \times 10^{9} kg/m^{3}$. It then increases with depth to more than $latex 6 \times 10^{17} kg/m^3$ deep inside the core. The closest comparison to this density is the approximate density of an atomic nucleus of $latex 3 \times 10^{17} kg/m^3$. Compared to the sun, a neutron star is of order $latex 10^{24}$ times denser. The surface temperature is typically of around $latex 6 \times 10^{5} K$. To put things into perspective, "a single teaspoon of neutron star material would weigh a billion tons — assuming you somehow managed to snag a sample without being captured by the body's strong gravitational pull." [1,2,3]</p>
+
+##What is a Neutron Star?
+A neutron star is a compact star composed mainly of neutrons. Its size is relatively small with a radius of around 10 to 20 km. However, the mass of a neutron star is about 1.4 to 2 times more than that of the Solar Mass (the mass of the Sun $latex M_o$) with the largest mass observed recorded at 2.01 $latex M_o$. This leads to high densities ranging from about $latex 2.4$ to $latex 9.1 \times 10^{17} kg/m^3$. The density distribution is lowest at the outer most part of the crust starting from about $latex 1 \times 10^{9} kg/m^{3}$. It then increases with depth to more than $latex 6 \times 10^{17} kg/m^3$ deep inside the core. The closest comparison to this density is the approximate density of an atomic nucleus of $latex 3 \times 10^{17} kg/m^3$. Compared to the sun, a neutron star is of order $latex 10^{24}$ times denser. The surface temperature is typically of around $latex 6 \times 10^{5} K$. To put things into perspective, "a single teaspoon of neutron star material would weigh a billion tons — assuming you somehow managed to snag a sample without being captured by the body's strong gravitational pull." [1,2,3]
+
 <p>[caption id="attachment_895" align="aligncenter" width="450"]<img class="wp-image-895 size-full" src="{{ site.baseurl }}/assets/1-NeutronStar.gif" alt="1-NeutronStar" width="450" height="282" /> Figure 1: Structure of Neutron Star [11][/caption]</p>
 <h2>The Formation of Neutron Stars</h2>
 <p>In ancient times, it was believed that the stars are ever-lasting. As time passed, this belief was proven false. A star is created, and goes through a long process. It spends its lifetime fusing matter together until its 'fuel' runs out. At this point fusion stops and the massive star collapses towards its center of mass due to the overwhelming influence of its own gravity. This process is called Gravitational collapse, and is the heart of structure formation in the universe. [1,4]</p>

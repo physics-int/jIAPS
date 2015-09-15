@@ -1,34 +1,11 @@
 ---
 layout: post
 title: iaps@GranSasso
-date: 2015-07-24 13:45:46.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags:
-- '2015'
-- gran sasso
-- iaps@GranSasso
-- Italy
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '25'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1440204865;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:879;}i:1;a:1:{s:2:"id";i:915;}i:2;a:1:{s:2:"id";i:987;}}}}
-  _thumbnail_id: '936'
-  _wpas_done_all: '1'
-  _yoast_wpseo_linkdex: '69'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: iaps@GranSasso
-  _yoast_wpseo_title: iaps@GranSasso - jIAPS
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
+date: 2015-07-24 13:45:46
+categories: Event
+author: Norbert Bonnici
 ---
+
 <p>Me, walking into a sunny courtyard, then entering a narrow corridor; at its end, a hall, and a blue T-shirt already flying to my face from Leon's hands. This is the first memory I have of <em>iaps@GranSasso</em>, the very first event organised in Italy by IAPS, alongside the newborn and fast-growing <a href="http://jiaps.org/italy-joins-iaps/">AISF</a> - its Italian national committee.</p>
 <p>Forty students, from all over Europe and beyond, took part in this five-day event deep within the heart of central Italy. Main theme: astroparticles - but much more was in plan.</p>
 <p>We gathered on the first day, May 5th, at a cozy hostel in the center of Rome, many already knowing each other, thanks to different IAPS events such as CERN visits or ICPSs; and a few newcomers including myself, thrilled to jump in the blue of this new experience. After a little walk to explore the surroundings, we all moved to a nearby <em>pizzeria</em> (i.e. place where they make pizza) to taste some local specialities (and a lot of French fries), everything being payed for by our sponsors, then moved back to the hostel: we knew the following day was to be an intense one.</p>

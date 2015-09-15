@@ -1,42 +1,9 @@
 ---
 layout: post
 title: A survival guide to Geneva
-date: 2013-07-04 16:14:12.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags:
-- '2012'
-- cern
-- geneve
-- survival guide
-- swizerland
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  _thumbnail_id: '221'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: geneva
-  _yoast_wpseo_title: A survival guide to Geneva - jIAPS
-  _yoast_wpseo_metadesc: This year I helped organise the iaps2cern trip, 46 students
-    of IAPS gathered in Geneva to see for themselves what all the fuss about this
-    research centre.
-  _yoast_wpseo_linkdex: '80'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442242232;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:915;}i:1;a:1:{s:2:"id";i:977;}i:2;a:1:{s:2:"id";i:987;}}}}
-author:
-  login: antondudko
-  email: anton.dudko.ukraine@gmail.com
-  display_name: Anton Dudko
-  first_name: Anton
-  last_name: Dudko
-excerpt: 'This year I helped organise the iaps2cern trip: on 2 - 5 April 2013, 46
-  students of IAPS gathered in Geneva, Switzerland to see for themselves what all
-  the fuss about this research centre is for. It is already for several consecutive
-  years that IAPS takes a group of students for a 2-3 days study visit to the CERN,
-  and most of us know about this project and the trip has already been on the pages
-  of jIAPS before. But this time I will give a view on it from a bit different angle.'
+date: 2013-07-04 16:14:12
+categories: Event
+author: Anton Dudko
 ---
 <p dir="ltr" style="text-align: justify;">This year I helped organise the <strong>iaps2cern</strong> trip: on 2 - 5 April 2013, 46 students of IAPS gathered in Geneva, Switzerland to see for themselves what all the fuss about this research centre is for. It is already for several consecutive years that IAPS takes a group of students for a 2-3 days study visit to the CERN, and most of us know about this project and the trip has already been on the pages of jIAPS before. But this time I will give a view on it from a bit different angle.</p>
 <p dir="ltr" style="text-align: justify;">For me, the trip was something different also because I saw it as both as a first-time participant and as an organiser. Just upon becoming a "fresh" IAPS EC member, I gladly got my hands on helping with the technical jobs, recording applications, tweaking google spreadsheets and even calling some lucky people on Skype.</p>

@@ -1,45 +1,10 @@
 ---
 layout: post
 title: 'The asymmetry of time and the thermodynamic arrow: towards a cosmic egg cosmology?'
-date: 2014-03-21 18:58:22.000000000 +01:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- entropy
-- second law of thermodynamics
-- time
-- topology of time
-meta:
-  _edit_last: '9'
-  _yoast_wpseo_focuskw: asymmetry of time
-  _yoast_wpseo_title: The asymmetry of time and the thermodynamic arrow - jIAPS
-  _yoast_wpseo_metadesc: '''It seems to me, therefore, that consciousness with its
-    insistence on time''s arrow and its rather erratic ideas of time measurement may
-    be guided by entropy-clocks in some portion of the brain… Entropy gradient is
-    then the direct equivalent of the time of consciousness in both its aspects.'''
-  _yoast_wpseo_linkdex: '71'
-  _wpas_done_all: '1'
-  _thumbnail_id: '483'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_opengraph-image: http://jiaps.org/wp-content/uploads/2014/03/1512538_677990548890855_1575637258_n.jpg
-  _wpcom_is_markdown: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442011082;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:417;}i:1;a:1:{s:2:"id";i:678;}i:2;a:1:{s:2:"id";i:7;}}}}
-author:
-  login: annafava
-  email: anna.fava.13@um.edu.mt
-  display_name: Anna Fava
-  first_name: Anna
-  last_name: Fava
-excerpt: With the recognition of the general theory of relativity, the Newtonian edifice
-  of a mechanical world collapsed to yield the curved geometry of space-time. The
-  synthesis of space and time as one construct was the concoction of the phenomenological
-  perspective of time in accordance with the zeitgeist. The understanding of time
-  came to be perceived as internal, an intimate model, not an absolute external synchronous
-  ticking clock for all the universe. Humans exist as temporality, and human essence
-  is most fundamentally a temporality.
+date: 2014-03-21 18:58:22
+categories: Article
+author: Anna Fava
+excerpt: With the recognition of the general theory of relativity, the Newtonian edifice of a mechanical world collapsed to yield the curved geometry of space-time. The synthesis of space and time as one construct was the concoction of the phenomenological perspective of time in accordance with the zeitgeist. The understanding of time came to be perceived as internal, an intimate model, not an absolute external synchronous ticking clock for all the universe. Humans exist as temporality, and human essence is most fundamentally a temporality.
 ---
 <blockquote>'The rule is, jam tomorrow and jam yesterday - but never jam today.'</p>
 <p>'It must come sometimes to jam today,' Alice objected.</p>

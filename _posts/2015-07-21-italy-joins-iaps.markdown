@@ -1,50 +1,11 @@
 ---
 layout: post
 title: Italy joins IAPS!
-date: 2015-07-21 20:02:23.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Committee Article
-tags:
-- iaps
-- Italy
-- member
-- National committee
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _thumbnail_id: '925'
-  _yoast_wpseo_focuskw: Italy
-  _yoast_wpseo_title: Italy joins IAPS! - jIAPS
-  _yoast_wpseo_metadesc: During ICPS 2014 in Heidelberg, a group of enthusiastic young
-    physicists founded the Italian Association of Physics Students.
-  _yoast_wpseo_linkdex: '74'
-  _jetpack_related_posts_cache: a:0:{}
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: 'During ICPS 2014 in Heidelberg, a group of enthusiastic young physicists
-  founded the Italian Association of Physics Students (Associazione Italiana Studenti
-  di Fisica, AISF in Italian). The idea was ambitious and the task challenging: putting
-  together students from all corners of our Bel Paese to create a strong network of
-  students from many academic and research institutions. It was definitely not easy
-  at first, but the tireless efforts of the founding executive committee allowed to
-  overcome the first bureaucratic hurdles and provide initial momentum for the growth
-  of the society. Less than a year after the foundation, we can say that those efforts
-  have paid off. Today, AISF boasts more than 160 individual members from 15 establishments
-  of higher education, has organised the first Italian Conference of Physics Students
-  (CISF, Turin 16th - 17th May) and has also been a partner of IAPS in the organisation
-  of the successful event at the ENEA and Gran Sasso National Laboratory in Italy.
-  Several other projects and initiatives have also flourished within AISF and the
-  five active Local Committees are now independently organising their activities.'
+date: 2015-07-21 20:02:23
+categories: Article
+author: Norbert Bonnici
 ---
+
 <p style="text-align: justify;">During ICPS 2014 in Heidelberg, a group of enthusiastic young physicists founded the Italian Association of Physics Students (Associazione Italiana Studenti di Fisica, AISF in Italian). The idea was ambitious and the task challenging: putting together students from all corners of our Bel Paese to create a strong network of students from many academic and research institutions. It was definitely not easy at first, but the tireless efforts of the founding executive committee allowed to overcome the first bureaucratic hurdles and provide initial momentum for the growth of the society. Less than a year after the foundation, we can say that those efforts have paid off. Today, AISF boasts more than 160 individual members from 15 establishments of higher education, has organised the first Italian Conference of Physics Students (CISF, Turin 16th - 17th May) and has also been a partner of IAPS in the organisation of the successful event at the ENEA and Gran Sasso National Laboratory in Italy. Several other projects and initiatives have also flourished within AISF and the five active Local Committees are now independently organising their activities.</p>
 <p style="text-align: justify;">The first CISF marked an important step for the newborn AISF. It showed that the Association, even though still very young, could brilliantly face and win challenges such as the organisation of a national event, without <em>any</em> external help. It is also quite remarkable that nothing like this had ever taken place in Italy before: it was indeed the first time that Italian physics students could meet on a national basis. The participation of 70 students coming from all over the country shows that it was indeed quite a success. The students enjoyed two days of interesting activities, with a unique chance to create bonds and new friendships. A series of lectures held by world-class professors and researchers accompanied the first General Meeting of the Association. The participants also had the opportunity to visit the national research centre of metrology (INRIM), which hosts several experiments on nanomaterials, quantum optics and time measurement. This conference had a very positive impact on the participants and on the Association as whole; in particular, it was the seed from which several Local Committees sprouted all around the country and new members joined the Association, on a steady wave of enthusiasm.</p>
 <p style="text-align: justify;">Among AISF's initiatives, the FERMI project is well underway in its development. The project has two important aims. On the one hand, we have created a rich and up-to-date on-line database of internships for physics students, with particular emphasis on the ones available in Italy. On the other hand, we would like to boost the <em>culture</em> of internships in our country, by contributing to the creation of new opportunities for students to carry out research in universities, research laboratories, and major companies.</p>

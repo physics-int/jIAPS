@@ -1,29 +1,9 @@
 ---
 layout: post
 title: ICPS 2016 - NC Hungary
-date: 2014-07-06 12:55:08.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Bid
-tags: []
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: ICPS 2016
-  _yoast_wpseo_title: ICPS 2016 - NC Hungary - jIAPS
-  _yoast_wpseo_metadesc: The Hungarian Association of Physics Students (Mafihe, NC
-    Hungary) would be pleased to host the ICPS 2016.
-  _yoast_wpseo_linkdex: '78'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442237901;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:977;}i:1;a:1:{s:2:"id";i:198;}i:2;a:1:{s:2:"id";i:879;}}}}
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
+date: 2014-07-06 12:55:08
+categories: Bid
+author: Tamas Almos Vami
 ---
 <p>The International Conference of Physics Students (ICPS) is organised every year by a member society of IAPS.</p>
 <p>The <strong>Hungarian Association of Physics Students</strong> (Mafihe, NC Hungary) would be pleased to host ICPS <strong>2016</strong>. Since the first conference was organized in Hungary in 1986 by the Mafihe, thus we would love to celebrate its 30th birthday at its birthplace: <strong>Budapest</strong>.</p>

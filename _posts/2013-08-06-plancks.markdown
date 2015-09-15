@@ -1,50 +1,9 @@
 ---
 layout: post
 title: PLANCKS
-date: 2013-08-06 23:17:23.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Committee Article
-- Event
-tags:
-- '2014'
-- kick-ass
-- league
-- Max Planck
-- May
-- Netherlands
-- physics competition
-- PLANCKS
-- students
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '357'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: planck
-  _yoast_wpseo_title: PLANCKS - jIAPS
-  _yoast_wpseo_metadesc: Assuming you’re a physicist... Most likely you’ll refer to
-    the famous German physicist Max Planck, which delivered great work on black body
-    radiation.
-  _yoast_wpseo_linkdex: '85'
-  _wpcom_is_markdown: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442058138;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:781;}i:1;a:1:{s:2:"id";i:940;}i:2;a:1:{s:2:"id";i:283;}}}}
-author:
-  login: caspervanschuppen
-  email: casper@plancks.info
-  display_name: Casper van Schuppen
-  first_name: Casper
-  last_name: van Schuppen
-excerpt: Did you ever hear of the name PLANCKS. Assuming you’re a physicist, sure
-  you have. Most likely you’ll refer to the famous German physicist Max Planck, which
-  delivered great work on black body radiation. PLANCKS however is also the abbreviation
-  for “Physics League Across Numerous Countries for Kick-ass Students”. Good chance
-  you haven’t heard of that before. It is an international competition for university
-  students, both undergraduates and graduates, with a focus on theoretical physics.
-  The first of what will hopefully become a long lasting series of high-level international
-  physics olympiads.
+date: 2013-08-06 23:17:23
+categories: Event
+author: Casper van Schuppen
 ---
 <p style="text-align: justify;">Did you ever hear of the name PLANCKS. Assuming you're a physicist, sure you have. Most likely you'll refer to the famous German physicist Max Planck, which delivered great work on black body radiation. PLANCKS however is also the abbreviation for "Physics League Across Numerous Countries for Kick-ass Students". Good chance you haven't heard of that before. It is an international competition for university students, both undergraduates and graduates, with a focus on theoretical physics. The first of what will hopefully become a long lasting series of high-level international physics olympiads.</p>
 <p style="text-align: justify;">PLANCKS is a three day event, taking place from the 23rd till the 25th of May. Core activity: a contest providing a wide range of exercises in the field of theoretical physics. From every country across the world, three teams of the finest physics students can enter the competition to show what they're capable off. Teams can be up to four contestants. As a competitor, you will not only be part of the first PLANCKS competition ever to be organized, but also visit the majestic city of Utrecht, enjoy lectures of famous Physicists and join in many social activities to meet your foreign fellow students.</p>

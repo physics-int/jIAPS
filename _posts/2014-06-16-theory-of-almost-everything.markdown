@@ -1,35 +1,12 @@
 ---
 layout: post
 title: 'Theory of Almost Everything: The Standard Model and its imperfections'
-date: 2014-06-16 19:55:20.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- Particle Physics
-- Standard Model
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '4'
-  _yoast_wpseo_focuskw: Theory of Almost Everything
-  _yoast_wpseo_title: Theory of Almost Everything - jIAPS
-  _yoast_wpseo_linkdex: '71'
-  _wpas_done_all: '1'
-  _thumbnail_id: '672'
-  _wpas_skip_2192546: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442294218;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:898;}i:1;a:1:{s:2:"id";i:758;}i:2;a:1:{s:2:"id";i:915;}}}}
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
+date: 2014-06-16 19:55:20
+categories: Article
+author: Norbert Bonnici
 ---
-<div title="Page 9">
-<div>
-<h1 style="text-align: justify;">Introduction to the Standard Model</h1>
+
+##Introduction to the Standard Model
 <p style="text-align: justify;">The Standard Model of particle physics (SM) is a theoretical framework which unifies the electromagnetic, weak, and strong nuclear interactions. They have the most important role in the world of the elementary particles known by mankind. As the parts of the SM we can mention two very important theories:</p>
 <p style="text-align: justify;">a) Electroweak theory. This is the unification of the weak and electromagnetic interaction between the elementary particles. This theory was elaborated by Abdus Salam, Sheldon Glashow and Steven Weinberg in the latter half of the 20th century. In appreciation of their work they got the Nobel Prize in Physics in 1979. [1]</p>
 <p style="text-align: justify;">b) Quantum chromodynamics (QCD). The QCD is a theory of strong interactions, a fundamental force describing the interactions between quarks and gluons which make up hadrons (such as protons and neutrons, see more detailed description later). David J. Gross, H. David Politzer and Frank Wilczek were rewarded with the Nobel Prize in 2004 for recognizing one of the consequences of the QCD. [2]</p>

@@ -1,36 +1,9 @@
 ---
 layout: post
 title: IAPS renews cooperation with IFISO
-date: 2014-04-02 11:00:52.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags:
-- collaboration
-- iaps
-- ifiso
-- Informal Forum of International Student Organisations
-meta:
-  _wpas_done_all: '1'
-  _edit_last: '1'
-  _thumbnail_id: '549'
-  _yoast_wpseo_focuskw: IFISO
-  _yoast_wpseo_title: IAPS renews cooperation with IFISO - jIAPS
-  _yoast_wpseo_metadesc: This year the Executive Committee of IAPS supports the Informal
-    Forum of International Student Organisations IFISO with one member in their management
-    team.
-  _yoast_wpseo_linkdex: '91'
-  _wpas_skip_2192546: '1'
-  _wpcom_is_markdown: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442005123;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:879;}i:1;a:1:{s:2:"id";i:758;}i:2;a:1:{s:2:"id";i:987;}}}}
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
+date: 2014-04-02 11:00:52
+categories: Event
+author:  Norbert Bonnici
 ---
 <p style="text-align: justify;">This year the Executive Committee from the International Association of Physics Students (IAPS) supports the Informal Forum of International Student Organisations (IFISO) with one member in their management team. IAPS has not been a member of IFISO since a couple of years, but this year they became a member once more.</p>
 <h1 style="text-align: justify;">What is IFISO?</h1>

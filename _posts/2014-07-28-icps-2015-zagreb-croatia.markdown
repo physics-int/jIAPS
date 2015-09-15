@@ -1,37 +1,9 @@
 ---
 layout: post
 title: ICPS 2015 - Zagreb, Croatia
-date: 2014-07-28 09:29:21.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-- Event
-tags:
-- '2015'
-- croatia
-- ICPS
-- Zagreb
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _thumbnail_id: '772'
-  _post_restored_from: a:3:{s:20:"restored_revision_id";i:773;s:16:"restored_by_user";i:1;s:13:"restored_time";i:1406501383;}
-  _yoast_wpseo_focuskw: ICPS 2015
-  _yoast_wpseo_title: ICPS 2015 - Zagreb, Croatia - jIAPS
-  _yoast_wpseo_metadesc: Next year's International Conference of Physics Students
-    (ICPS) will be hosted by the Student section of the Croatian Physical Society,
-    in Zagreb, Croatia.
-  _yoast_wpseo_linkdex: '77'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442354953;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:198;}i:1;a:1:{s:2:"id";i:283;}i:2;a:1:{s:2:"id";i:278;}}}}
-author:
-  login: ivana.kurecic
-  email: ivanakurecic@gmail.com
-  display_name: Ivana Kurečić
-  first_name: Ivana
-  last_name: Kurečić
+date: 2014-07-28 09:29:21
+categories: Event
+author: Ivana Kurečić
 ---
 <p>Next year's International Conference of Physics Students (ICPS) will be hosted by the Student section of the Croatian Physical Society, in Zagreb, Croatia. Find out what you can expect at 2015's ICPS in the following article!</p>
 <p>The National Committee (NC) Croatia had presented their bid for organising the ICPS 2015 on last year's Annual General Meeting (AGM), and Zagreb was voted as the future host city for the ICPS! Croatian physics students have a long and devoted history at the ICPS – we come in big numbers and high volume, and we definitely like taking charge. We already have two highly successful ICPS organisation projects under our belts – the ICPS in 2000 was held in Zadar, and the one in 2009 in Split – both our gorgeous coastal cities, but something was missing in that equation. The majority of Croatian physics students reside in the Croatian capital, Zagreb, with the headquarters of the NC Croatia located at the Department of Physics at the University of Zagreb.</p>

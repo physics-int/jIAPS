@@ -1,34 +1,9 @@
 ---
 layout: post
 title: AFNEUS - La fédération des étudiants en Sciences
-date: 2013-07-04 22:52:08.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Committee Article
-tags:
-- afneus
-- Association Fédérative Nationale des Étudiants Universitaire Scientifiques
-- france
-- students
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '256'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: afneus
-  _yoast_wpseo_title: AFNEUS - La fédération des étudiants en Sciences - jIAPS
-  _yoast_wpseo_metadesc: The Association Fédérative Nationale des Étudiants Universitaire
-    Scientifiques (AFNEUS) is an association governed by the law of July 1st, 1901.
-  _yoast_wpseo_linkdex: '86'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1438594777;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:283;}i:1;a:1:{s:2:"id";i:198;}i:2;a:1:{s:2:"id";i:781;}}}}
-author:
-  login: alois.dubois
-  email: president@afneus.org
-  display_name: Aloïs Dubois
-  first_name: Aloïs
-  last_name: Dubois
+date: 2013-07-04 22:52:08
+categories: Committee Article
+author: Aloïs Dubois
 ---
 <p style="text-align: justify;"><span style="font-size: 13px;">The Association Fédérative Nationale des Étudiants Universitaire Scientifiques (AFNEUS) is an association governed by the law of July 1st, 1901. It aims at representing the science students in the various national and university bodies by means of its associations' members in the respect for their personal freedoms, so extending their values of citizenship, help and solidarity between science students. To reach its purposes, the AFNEUS proposes training to the leaders of associations and to the associative student elected representatives in the various authorities. It continues to develop by participating in many reflections revolving about sciences. Thus since 1999, AFNEUS has been struggling against the disaffection of the scientific studies by participating and by organising national meetings to exchange the reflections. This gave rise to the publication of a first report in 2001 and a second in 2005.</span></p>
 <h1 style="text-align: justify;">Defending students</h1>

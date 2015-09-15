@@ -1,36 +1,9 @@
 ---
 layout: post
 title: 'Claytronics: from Atoms to Catoms'
-date: 2013-07-02 18:25:18.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- catoms
-- claytronics
-- minicomputers
-- minirobots
-- programmable matter
-- programming
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '189'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_linkdex: '87'
-  _yoast_wpseo_focuskw: claytronics
-  _yoast_wpseo_title: 'Claytronics: from Atoms to Catoms'
-  _yoast_wpseo_metadesc: Claytronics i.e. programmable matter could change the world
-    as we know it.
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442329503;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:531;}i:1;a:1:{s:2:"id";i:356;}i:2;a:1:{s:2:"id";i:311;}}}}
-author:
-  login: deividas.sabonis
-  email: deividassab@gmail.com
-  display_name: Deividas Sabonis
-  first_name: Deividas
-  last_name: Sabonis
+date: 2013-07-02 18:25:18
+categories: Article
+author: Deividas Sabonis
 ---
 <p style="text-align: justify;"><strong>Abstract</strong>: Billions of microscopic robots working together in a vast network to build 3D objects that can change colour, feel solid to the touch, can be moulded and changed into almost anything. Claytronics i.e. programmable matter could change the world as we know it.</p>
 <p style="text-align: justify;">You are probably thinking what is <em>Claytronics</em>? Did I miss anything in my physics lectures? Well, You can be secure about that because the field is just growing (though very rapidly). So by the time you finish reading this article you will be probably thinking that the term <em>claytronics</em> is very well suited.</p>

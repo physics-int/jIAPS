@@ -1,47 +1,9 @@
 ---
 layout: post
 title: ICPS 2014 in Heidelberg
-date: 2013-07-05 19:10:07.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags:
-- '2014'
-- DPG
-- Germany
-- Heidelberg
-- ICPS
-- ICPS 2014
-- International Conference for Physic
-- jDPG
-- Karlsruhe Institute of Technology
-- KIT
-- Young German Physical Society
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '288'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_linkdex: '81'
-  _yoast_wpseo_metadesc: Every year in August up to 450 physics students from all
-    over the world meet to attend the International Conference of Physics Students
-    (ICPS 2014).
-  _yoast_wpseo_title: ICPS 2014 in Heidelberg - jIAPS
-  _yoast_wpseo_focuskw: ICPS 2014
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441422491;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:770;}i:1;a:1:{s:2:"id";i:879;}i:2;a:1:{s:2:"id";i:198;}}}}
-author:
-  login: anna.bakenecker
-  email: bakenecker@jdpg.de
-  display_name: Anna Bakenecker
-  first_name: Anna
-  last_name: Bakenecker
-excerpt: Every year in August up to 450 physics students from all over the world meet
-  to attend the International Conference of Physics Students (ICPS). The ICPS is the
-  main event of the International Association of Physics Students. It is a conference
-  organised for students by students and is hosted in a different country every year.
-  In 2014 it will take place in Heidelberg, Germany.
+date: 2013-07-05 19:10:07
+categories: Event
+author: Anna Bakenecker
 ---
 <p style="text-align: justify;"><img class="size-single-thumbnail wp-image-284 alignleft" alt="Heidelberg" src="{{ site.baseurl }}/assets/Heidelberg-640x360.jpg" width="640" height="360" /></p>
 <p>&nbsp;</p>

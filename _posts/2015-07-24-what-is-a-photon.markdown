@@ -1,46 +1,20 @@
 ---
 layout: post
 title: What is a Photon?
-date: 2015-07-24 13:00:59.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- photonics
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442035527;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:417;}i:1;a:1:{s:2:"id";i:641;}i:2;a:1:{s:2:"id";i:798;}}}}
-  _yoast_wpseo_focuskw: photon
-  _yoast_wpseo_title: What is a Photon? - jIAPS
-  _yoast_wpseo_metadesc: A photon is an elementary particle describing the quantum
-    nature of light and all other forms of electromagnetic radiation.
-  _yoast_wpseo_linkdex: '91'
-  _thumbnail_id: '913'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: A photon is an elementary particle describing the quantum nature of light
-  and all other forms of electromagnetic radiation. It is the force carrier for the
-  electromagnetic force. The effects of this force are easily observed at both the
-  microscopic, and macroscopic level resulting from the fact that the photon has zero
-  rest mass; allowing for long distance interactions. Photons are best explained through
-  quantum mechanics like all other elementary particles that exhibit wave–particle
-  duality.
+date: 2015-07-24 13:00:59
+categories: Article
+author: Daphne Anne Pollacco
 ---
-<h2 style="text-align: justify;">Introduction</h2>
-<p style="text-align: justify;">A photon is an elementary particle describing the quantum nature of light and all other forms of electromagnetic radiation. It is the force carrier for the electromagnetic force. The effects of this force are easily observed at both the microscopic, and macroscopic level resulting from the fact that the photon has zero rest mass; allowing for long distance interactions. Photons are best explained through quantum mechanics like all other elementary particles that exhibit wave–particle duality.</p>
-<p style="text-align: justify;">Albert Einstein was the first to develop the modern concept of a photon through experimental observations. This new concept did not agree with the classical wave model of light. In contrast with the wave theory of light, the photon model accounted for the frequency dependence of light's energy, and explained the ability of matter and radiation to be in thermal equilibrium with each other. The new photon model also accounted for anomalous observations, such as black-body radiation, a phenomenon that other physicists, such as Max Planck, had sought to explain using semiclassical models. The "Compton scattering experiment" of single photons by electrons, first carried out in 1923, validated Einstein's hypothesis that light itself is quantised.</p>
-<p style="text-align: justify;">In the Standard Model of particle physics, photons are described as a necessary consequence of physical laws having a certain symmetry at every point in spacetime. This gauge symmetry allows us to determine the intrinsic properties of photons, such as charge, mass and spin. Moreover, the photon concept has led to various advances in experimental and theoretical physics, such as lasers, Bose-Einstein condensation, quantum field theory, and the probabilistic interpretation of quantum mechanics. As we shall see later on, photons are also being applied in photochemistry, high-resolution microscopy, and measurements of molecular distances. Recently, photons have been studied as elements of quantum computers and for applications in optical imaging and optical communication such as quantum cryptography.</p>
-<h2 style="text-align: justify;">What are the basic physical properties of a photon?</h2>
-<p style="text-align: justify;">A photon has zero mass, no electric charge [1] and has two possible polarisation states. In quantum field theory the momentum representation is preferred. This representation shall be used to derive said properties about photons. In this representation, a photon is described by its wave vector, which determines its wavelength $latex \lambda$ and its direction of propagation. A photon's wave vector may not be zero and can be represented either as a spatial three-vector or as a (relativistic) four-vector usually represented by the light cone shown in Figure 1.</p>
+
+##Introduction
+A photon is an elementary particle describing the quantum nature of light and all other forms of electromagnetic radiation. It is the force carrier for the electromagnetic force. The effects of this force are easily observed at both the microscopic, and macroscopic level resulting from the fact that the photon has zero rest mass; allowing for long distance interactions. Photons are best explained through quantum mechanics like all other elementary particles that exhibit wave–particle duality.
+
+Albert Einstein was the first to develop the modern concept of a photon through experimental observations. This new concept did not agree with the classical wave model of light. In contrast with the wave theory of light, the photon model accounted for the frequency dependence of light's energy, and explained the ability of matter and radiation to be in thermal equilibrium with each other. The new photon model also accounted for anomalous observations, such as black-body radiation, a phenomenon that other physicists, such as Max Planck, had sought to explain using semiclassical models. The "Compton scattering experiment" of single photons by electrons, first carried out in 1923, validated Einstein's hypothesis that light itself is quantised.
+
+In the Standard Model of particle physics, photons are described as a necessary consequence of physical laws having a certain symmetry at every point in spacetime. This gauge symmetry allows us to determine the intrinsic properties of photons, such as charge, mass and spin. Moreover, the photon concept has led to various advances in experimental and theoretical physics, such as lasers, Bose-Einstein condensation, quantum field theory, and the probabilistic interpretation of quantum mechanics. As we shall see later on, photons are also being applied in photochemistry, high-resolution microscopy, and measurements of molecular distances. Recently, photons have been studied as elements of quantum computers and for applications in optical imaging and optical communication such as quantum cryptography.
+
+##What are the basic physical properties of a photon?
+A photon has zero mass, no electric charge [1] and has two possible polarisation states. In quantum field theory the momentum representation is preferred. This representation shall be used to derive said properties about photons. In this representation, a photon is described by its wave vector, which determines its wavelength $latex \lambda$ and its direction of propagation. A photon's wave vector may not be zero and can be represented either as a spatial three-vector or as a (relativistic) four-vector usually represented by the light cone shown in Figure 1.
 <p>[caption id="attachment_901" align="aligncenter" width="333"]<img class="wp-image-901 size-full" src="{{ site.baseurl }}/assets/image2.png" alt="The cone shows possible values of wave 4-vector of a photon. The &quot;time&quot; axis gives the angular frequency (rad⋅s−1) and the &quot;space&quot; axes represent the angular wavenumber (rad⋅m−1). Green and indigo represent left and right polarisation. [29]" width="333" height="515" /> Figure 1. The cone shows possible values of wave 4-vector of a photon. The "time" axis gives the angular frequency (rad⋅s−1) and the "space" axes represent the angular wavenumber (rad⋅m−1). Green and indigo represent left and right polarisation. [29][/caption]</p>
 <p style="text-align: justify;">Photons are emitted in many naturally occurring radiative processes. During a molecular, atomic or nuclear transition to a lower energy level, photons of various energy are emitted. These range from radio waves to gamma rays. A photon can also be emitted when a particle and its corresponding antiparticle are annihilated. In deriving equations for the energy of a photon and other particles such as electrons, concepts from quantum mechanics and special relativity are used. Special relativity is useful since it predicts the momentum $latex p$ and wavelength $latex \lambda$ of the "particle". Together with quantum mechanics these statistics yield the general equations given below where <em>m</em> is the rest mass and <em>E</em> the total energy. [2] It is important to note for now that photons have zero rest mass. The reason for this shall be explained later on. In empty space, the photon moves at <em>c</em> (the speed of light) and its energy and momentum are related by <em>E</em> = <em>pc</em>, where <em>p</em> is the magnitude of the momentum vector <strong>p</strong>. This derives from the following relativistic relation, with <em>m</em> = 0 [3]:</p>
 <p style="text-align: center;">$latex E^{2}=p^{2}c^{2}+m^{2}c^{4}$</p>

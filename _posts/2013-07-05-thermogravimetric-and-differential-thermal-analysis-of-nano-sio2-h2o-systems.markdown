@@ -1,30 +1,9 @@
 ---
 layout: post
 title: Thermogravimetric and differential thermal analysis of nano SiO2 - H2O systems
-date: 2013-07-05 19:25:28.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- differential thermal analysis
-- DTA
-- SiO2
-- TGA
-- Thermogravimetric
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '301'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442372758;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:888;}i:1;a:1:{s:2:"id";i:690;}i:2;a:1:{s:2:"id";i:223;}}}}
-author:
-  login: elchin.huseynov
-  email: elchin55@yahoo.com
-  display_name: Elchin Huseynov
-  first_name: Elchin
-  last_name: Huseynov
+date: 2013-07-05 19:25:28
+categories: Article
+author: Elchin Huseynov
 ---
 <p style="text-align: justify;">SiO<sub>2</sub> - water systems prepared for the samples in selected rates were carried out for the thermogravimetric and differential thermal analysis. So, with the help of these curves a few parameters of these samples can be estimated with thermogravimetric analysis (TGA) and differential thermal analysis (DTA). The selected amount of water was added to nano-sized SiO<sub>2</sub> powder and differential thermal and thermogravimetric analysis were carried out in all cases. All TGA and DTA studies were carried out in the normal atmospheric pressure by "Simultaneous Thermal Analyser PerkinElmer, STA 6000" (USA) device with the speed of change of the temperature 10K/sec. TGA and DTA analysis of the four studies  appears that decreasing temperature, stabilisation of weight with the amount of water in the mixture increases. So, the stabilisation temperature of the weight 487.82<sup>o</sup>C (pure SiO<sub>2 </sub>nanopowder), the second case the 379.25<sup>o</sup>C (SiO<sub>2</sub> nanopowder and 0.015g water), and the third case, the 205.39<sup>o</sup>C (SiO<sub>2 </sub>nanopowder and 0.030g water), and the fourth case, the stabilisation temperature of the mixture occurs in 189.38<sup>o</sup>C (SiO<sub>2 </sub>nanopowder and 0.045g water). This can be explained by the increased amount of water in the mixture by the evaporated water rapidly taking out other admixtures from nanopowder and in the result weight stabilisation frequently occurs.</p>
 <p>[caption id="attachment_301" align="aligncenter" width="640"]<a href="http://jiaps.org/wp-content/uploads/2013/07/Screen-Shot-2013-07-05-at-19.15.05.png"><img class="size-single-thumbnail wp-image-301 " alt="Nano-SiO2 powder TGA and DTA curves containing 0.015 g of water" src="{{ site.baseurl }}/assets/Screen-Shot-2013-07-05-at-19.15.05-640x360.png" width="640" height="360" /></a> Figure 1: Nano-SiO2 powder TGA and DTA curves containing 0.015 g of water[/caption]</p>

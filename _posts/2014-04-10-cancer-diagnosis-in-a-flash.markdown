@@ -1,37 +1,19 @@
 ---
 layout: post
 title: Cancer Diagnosis in a Flash
-date: 2014-04-10 12:00:35.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- cancer
-meta:
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1440412534;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:898;}i:1;a:1:{s:2:"id";i:678;}i:2;a:1:{s:2:"id";i:798;}}}}
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: cancer diagnosis
-  _yoast_wpseo_title: Cancer Diagnosis in a Flash - jIAPS
-  _yoast_wpseo_metadesc: Little did Sir Venkata Raman know that less than a century
-    later his discovery could be used as an innovative method for cancer diagnosis.
-  _yoast_wpseo_linkdex: '77'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-author:
-  login: danielle.harper
-  email: djh64@st-andrews.ac.uk
-  display_name: Danielle Harper
-  first_name: Danielle
-  last_name: Harper
+date: 2014-04-10 12:00:35
+categories: Article
+author: Danielle Harper
 ---
-<p style="text-align: justify;"><span style="line-height: 1.5em;">When Sir Venkata Raman discovered the effect which was to be named after him in 1928, he had visions of shedding light on problems relating to radiation, optics and thermodynamics. Little did he know that less than a century later his discovery could be used as an innovative method to detect the disease which will affect one in three of the population – cancer.</span></p>
-<h1 style="text-align: justify;"><b>The Raman Effect</b></h1>
-<p style="text-align: justify;">When a photon is incident on a molecule there are three scenarios which can occur (shown in Figure 1). The case where there is no net energy transfer within the molecule is known as Rayleigh radiation, which was observed by Lord Rayleigh in the late 19<sup>th </sup>Century<sup>(4,5,6,7). </sup>In this instance, frequency of the incident photon is equal to that of the emitted photon, which is by far the most common scenario.</p>
-<p style="text-align: justify;">Figure 1: An incident photon absorbed by a molecule can undergo either Rayleigh (a), Stokes (b) or Anti-Stokes (c) radiation.</p>
-<p style="text-align: justify;">The effects which were observed by Raman are far less common. If the incident photon is of a higher frequency than the emitted photon (i.e. the photon has lost energy to the molecule) this is known as Stokes radiation. Only around 1 in 10<sup>7</sup> photons illustrate this effect.Anti-Stokes radiation occurs when the molecule is already in an excited state before absorbing the incoming photon. The incoming photon absorbs the energy from the molecule, resulting in the emitted photon being of higher frequency than that of the incident. From the Boltzmann Distribution, fewer molecules begin in an excited state therefore Anti-Stokes radiation is observed even less frequently than Stokes. It is for this reason that Raman Spectroscopy concerns itself only with Stokes radiation.</p>
+
+When Sir Venkata Raman discovered the effect which was to be named after him in 1928, he had visions of shedding light on problems relating to radiation, optics and thermodynamics. Little did he know that less than a century later his discovery could be used as an innovative method to detect the disease which will affect one in three of the population – cancer.
+
+##The Raman Effect
+When a photon is incident on a molecule there are three scenarios which can occur (shown in Figure 1). The case where there is no net energy transfer within the molecule is known as Rayleigh radiation, which was observed by Lord Rayleigh in the late 19<sup>th </sup>Century<sup>(4,5,6,7). </sup>In this instance, frequency of the incident photon is equal to that of the emitted photon, which is by far the most common scenario.
+
+Figure 1: An incident photon absorbed by a molecule can undergo either Rayleigh (a), Stokes (b) or Anti-Stokes (c) radiation.
+
+The effects which were observed by Raman are far less common. If the incident photon is of a higher frequency than the emitted photon (i.e. the photon has lost energy to the molecule) this is known as Stokes radiation. Only around 1 in 10<sup>7</sup> photons illustrate this effect.Anti-Stokes radiation occurs when the molecule is already in an excited state before absorbing the incoming photon. The incoming photon absorbs the energy from the molecule, resulting in the emitted photon being of higher frequency than that of the incident. From the Boltzmann Distribution, fewer molecules begin in an excited state therefore Anti-Stokes radiation is observed even less frequently than Stokes. It is for this reason that Raman Spectroscopy concerns itself only with Stokes radiation.</p>
 <h1 style="text-align: justify;"><b>What is Raman Spectroscopy?</b></h1>
 <p style="text-align: justify;">Raman Spectroscopy is a form of emission spectroscopy – an excited molecule falls from a high energy state E<sub>2</sub> to a lower energy state E<sub>1</sub>, emitting a photon in the process.A Raman spectrum shows a plot of scattered intensity as a function of the difference in energy between the incident photons and the scattered photons. When only considering the Raman case (i.e. Stokes and Anti-Stokes scattering) the spectrometer shows that the difference in frequency solely corresponds to the vibrational modes of the material being analysed. Every substance has a different Raman spectrum, making one compound differentiable from another.</p>
 <h1 style="text-align: justify;"><b>Cancer Detection</b></h1>

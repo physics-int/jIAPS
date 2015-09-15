@@ -1,45 +1,11 @@
 ---
 layout: post
 title: ICPS 2017 in Turin?
-date: 2015-07-21 17:34:45.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Bid
-tags:
-- '2017'
-- Bid
-- ICPS
-- Italy
-- Turin
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _thumbnail_id: '880'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442094677;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:710;}i:1;a:1:{s:2:"id";i:283;}i:2;a:1:{s:2:"id";i:198;}}}}
-  _yoast_wpseo_focuskw: ICPS 2017
-  _yoast_wpseo_title: Bid for ICPS 2017 - jIAPS
-  _yoast_wpseo_metadesc: Every year ICPS is organised by an IAPS member in a different
-    country we would be glad to offer the city of Turin (Torino) in Italy, as the
-    2017 destination
-  _wpas_done_all: '1'
-  _yoast_wpseo_linkdex: '66'
-  _wpas_skip_2192546: '1'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: "Every year ICPS is organised by an IAPS member in a different country. We
-  would be glad to offer the city of Turin (Torino) in Italy, as the 2017 destination.\r\n\r\nThe
-  Italian Association of Physics Students (AISF) is quite new in IAPS, but has already
-  proved its members' motivation and resolution in creating events both of international
-  and national interest. You can have a better insight in the article dedicated to
-  AISF in this issue. Up to now, Italy has never hosted an ICPS, so we would be immensely
-  pleased to break this record and offer all IAPS guests this new, unforgettable experience."
+date: 2015-07-21 17:34:45
+categories: Bid
+author: Andrea Celon
 ---
+
 <p>Every year ICPS is organised by an IAPS member in a different country. We would be glad to offer the city of Turin (Torino) in Italy, as the 2017 destination.</p>
 <p>The Italian Association of Physics Students (AISF) is quite new in IAPS, but has already proved its members' motivation and resolution in creating events both of international and national interest. You can have a better insight in the article dedicated to AISF in this issue. Up to now, Italy has never hosted an ICPS, so we would be immensely pleased to break this record and offer all IAPS guests this new, unforgettable experience.</p>
 <h2>ICPS organisers</h2>

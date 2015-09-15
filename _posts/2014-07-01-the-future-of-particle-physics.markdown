@@ -1,45 +1,11 @@
 ---
 layout: post
 title: 'The future of particle physics after the LHC: Compact Linear Collider'
-date: 2014-07-01 12:08:03.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- cern
-- higgs
-- LHC
-- Particle Physics
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '4'
-  _yoast_wpseo_focuskw: particle physics
-  _yoast_wpseo_title: The future of particle physics after the LHC - jIAPS
-  _yoast_wpseo_metadesc: Scientists all around the world are designing possible candidates
-    for the future frontier of particle physics enable to replace the largest and
-    the most....
-  _yoast_wpseo_linkdex: '82'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _wp_old_slug: the-futuree-of-particle-physics
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441616256;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:915;}i:1;a:1:{s:2:"id";i:641;}i:2;a:1:{s:2:"id";i:576;}}}}
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: Scientists all around the world are designing possible candidates for the
-  future frontier of particle physics enable to replace the largest and the most expensive
-  machine mankind has ever built - the LHC. Before scientists can decide what project
-  to push forward, the technologies and physics behind the various acceleration and
-  detection options have to be understood. The upcoming choice of the global scientific
-  community relies on the type of the future headliner accelerator (linear or circular)
-  and also on the type of the colliding particles (protons, electrons and positrons,
-  i.e. leptons, or muons).
+date: 2014-07-01 12:08:03
+categories: Article
+author: Norbert Bonnici
 ---
+
 <p style="text-align: justify;">When the LHC was about to be launched they said that "the future is here". Now the biggest accelerator in history has successfully finished its first run and the discovery of the Higgs boson was announced. The era of LHC and its discoveries has just begun and it has another two or even more decades of the cutting-edge science research hidden in it. A three years of the LHC run was enough for scientists to declare the Higgs boson discovery but it took almost 20 years to develop and establish it. While CERN engineers are currently upgrading LHC equipment for the upcoming run of highest energies, it is time to think about the next steps. What is the possible accelerator of the high energy experiments of the future?</p>
 <p style="text-align: justify;">Scientists all around the world are designing possible candidates for the future frontier of particle physics to enable the replacement of the largest and the most expensive machine mankind has ever built - the LHC. Before scientists can decide what project to push forward, the technologies and physics behind the various acceleration and detection options have to be understood. The upcoming choice of the global scientific community relies on the type of the future headliner accelerator (linear or circular) and also on the type of the colliding particles (protons, electrons and positrons, i.e. leptons, or muons).</p>
 <p style="text-align: justify;"><strong>Circular or linear?</strong></p>

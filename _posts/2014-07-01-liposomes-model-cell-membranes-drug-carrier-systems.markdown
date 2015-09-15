@@ -1,40 +1,11 @@
 ---
 layout: post
 title: 'Liposomes: model of cell membranes and drug carrier systems'
-date: 2014-07-01 11:31:31.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- biomedical
-- cell modelling
-- Liposomes
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '4'
-  _yoast_wpseo_focuskw: liposomes
-  _yoast_wpseo_title: 'Liposomes: model of cell membranes and drug carrier systems'
-  _yoast_wpseo_metadesc: Liposomes are lipid vesicles made of phospholipids consisting
-    of one or more bilayers surrounding aqueous compartments.
-  _yoast_wpseo_linkdex: '90'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _thumbnail_id: '734'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442288695;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:526;}i:1;a:1:{s:2:"id";i:634;}i:2;a:1:{s:2:"id";i:964;}}}}
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: 'Liposomes are lipid vesicles made of phospholipids consisting of one or
-  more bilayers surrounding aqueous compartments [New, 1990]. Etymology of the name
-  liposome is derived from two Greek words: lipos = fat and soma = body. Since their
-  discovery by Bangham et al. in 1960s, they were used mainly as models of cell membranes,
-  due to their structural similarity with the biomembranes [Bangham, 1983].'
+date: 2014-07-01 11:31:31
+categories: Article
+author: Norbert Bonnici
 ---
+
 <p><i>Liposomes</i> are lipid vesicles made of phospholipids consisting of one or more bilayers surrounding aqueous compartments [New, 1990]. Etymology of the name <i>liposome</i> is derived from two Greek words: <i>lipos</i> = fat and <i>soma</i> = body. Since their discovery by Bangham <i>et al.</i> in 1960s, they were used mainly as models of cell membranes, due to their structural similarity with the biomembranes [Bangham, 1983].</p>
 <p>The liposomes could be made by dispersing lipids in an aqueous medium. In the lipid bilayer that results from this process quickly and spontaneously by of a <i>self-assembling</i> process, amphiphilic molecules are oriented so that the hydrophilic heads of lipid molecules to be located at the lipid-water interface (Figure 1) and the hydrocarbon chains to be restricted within the bilayer inside, without contact with water media.</p>
 <p>[caption id="attachment_696" align="aligncenter" width="300"]<a href="http://jiaps.org/wp-content/uploads/2014/07/Screen-Shot-2014-07-01-at-11.42.48.png"><img class="size-medium wp-image-696" src="{{ site.baseurl }}/assets/Screen-Shot-2014-07-01-at-11.42.48-300x178.png" alt="The lipid bilayer structure of a liposome" width="300" height="178" /></a> Fig.1. The lipid bilayer structure of a liposome[/caption]</p>

@@ -2,34 +2,11 @@
 layout: post
 title: 'The quest for a unified theory: why quantum gravity still proves  to be elusive
   to modern day physicists'
-date: 2014-06-30 16:16:47.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- quantum gravity
-- unified theory
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: quantum gravity
-  _yoast_wpseo_title: 'The quest for a unified theory: why quantum gravity still...'
-  _yoast_wpseo_metadesc: The pursuit of quantum gravity is mainly split into three
-    main lines of research, known as covariant, canonical and sum over histories.
-  _yoast_wpseo_linkdex: '86'
-  _thumbnail_id: '730'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442267917;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:977;}i:1;a:1:{s:2:"id";i:898;}i:2;a:1:{s:2:"id";i:641;}}}}
-author:
-  login: annafava
-  email: anna.fava.13@um.edu.mt
-  display_name: Anna Fava
-  first_name: Anna
-  last_name: Fava
+date: 2014-06-30 16:16:47
+categories: Article
+author: Anna Fava
 ---
+
 <blockquote>
 <p style="text-align: justify;">'... [the] vision of the universe arranged in harmonies of sounds and relations is no new discovery. Today, physicists are simply proving that what we call an object... an atom, a molecule, a particle, is only an approximation, a metaphor. At the subatomic level, it dissolves into a series of interconnections like chords of music. It's beautiful.'</p>
 <p style="text-align: justify;">'Yeah, but there are boundaries, aren't there? I mean, between you and me, for instance. We are two separate bodies, aren't we? That's not an illusion. Is it? Are you saying that there is a physical connection... between you and me, and you and the wall behind you... and the air and this bench?'</p>

@@ -1,43 +1,15 @@
 ---
 layout: post
 title: Laser Cooling by the Doppler effect
-date: 2015-07-14 23:32:27.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- laser cooling
-- optics
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442186359;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:898;}i:1;a:1:{s:2:"id";i:531;}i:2;a:1:{s:2:"id";i:888;}}}}
-  _wpas_done_all: '1'
-  _yoast_wpseo_linkdex: '91'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: cooling
-  _yoast_wpseo_title: Laser Cooling by the Doppler effect - jIAPS
-  _yoast_wpseo_metadesc: Cooling atoms using laser beams has allowed a relatively
-    new, rapid expanding field to emerge.
-  _thumbnail_id: '929'
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
-excerpt: 'The ability to cool and manipulate atoms using laser beams has allowed a
-  relatively new, rapid expanding field to emerge. Current research focus primarily
-  on how existing cooling techniques can be improved. The applications of cold atoms
-  can vary from atomic clocks to studies of quantum degeneracy. This paper explains
-  the basic mechanisms used in laser cooling and illustrates the development of the
-  field by describing a selection of key experiments. '
+date: 2015-07-14 23:32:27
+categories: Article
+author: Kevin Psaila
 ---
-<p><strong>The ability to cool and manipulate atoms using laser beams has allowed a relatively new, rapid expanding field to emerge. Current research focus primarily on how existing cooling techniques can be improved. The applications of cold atoms can vary from atomic clocks to studies of quantum degeneracy. This paper explains the basic mechanisms used in laser cooling and illustrates the development of the field by describing a selection of key experiments. </strong></p>
-<h2>Introduction</h2>
-<p style="text-align: justify;">By laser cooling, one can prepare a sample of atoms with an RMS velocity $latex &lt; 1ms^{-1}$ and with a temperature on the order of a few $latex 100\mu K$. On absorbing and emitting light, an atom recoils since the photon imparts some momentum, albeit a tiny amount, to the atom. This causes the atom to be both accelerated and decelerated depending on whether it is moving towards or away from the light source. Doppler cooling involves light whose frequency is red-detuned to just below the resonance frequency of the atoms. Now, atoms moving towards the light are blue-shifted into resonance and are more likely to absorb the light whilst those moving away from the light are red-shifted further away from resonance and are less likely to absorb the light. The atoms absorb more photons if they move towards the light source due to the Doppler effect and hence this leads to preferential absorption towards the light source. As this is the direction of motion, the atoms are decelerated or slowed. Following absorption, atoms re-emit spontaneously and the recoil is in a random direction, however, on repeating this process many times, the mean velocity and thus the kinetic energy of the atom will be reduced. As a result atoms are slowed down and since temperature is the measure of random internal kinetic energy, the atoms are cooled.</p>
+
+<strong>The ability to cool and manipulate atoms using laser beams has allowed a relatively new, rapid expanding field to emerge. Current research focus primarily on how existing cooling techniques can be improved. The applications of cold atoms can vary from atomic clocks to studies of quantum degeneracy. This paper explains the basic mechanisms used in laser cooling and illustrates the development of the field by describing a selection of key experiments. </strong>
+
+##Introduction<
+By laser cooling, one can prepare a sample of atoms with an RMS velocity $latex &lt; 1ms^{-1}$ and with a temperature on the order of a few $latex 100\mu K$. On absorbing and emitting light, an atom recoils since the photon imparts some momentum, albeit a tiny amount, to the atom. This causes the atom to be both accelerated and decelerated depending on whether it is moving towards or away from the light source. Doppler cooling involves light whose frequency is red-detuned to just below the resonance frequency of the atoms. Now, atoms moving towards the light are blue-shifted into resonance and are more likely to absorb the light whilst those moving away from the light are red-shifted further away from resonance and are less likely to absorb the light. The atoms absorb more photons if they move towards the light source due to the Doppler effect and hence this leads to preferential absorption towards the light source. As this is the direction of motion, the atoms are decelerated or slowed. Following absorption, atoms re-emit spontaneously and the recoil is in a random direction, however, on repeating this process many times, the mean velocity and thus the kinetic energy of the atom will be reduced. As a result atoms are slowed down and since temperature is the measure of random internal kinetic energy, the atoms are cooled.</p>
 <h2>Deceleration and cooling of atomic beams</h2>
 <p style="text-align: justify;">The cooling process of atoms in free space can be done in various ways including the cavity Doppler cooling method. This method could be done either with a single transverse mode or by using degenerate transverse modes. We will see, in some detail, how does the former method works.</p>
 <h3>Cooling with a single transverse mode</h3>

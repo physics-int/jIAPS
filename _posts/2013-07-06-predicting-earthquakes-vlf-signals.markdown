@@ -1,42 +1,9 @@
 ---
 layout: post
 title: Predicting earthquakes! VLF signals
-date: 2013-07-06 14:19:15.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- earthquakes
-- predicting
-- prediction
-- signal processing
-- VLF
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  _thumbnail_id: '321'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_linkdex: '82'
-  _yoast_wpseo_focuskw: earthquakes
-  _yoast_wpseo_title: Predicting earthquakes! VLF signals - jIAPS
-  _yoast_wpseo_metadesc: This huge stored energy produces tremendous disturbances
-    affecting the earth's crust by attaining equilibrium through reactions we call
-    earthquakes.
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442089833;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:699;}i:1;a:1:{s:2:"id";i:678;}i:2;a:1:{s:2:"id";i:931;}}}}
-author:
-  login: suresh.pant
-  email: sureshpant@outlook.com
-  display_name: Suresh Pant
-  first_name: Suresh
-  last_name: Pant
-excerpt: Earth’s surface is under slow but continuous movement of tectonic plates
-  due to which collisions, rupturing and micro-fracturing of rocks in the crust occurs.
-  Huge amounts of strain energy is developed as a result of such contraction and stretching
-  of the tectonic plates. This huge stored energy produces tremendous disturbances
-  affecting the earth’s crust that are balanced by attaining equilibrium through reactions
-  we call earthquakes.
+date: 2013-07-06 14:19:15
+categories: Article
+author: Suresh Pant
 ---
 <p style="text-align: justify;">Earth's surface is under slow but continuous movement of tectonic plates due to which collisions, rupturing and micro-fracturing of rocks in the crust occurs. Huge amounts of strain energy is developed as a result of such contraction and stretching of the tectonic plates. This huge stored energy produces tremendous disturbances affecting the earth's crust that are balanced by attaining equilibrium through reactions we call earthquakes.</p>
 <p style="text-align: justify;">Earthquakes have been creating lots of misery almost everywhere. It is one of the natural disasters that cannot be predicted until it happens. More often than not, earthquakes have devastating effects upon property and life so the prediction of earthquakes is very important. Since quakes cannot be prevented, perhaps, the best way to face their attack is to mitigate their adverse effect. The use of quake-resistant structures, that use shockers or lightweight construction materials can be effective, but they are not always affordable for the public at large and many not be able to withstand seismic over 6.5 on the Richter scale. Although this is a proactive approach to the present impossibility of prevention, Greeks, earlier on, used to study the anomalous behaviours of animals like dogs, rats and reptiles to predict earthquakes. Also, scientists in China suggested that there was deviation in the voice bandwidth of parrots just before an earthquake. The presence of radioactivity in the atmosphere due to changes in the level of radon gas due to seismic activity was first monitored in Russia as a possible method of prediction. However, none of these methods could predict earthquake for sure and minimise the loss because of it.</p>

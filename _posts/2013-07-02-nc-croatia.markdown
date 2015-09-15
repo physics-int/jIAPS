@@ -1,39 +1,9 @@
 ---
 layout: post
 title: NC Croatia
-date: 2013-07-02 23:37:25.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Bid
-- Committee Article
-tags:
-- conference
-- ICPS
-- icps 2015
-- International Conference for Physics Students
-- NC Croatia
-- physics
-- Physics Express
-- Zagreb
-meta:
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _thumbnail_id: '202'
-  _yoast_wpseo_focuskw: croatia
-  _yoast_wpseo_title: NC Croatia - jIAPS
-  _yoast_wpseo_metadesc: This year, NC Croatia is putting forward a bid for the position
-    of host of the ICPS 2015 at the Annual General Meeting of the IAPS.
-  _yoast_wpseo_linkdex: '79'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441545747;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:770;}i:1;a:1:{s:2:"id";i:879;}i:2;a:1:{s:2:"id";i:710;}}}}
-author:
-  login: ivana.kurecic
-  email: ivanakurecic@gmail.com
-  display_name: Ivana Kurečić
-  first_name: Ivana
-  last_name: Kurečić
+date: 2013-07-02 23:37:25
+categories: Article
+author: Ivana Kurečić
 ---
 <p style="text-align: justify;">I am sure you have all become well acquainted with the Croats in your ICPS experience so far. They are the friendly and loud part of the ICPS parties, they migrate to the host countries in larger numbers with each passing year, they have brought to you student lectures ranging from the physical explanations of curve balls to the summaries of their published research papers, as well as encouraged the development of your experimental instincts with suspicious food and drinks at the National parties. And now they would like to invite you to visit them on their home ground.</p>
 <p style="text-align: justify;">This year, NC Croatia is putting forward a bid for the position of host of the ICPS 2015 at the Annual General Meeting of the IAPS. The first Croatian ICPS was held in 2000 in Zadar, and we had decided to call it a test run. We may come from a small country, but the students who had found their way to the ICPS 2009 in Split would certainly assure you that we are capable of making the ICPS big. It lasted for nine days and it was the first ICPS to accept the large number of participants we are accustomed to seeing these past years, as well as cause an international incident (to the best of our knowledge). We believe it is time to up the stakes by inviting you to our capital, Zagreb.</p>

@@ -1,31 +1,9 @@
 ---
 layout: post
 title: Building “Winnie-the-Pooh” computer cluster
-date: 2013-07-04 17:13:53.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- clusters
-- Computing
-- High
-- HPC
-- Performance
-- Winnie-the-Pooh
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '240'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442331908;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:417;}i:1;a:1:{s:2:"id";i:198;}i:2;a:1:{s:2:"id";i:699;}}}}
-author:
-  login: maciej.lewicki
-  email: lewickimaciejj@gmail.com
-  display_name: Maciej Lewicki
-  first_name: Maciej
-  last_name: Lewicki
+date: 2013-07-04 17:13:53
+categories: Article
+author: Maciej Lewicki
 ---
 <div title="Page 1">
 <p style="text-align: justify;"><em style="font-size: 13px;">Institute of Theoretical Physics</em><span style="font-size: 13px;">, University of Wrocław</span></p>

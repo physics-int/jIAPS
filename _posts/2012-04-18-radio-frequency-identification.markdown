@@ -1,34 +1,9 @@
 ---
 layout: post
 title: Radio Frequency Identification
-date: 2012-04-18 16:40:10.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- Frequency
-- Identification
-- Radio
-- RFID
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '71'
-  _wpas_skip_2192546: '1'
-  _yoast_wpseo_focuskw: rfid
-  _yoast_wpseo_title: Radio Frequency Identification - jIAPS
-  _yoast_wpseo_metadesc: RFIDs have existed for over 50 years and devices that roughly
-    resemble the operating principles of RFIDs can be traced back to the Second World
-    War.
-  _yoast_wpseo_linkdex: '84'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442280764;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:699;}i:1;a:1:{s:2:"id";i:898;}i:2;a:1:{s:2:"id";i:426;}}}}
-author:
-  login: ericpace
-  email: ericpace@gmail.com
-  display_name: Eric Pace
-  first_name: Eric
-  last_name: Pace
+date: 2012-04-18 16:40:10
+categories: Article
+author: Eric Pace
 ---
 <div>
 <h2><span style="font-size: 16px; line-height: 1.5;"><span style="font-family: Georgia, 'Times New Roman', serif; font-size: 34px; line-height: 44px;">History</span></span></h2>

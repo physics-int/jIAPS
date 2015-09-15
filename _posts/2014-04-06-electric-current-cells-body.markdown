@@ -1,38 +1,9 @@
 ---
 layout: post
 title: Electric current in the cells of our body
-date: 2014-04-06 14:00:05.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- biology
-- body
-- cells
-- electrical current
-- excitation
-- stimulai
-meta:
-  _yoast_wpseo_title: Electric current in the cells of our body - jIAPS
-  _edit_last: '4'
-  _yoast_wpseo_focuskw: electric current
-  _yoast_wpseo_metadesc: Have you ever asked yourself how does your heart work? Why
-    does muscle contraction occur? By what is our sexual attraction is mediated? electric
-    current
-  _yoast_wpseo_linkdex: '81'
-  _thumbnail_id: '592'
-  _wpcom_is_markdown: '1'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441748340;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:161;}i:1;a:1:{s:2:"id";i:690;}i:2;a:1:{s:2:"id";i:964;}}}}
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
+date: 2014-04-06 14:00:05
+categories: Article
+author:  Norbert Bonnici
 ---
 <p style="text-align: justify;">Have you ever asked yourself how does your heart work? Why does muscle contraction occur? By what is our sexual attraction mediated? How does our skin react to touch and from where does pain occur? All these processes have one common feature of cells in our body - excitation.</p>
 <p style="text-align: justify;">Excitation is an active reaction of specialised (excitable) cells to external stimuli, which is manifested in the fact that the cell begins to perform specific functions inherent to it.</p>

@@ -1,29 +1,9 @@
 ---
 layout: post
 title: ICPS 2013 - Edinburgh
-date: 2013-07-04 23:48:44.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags:
-- '2013'
-- Edinburgh
-- ICPS
-- International Conference for Physics Students
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '265'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442024865;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:283;}i:1;a:1:{s:2:"id";i:198;}i:2;a:1:{s:2:"id";i:710;}}}}
-author:
-  login: rossdonaldson
-  email: rjd9@hw.ac.uk
-  display_name: Ross Donaldson
-  first_name: Ross
-  last_name: Donaldson
+date: 2013-07-04 23:48:44
+categories: Event
+author: Ross Donaldson
 ---
 <p style="text-align: justify;">by <a href="mailto:rjd9@hw.ac.uk">Ross Donaldson</a></p>
 <p style="text-align: justify;">ICPS 2013 will be the 28<sup>th</sup> ICPS conference and will be hosted by Heriot-Watt University, from the 15<sup>th</sup> till the 21<sup>st</sup> of August. Heriot-Watt University is located on the Western outskirts of the capital city of Scotland, Edinburgh. This will be the first time the conference has been in Scotland and the first time it has been in the UK since 2007 where it was hosted by University College London. Scotland is a country full of culture and pride and the organisation committee is working hard to make the conference something special. During August each year Edinburgh hosts a series of festivals, one of the biggest is the Fringe Festival, which gives the conference participants a fantastic opportunity to see Edinburgh at its best. The festival season has a wide selection of shows (from stand-up comedy to artistic) that participants can go and see. There are a large number of shows which are free as well at the free Fringe Festival. The festival also has a lot of street entertainment that can be seen.</p>

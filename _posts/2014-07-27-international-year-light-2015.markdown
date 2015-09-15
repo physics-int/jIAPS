@@ -1,32 +1,9 @@
 ---
 layout: post
 title: International Year of Light 2015
-date: 2014-07-27 23:32:17.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Event
-tags: []
-meta:
-  _wpcom_is_markdown: '1'
-  _edit_last: '1'
-  _yoast_wpseo_focuskw: International Year of Light
-  _yoast_wpseo_title: International Year of Light 2015 - jIAPS
-  _yoast_wpseo_metadesc: To highlight the importance of light to the citizens of the
-    world, the United Nations proclaimed the year 2015 as the International Year of
-    Light.
-  _yoast_wpseo_linkdex: '79'
-  _thumbnail_id: '761'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442084198;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:531;}i:1;a:1:{s:2:"id";i:987;}i:2;a:1:{s:2:"id";i:426;}}}}
-author:
-  login: matthiaszimmermann
-  email: matthias.zimmermann@iaps.info
-  display_name: Matthias Zimmermann
-  first_name: Matthias
-  last_name: Zimmermann
+date: 2014-07-27 23:32:17
+categories: Event
+author: Matthias Zimmermann
 ---
 <h1><a href="http://jiaps.org/wp-content/uploads/2014/07/Light.png"><img class="aligncenter size-large wp-image-762" src="{{ site.baseurl }}/assets/Light-1024x151.png" alt="Light" width="1024" height="151" /></a></h1>
 <h1><strong>Overview</strong></h1>

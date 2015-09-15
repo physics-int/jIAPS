@@ -1,32 +1,9 @@
 ---
 layout: post
 title: 3D OLED Displays
-date: 2013-05-02 07:56:39.000000000 +02:00
-type: post
-published: true
-status: publish
-categories:
-- Article
-tags:
-- 3D
-- displays
-- flexible
-- glasses
-- OLED
-- Samsung
-- TV
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '173'
-  _wpas_done_all: '1'
-  _wpas_skip_2192546: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1442006271;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:7;}i:1;a:1:{s:2:"id";i:184;}i:2;a:1:{s:2:"id";i:798;}}}}
-author:
-  login: bertu
-  email: norbert@bonnici.co
-  display_name: Norbert Bonnici
-  first_name: Norbert
-  last_name: Bonnici
+date: 2013-05-02
+categories: Article
+author: Norbert Bonnici
 ---
 <h1>Introduction to 3D displays</h1>
 <p>What must a 2D plane do to make a viewer think that they are actually looking into a 3D space? This has been a question to many scientists and engineers worldwide to create a non-volumetric display which is capable of giving viewers stereoscopic cues for a monocular system: [1]</p>
