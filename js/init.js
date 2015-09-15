@@ -8,12 +8,12 @@
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			global: { href: '{{ site.url }}{{ site.baseurl }}css/style.css', containers: '45em', grid: { gutters: ['2em', 0] } },
-			xlarge: { media: '(max-width: 1680px)', href: '{{ site.url }}{{ site.baseurl }}css/style-xlarge.css' },
-			large: { media: '(max-width: 1280px)', href: '{{ site.url }}{{ site.baseurl }}css/style-large.css', containers: '42em', grid: { gutters: ['1.5em', 0] }, viewport: { scalable: false } },
-			medium: { media: '(max-width: 1024px)', href: '{{ site.url }}{{ site.baseurl }}css/style-medium.css', containers: '85%!' },
-			small: { media: '(max-width: 736px)', href: '{{ site.url }}{{ site.baseurl }}css/style-small.css', containers: '90%!', grid: { gutters: ['1.25em', 0] } },
-			xsmall: { media: '(max-width: 480px)', href: '{{ site.url }}{{ site.baseurl }}css/style-xsmall.css' }
+			global: { href: 'http://physics-int.github.io/jIAPS/css/style.css', containers: '45em', grid: { gutters: ['2em', 0] } },
+			xlarge: { media: '(max-width: 1680px)', href: 'http://physics-int.github.io/jIAPS/css/style-xlarge.css' },
+			large: { media: '(max-width: 1280px)', href: 'http://physics-int.github.io/jIAPS/css/style-large.css', containers: '42em', grid: { gutters: ['1.5em', 0] }, viewport: { scalable: false } },
+			medium: { media: '(max-width: 1024px)', href: 'http://physics-int.github.io/jIAPS/css/style-medium.css', containers: '85%!' },
+			small: { media: '(max-width: 736px)', href: 'http://physics-int.github.io/jIAPS/css/style-small.css', containers: '90%!', grid: { gutters: ['1.25em', 0] } },
+			xsmall: { media: '(max-width: 480px)', href: 'http://physics-int.github.io/jIAPS/css/style-xsmall.css' }
 		},
 		plugins: {
 			layers: {
