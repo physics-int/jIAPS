@@ -4,8 +4,7 @@ title: Æter - new member of IAPS
 date: 2015-08-02 16:53:08
 categories: Committee Article
 author: Henrik Siboni
-excerpt: Ever felt like visiting the Danish city of Odense but never had a proper
-  occasion? Now you have - Odense has got its very own local committee of IAPS.
+excerpt: Ever felt like visiting the Danish city of Odense but never had a proper occasion? Now you have - Odense has got its very own local committee of IAPS.
 ---
 
 ![Æter in Europe. Original map by courtesy of Wikimedia Commons.]({{ site.baseurl }}assets/Map-872x1024.png)
