@@ -6,9 +6,9 @@ author: Ezster Piros
 categories: Event
 ---
 
-2015 is a magical year for sure, especially for scientists all over the world uniting to celebrate the International Year of Light and Light-based Technologies. IAPS is proud to be a Silver Associate sponsor of IYL 2015 and had the privilege to participate in the Opening Ceremony that took place on 19-20 January 2015 at the UNESCO headquarters, Paris. IAPS was present with 16 volunteers from different national and local committees, including 6 EC members.
-
 ![]({{ site.url }}/assets/IMG_6419_DxO-1024x683.jpg)
+
+2015 is a magical year for sure, especially for scientists all over the world uniting to celebrate the International Year of Light and Light-based Technologies. IAPS is proud to be a Silver Associate sponsor of IYL 2015 and had the privilege to participate in the Opening Ceremony that took place on 19-20 January 2015 at the UNESCO headquarters, Paris. IAPS was present with 16 volunteers from different national and local committees, including 6 EC members.
 
 Most of the volunteers arrived in the evening of 16 January and were greeted by dinner made by some of the early arrivers. Actual preparations began next morning. It was still dark when we headed towards the UNESCO headquarters. There we met the organizers and after a short introduction came the hard work. We were split into two working groups: most of the boys were directed outside to help setting up the Light is Here installation created by Finnish artist Kari Kola. Meanwhile the remaining volunteers were preparing the over 1000 conference bags which, as you can imagine, also required quite a lot of time and work. At the end of that really productive day everyone felt exhausted.
 
