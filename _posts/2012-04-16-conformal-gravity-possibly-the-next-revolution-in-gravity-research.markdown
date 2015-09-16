@@ -40,7 +40,7 @@ The idea our team are investigating is to allow for <em>local conformal invarian
 
 What about the problems of General Relativity? Well conformal gravity provides a consistent way of describing the Universe without the need of Dark Energy. Considering galaxies it can describe quite well the angular velocities of the stars contained therein, given a small amount of dark matter as would be expected given that a small amount of each galaxy does not emit electromagnetic radiation such as dead stars and small black holes.
 
-## References 
+## References
 1. Mannheim, P. D., Making the Case for Conformal Gravity, arXiv:1101.2186v2
 2. Mannheim, P. D., Conformal Gravity Challenges String Theory, arXiv:0707.2283v1
 3. Mannheim, P. D., Alternatives to Dark Matter and Dark Energy, Progress in Particle and Nuclear Physics <strong>56</strong>, 2 (2006).
