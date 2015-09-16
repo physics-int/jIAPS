@@ -7,10 +7,15 @@ author: Norbert Bonnici
 ---
 ##Introduction to 3D displays
 What must a 2D plane do to make a viewer think that they are actually looking into a 3D space? This has been a question to many scientists and engineers worldwide to create a non-volumetric display which is capable of giving viewers stereoscopic cues for a monocular system: [1]
+
 1. occlusion which is the effect of an object partially covering another and the effect of shadows,
+
 2. linear perspective which is how same sized objects vary in size on the retina depending on the viewing distance,
+
 3. depth of field, since the eye adapts its lens to accommodate for a focused object,
+
 4. how objects look diffused (due to the atmosphere) when viewed from a large distance,
+
 5. and relative scales according to known objects (example a dog).
 
 New 3D displays now add binocular support thus we are able to observe cues such as stereo and movement parallax which are effects of seeing different images with each eye and how we move our heads respectively. Stereo parallax is usually the main feature of all 3D displays, to give viewers depth perception. [2]
@@ -60,7 +65,7 @@ Lenticular lenses are cylindrical lenses aligned with columns of the OLED pixels
 
 We can obtain the distance between each lenticular lens using Equation 1, which gives the lenticular pitch, *l*, in terms of the pixel pitch, *i*, which is the distance between each pixel, the distance from the viewing windows, *z*, and the focal length, *f*. Figure 5 explains this visually. [2]
 
-$$ l = 2i (z-f)/z (1) $$
+$$ l = 2i (z-f)/z ~ (1)$$
 
 <figure>
   <img src="{{ site.url }}/assets/lenticular.png" alt="Figure 5: A lenticular lens auto-stereoscopic display. [2]">
@@ -72,7 +77,7 @@ The two-view parallax barrier display works by interlacing the left and right im
 
 We can find the distance between each parallax barrier using Equation 2, which gives the barrier pitch, *b*, in terms of the pixel pitch, *i*, the distance from the viewing windows, *z*, same as above, the gap between the barrier and the pixels, *g*. [2]
 
-$$ b = 2i (z-g)/z (2) $$
+$$ b = 2i (z-g)/z ~ (2) $$
 
 <figure>
   <img src="{{ site.url }}/assets/barrier.png" alt="Figure 6: A parallax barrier auto-stereoscopic display. [2]">

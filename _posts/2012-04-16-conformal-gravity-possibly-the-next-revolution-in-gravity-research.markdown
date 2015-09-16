@@ -8,7 +8,9 @@ author: Jackson Levi Said
 ##Possibly the Next Revolution in Gravity Research
 The problem of gravitation in all likelihood goes back to the very first questions Man asked about the world, however to this day problems persists with our understanding of the how and why it works the way it does. What is and was clear at the time is that that mass is attracted to the ground but for a very long time indeed it was taboo to even ponder whether the dots on the sky are subject to the laws that govern this mechanism. In fact Giordano Bruno an Italian Friar was burned at the stake in 1600 for holding the view that the Sun is just one of a class of many such objects, stars, that may also harbor planets with worlds similar to this one.
 
-Its not until Isaac Newton came along with his idea of Gravitation that the problem was given its first real empirical solution. There are scholarly disputes as to whether Newton should be accredited with first proposing the model, but as far as science is concerned the important thing is that the idea was taken on by the community. This model of how neutral matter attracts works by taking a direct proportionality with the product of the two masses in question interacting and more importantly an inverse proportion to the square of the distance between the objects, all with a gravitational coupling constant <em>G</em> to represent the strength of the force $$ F_1=F_2=G\frac{m_1\times m_2}{r^2}. $$
+Its not until Isaac Newton came along with his idea of Gravitation that the problem was given its first real empirical solution. There are scholarly disputes as to whether Newton should be accredited with first proposing the model, but as far as science is concerned the important thing is that the idea was taken on by the community. This model of how neutral matter attracts works by taking a direct proportionality with the product of the two masses in question interacting and more importantly an inverse proportion to the square of the distance between the objects, all with a gravitational coupling constant <em>G</em> to represent the strength of the force
+
+$$ F_1=F_2=G\frac{m_1\times m_2}{r^2}. ~ (1)$$
 
 The inverse distance squared part is very important, if this were just an inverse relation then the Universe would have collapsed before we had a chance to evolve and on the other hand if this were a one on distance cube then the Universe would be much more sparse and objects such as the Earth would have to be much bigger to produce the gravity they do now. Another interesting part of this model is that the force measured by either object is equal which eludes to one important facet of gravity, that the force, that is the product of the mass and the resulting acceleration, must be equal for either object involved.
 
@@ -16,7 +18,7 @@ Alas in 1859 Newton's theory of gravitation met its first in a series of problem
 
 Enter Einstein and his General Theory of Relativity in 1915 which revolutionized the very concept of gravity and utilized the modern techniques of describing geometry at the time. In general relativity the Universe is described as as a collection of points traversed by a four dimensional coordinate system thus linking the three dimensions of space with the time dimension. Relativity allows for this so called background fabric to be curved and twisted by means of its foundational principle, that spacetime is curved in an exact relation to the mass-energy of objects lying on it. This begs the question of how can we talk about this curvature in a precise way? Which brings us back to the ancient Greek school of Pythagoras and the theorem with its namesake
 
-$$ \Delta s^2=1\times\Delta x^2+1\times\Delta y^2. $$
+$$ \Delta s^2=1\times\Delta x^2+1\times\Delta y^2. ~ (2)$$
 
 In flat spacetime, where no mass-energy exists and spacetime is as we would imagine it namely completely flat, this relation holds, however introduce a little mass-energy and the background becomes curved as given by Einstein's General Relativity theory which can be thought of as Pythagoras' equation becoming a little off. In fact the amount that the theorem is off by lets us calculate precisely the amount of mass-energy a system has.
 
@@ -26,7 +28,7 @@ This idea implies that there exists a background fabric that gets updated, in a 
 
 Again problems were found, first by Fritz Zwicky and later by many others, on the galactic scale (order of size, for galaxies this is between 1000 and 100 000 light years in general) the predicted value of angular velocity of stars rotating about the center of the galaxy, given the luminous matter observed, fell very much short of the necessary value required to produce the measured speed. The first method of resolution was to consider the Right-Hand-Side of the general relativity principle equation
 
-$$ \text{Geometry}\equiv\text{Mass-Energy} $$
+$$ \text{Geometry}\equiv\text{Mass-Energy} ~ (3)$$
 
 Furthermore when the Universe scale is considered an even worse scenario is discovered. In 1998 it was found observationally that the expansion of the Universe is accelerating, that is the distance between stars is becoming larger at an increasing rate! And it is not that the stars and galaxies are themselves accelerating away from each other by some means but that the very fabric of the background geometry is expanding between them and everything else.
 

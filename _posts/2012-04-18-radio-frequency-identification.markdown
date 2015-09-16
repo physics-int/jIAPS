@@ -6,52 +6,61 @@ categories: Article
 author: Eric Pace
 ---
 ##History
-RFIDs have existed for over 50 years and devices that roughly resemble the operating principles of RFIDs can be traced back to the Second World War[1]. German scientists at the time discovered that by rolling their planes whenever they were returning to base, pilots changed the reflected radio signal and thus the radar crew on the ground could identify the aircraft[1, 2].
+RFIDs have existed for over 50 years and devices that roughly resemble the operating principles of RFIDs can be traced back to the Second World War[1]. German scientists at the time discovered that by rolling their planes whenever they were returning to base, pilots changed the reflected radio signal and thus the radar crew on the ground could identify the aircraft [1, 2].
 
 This system turned out to be a rudimentary form of a passive RFID. The British were also working on similar technology, and under Watson-Watt, the so-called Identify Friend or Foe system was developed.
 
-The first work exploring these systems was published by Harry Stockman in the paper, “Communication by means of reflected power”[3]. The first patent for an RFID system employing active tags and re-writable storage was received in the 1970’s[1].
+The first work exploring these systems was published by Harry Stockman in the paper, “Communication by means of reflected power” [3]. The first patent for an RFID system employing active tags and re-writable storage was received in the 1970’s [1].
 
 In the 1990’s RFID technology was being deployed commercially, mainly finding applications such as electronic toll collection. Having been successful, other business areas were investing in RFID technology, most notably by Walmart.
 
-Today, a single tag could be used for electronic toll collection, parking lot access as well as access to gated communities[1].
+Today, a single tag could be used for electronic toll collection, parking lot access as well as access to gated communities [1].
 
-![Figure 1: The images above illustrate the circuit and semiconductor chip that form a typical RFID tag. 4,5 ]({{ site.url }}/assets/rfid-circuits-640x360.png)
+<figure>
+  <img src="{{ site.url }}/assets/rfid-circuits-640x360.png" alt="Figure 1: The images above illustrate the circuit and semiconductor chip that form a typical RFID tag. [4,5]">
+  <figcaption>Figure 1: The images above illustrate the circuit and semiconductor chip that form a typical RFID tag. [4,5]</figcaption>
+</figure>
 
-![Figure 2: RFID system. 6 ]({{ site.url }}/assets/rfid_setup-220x113.jpg)
+<figure>
+  <img src="{{ site.url }}/assets/rfid_setup-220x113.jpg" alt="Figure 2: RFID system. [6]">
+  <figcaption>Figure 2: RFID system. [6]</figcaption>
+</figure>
 
 ##Advantages
 Currently, the more traditional barcode system is more widely used than RFID for tagging products and it it still the technology of choice for many applications. This is mainly due to the fact that RFIDs are more expensive. Thus we will not be seeing barcodes disappear any time soon.
 
 However, there are many areas where RFID technology has prevailed. These are mainly industrial areas involving the shipment of goods.
 
-The major advantage of RFID is that it does not require LoS to operate and thus products may be scanned from a distance, even if they are packaged in boxes or containers. While barcode systems are able to scan one item at a time, RFID systems can scan collections of items instantaneously, reducing labor requirements.[7]. Further advantages are that they can interrogate multiple items at the same time; they do not incur maintenance costs; they can store large amounts amounts of data (when compared to barcodes).
+The major advantage of RFID is that it does not require LoS to operate and thus products may be scanned from a distance, even if they are packaged in boxes or containers. While barcode systems are able to scan one item at a time, RFID systems can scan collections of items instantaneously, reducing labor requirements. [7]. Further advantages are that they can interrogate multiple items at the same time; they do not incur maintenance costs; they can store large amounts amounts of data (when compared to barcodes).
 
 ##RFID Types
 RFIDs may be categorized according to detection limits that different technologies impose on them.
 
 ###Close Coupled
-RFIDs operating the shortest range are called close-coupled systems. Typical interaction distance ranges from 0cm (contact) up to 1cm. At these ranges these systems generally operate in the near-field (discussed in section ). Thus the tag and the reader are coupled using both electric and magnetic fields and operate up to a range of 30MHz.
+RFIDs operating the shortest range are called close-coupled systems. Typical interaction distance ranges from 0 cm (contact) up to 1 cm. At these ranges these systems generally operate in the near-field. Thus the tag and the reader are coupled using both electric and magnetic fields and operate up to a range of 30MHz.
 
-Close-coupling allows for the transfer of sufficient power to operate microprocessors in the tag. Such systems find application mostly in security strict environments[8].
+Close-coupling allows for the transfer of sufficient power to operate microprocessors in the tag. Such systems find application mostly in security strict environments [8].
 
 ###Remote Coupled
 These middle range systems operate mainly in the far-field region and have ranges up to 1m. They are based on magnetic induction caused reader within the tag and are thus known as inductive radio systems[8].
 
-There are also a few systems employing capacitive coupling, however these form only 10% of the remote coupled category[8].
+There are also a few systems employing capacitive coupling, however these form only 10% of the remote coupled category [8].
 
 ###Long Range
-Having the greatest range of operation, these systems operate via ultra high frequency electromag- netic waves. As a result, these systems use a different operating principle known as backscatter[8], and are thus known as backscatter systems. With passive backscatter, distances up to 3 metres may be achieved, while with active backscatter systems, ranges up to 15 metres have been achieved. Apart from backscatter systems, there are systems which use surface acoustic waves (discussed in section ) in the microwave range[8].
+Having the greatest range of operation, these systems operate via ultra high frequency electromagnetic waves. As a result, these systems use a different operating principle known as backscatter[8], and are thus known as backscatter systems. With passive backscatter, distances up to 3 metres may be achieved, while with active backscatter systems, ranges up to 15 metres have been achieved. Apart from backscatter systems, there are systems which use surface acoustic waves (discussed in section ) in the microwave range [8].
 
 ###Power
 Another way of classifying RFID systems is according to the way they receive power. The main distinction is between passive and active tags, however some sources mention semi-passive tags as well. However for most purposes, the terms active and semi-passive are analogous.
 
 ###Passive Tags
-Passive RFID tags consist of an antenna, a semi-conductor chip attached to the antenna and a protective covering to withstand environmental wear and to allow for easy attachment to goods. They are called passive RFID tags for the simple reason that they have no dedicated power source, but are powered completely through the field generated by the RFID reader itself[10]. The tag antenna captures the energy and powers the semiconductor chip just enough to transmit its ID. The covering is usually made out of glass or a laminar plastic substrate[11].
+Passive RFID tags consist of an antenna, a semi-conductor chip attached to the antenna and a protective covering to withstand environmental wear and to allow for easy attachment to goods. They are called passive RFID tags for the simple reason that they have no dedicated power source, but are powered completely through the field generated by the RFID reader itself [10]. The tag antenna captures the energy and powers the semiconductor chip just enough to transmit its ID. The covering is usually made out of glass or a laminar plastic substrate [11].
 
-Passive tags can be very small, as they do not require a battery. Passive tags may be as small as a coin, however the smaller the tag, the shorter the read range[12]. Current passive RFID tags contain about 16 to 64 KB of memory[7].
+Passive tags can be very small, as they do not require a battery. Passive tags may be as small as a coin, however the smaller the tag, the shorter the read range[12]. Current passive RFID tags contain about 16 to 64 KB of memory [7].
 
-![Figure 3: This is an example of a Passive RFID tag. 9 ]({{ site.url }}/assets/passive_RFID_Park2011-640x360.jpg)
+<figure>
+  <img src="{{ site.url }}/assets/passive_RFID_Park2011-640x360.jpg" alt="Figure 3: This is an example of a Passive RFID tag. [9]">
+  <figcaption>Figure 3: This is an example of a Passive RFID tag. [9]</figcaption>
+</figure>
 
 The reader device may be set up to either broadcast its electromagnetic (EM) signal continuously or otherwise broadcast only when necessary. When the read is brought near an RFID tag, the EM signal is received by the tag through its antenna. Using diodes to rectify the radio frequency voltage, a charge within the tag’s capacitor is built up. A return signal is sent once the capacitor has built a sufficient amount of charge. This return signal is modulated according the data that is being sent to the reader.
 
@@ -62,7 +71,12 @@ Due to these limitations, these tags are used to track large items over large di
 
 ##Physical Principles
 ###Near-Field
-“Faraday’s principle of magnetic induction is the basis of near-field coupling between a reader and a tag”[11]. A reader will establish an alternating magnetic field such that when a tag is placed within it, an alternating voltage is generated across its coils. The voltage may be rectified and accumulated in a capacitor to then be used to power the semiconductor. Tags that use near-fieldcoupling use load-modulation.
+“Faraday’s principle of magnetic induction is the basis of near-field coupling between a reader and a tag” [11]. A reader will establish an alternating magnetic field such that when a tag is placed within it, an alternating voltage is generated across its coils. The voltage may be rectified and accumulated in a capacitor to then be used to power the semiconductor. Tags that use near-fieldcoupling use load-modulation.
+
+<figure>
+  <img src="{{ site.url }}/assets/rfid_setup-220x113.jpg" alt="Figure 2: RFID system. [6]">
+  <figcaption>Figure 2: RFID system. [6]</figcaption>
+</figure>
 
 ![Figure 4: This is an example of an Active RFID tag. 9]({{ site.url }}/assets/active_RFID_Park2011-640x360.jpg)
 
@@ -79,18 +93,21 @@ The tag receives EM waves propagating from the dipole antenna through a smaller 
 
 The technique designers use for commercial far-field tags is called back scattering (see section ). In this technique the antenna will reflect back some of the energy, depending on its impedance. By varying this impedance with time, the tag’s ID pattern may be reflected back. Impedance tuning can be achieved by connecting a transistor across the dipole antenna.
 
-Systems using far-field principles normally operate in the Ultra High Frequency (UHF) band (around 2.45 GHz) and these systems’ range is limited by the energy that reaches the tag and by how sensitive the reader is to the reflected signal “The actual return signal is very small, be- cause it is the result of two attenuations, each based on an inverse square law. Thus the returning energy is $$ 1/r^4 $$”[11].
+Systems using far-field principles normally operate in the Ultra High Frequency (UHF) band (around 2.45 GHz) and these systems’ range is limited by the energy that reaches the tag and by how sensitive the reader is to the reflected signal “The actual return signal is very small, because it is the result of two attenuations, each based on an inverse square law. Thus the returning energy is $$ 1/r^4 $$”[11].
 
-![Figure 5: Figure showing how Backscatter works. 8]({{ site.url }}/assets/RFID_backscatter-220x150.png)
+<figure>
+  <img src="{{ site.url }}/assets/RFID_backscatter-220x150.png" alt="Figure 5: Figure showing how Backscatter works. [8]">
+  <figcaption>Figure 5: Figure showing how Backscatter works. [8]</figcaption>
+</figure>
 
-Today, semiconductors require much less power to operate and with receivers of greater sensitivity, readers employing this system can interrogate tags up to 3 metres away[11].
+Today, semiconductors require much less power to operate and with receivers of greater sensitivity, readers employing this system can interrogate tags up to 3 metres away [11].
 
 ###Backscatter
 RFID systems operating at ranges greater than 1 metre operate using the far-field principle and operate in the UHF bands. Such short wavelengths makes it possible to build very small antennae.
 
 “Electromagnetic waves are reflected by objects with dimensions greater than around half the wavelength of the wave. The efficiency with which an object reflects electromagnetic waves is described by its reflection cross-section” [8]. When objects are resonating with the incident wave, such as what occurs when transmitting a signal at the resonating frequency of an antenna, a large reflection cross-section is observed. The reflection characteristics are further changed by varying the antenna’s resistance [8].
 
-Figure 5 illustrates the backscatter operation. Power $P1$ is emitted from the reader. Following attenuation, power $$ P1^\prime $$ arrives at the antennae of the tag as RF voltage. This voltage is rectified using <em>Schottky</em> diodes *D1* and *D2* as they have a low threshold voltage. Power *P2* is reflected from the tag back to the reader. The amplitude of this power is modulated according to the data being transmitted. Power $$ P2^\prime $$ arrives at the reader after attenuation.
+Figure 5 illustrates the backscatter operation. Power $P1$ is emitted from the reader. Following attenuation, power $$ P1^\prime $$ arrives at the antennae of the tag as RF voltage. This voltage is rectified using **Schottky** diodes *D1* and *D2* as they have a low threshold voltage. Power *P2* is reflected from the tag back to the reader. The amplitude of this power is modulated according to the data being transmitted. Power $$ P2^\prime $$ arrives at the reader after attenuation.
 
 Powers *P1* and $$ P2^\prime $$ are travelling in opposite direction. Since power *P1* is stronger by a few orders of magnitude, it can be suppressed by a directional coupler. The ratio $$ \frac{P1}{P2} $$ can be estimated using the radar equation.
 
@@ -121,7 +138,7 @@ HF (13.56 MHz) RFID system was adopted to replace the flat file system. With the
 ###Animal Tracking
 For stock keeping, and in an effort to control epidemics, RFIDs are being used on livestock. There are different types of RFIDs such as collars or injectable tags or ear tags. RFID allows the identification and tracking of individual animals and this allows the owners to manage feeding patterns and generate statistics for each animal in the livestock. Such information helps in the determination of when the animal should be bred or sent to the market.
 
-Animal health is also an area which receives aid from RFIDs. “The ability to trace back through the food chain provides national and international health agencies a valuable tool in controlling the spread of diseases.”[17]. RFID systems are also being used in zoos for Real Time Tracking (RTL) of elephants via ankle bracelets[18]. The readers are positioned in towers and track the movement of the elephants.
+Animal health is also an area which receives aid from RFIDs. “The ability to trace back through the food chain provides national and international health agencies a valuable tool in controlling the spread of diseases.” [17]. RFID systems are also being used in zoos for Real Time Tracking (RTL) of elephants via ankle bracelets[18]. The readers are positioned in towers and track the movement of the elephants.
 
 ###Clothes Tracking
 The best example of clothes tracking is WalMart. The company has been amongst the first to adopt RFID technology in order to be able to track shipments of products through the supply chain [19]. Recently in 2010, WalMart has also decided to adopt a more a rigorous approach as it now tracks individual items, insisting that “the devices are crucial to improving the logistics of inventory management”[20].
@@ -130,7 +147,7 @@ The best example of clothes tracking is WalMart. The company has been amongst th
 ###Radiation
 Electric fields may be divided into ionizing and non-ionizing radiation. “If EM energy is considered as a photon, then the energy of the photon depends on the frequency. The higher the frequency, the higher the energy” [21].
 
-“The ionization energy or ionization potential is the energy necessary to remove an electron from the neutral atom” [22]. Photon energy must be higher than 300 GHz[21] in order to be considered as ionizing. Thus RFID frequencies (operating between a few hertz up to 2.4 GHz) are non-ionizing [23].
+“The ionization energy or ionization potential is the energy necessary to remove an electron from the neutral atom” [22]. Photon energy must be higher than 300 GHz [21] in order to be considered as ionizing. Thus RFID frequencies (operating between a few hertz up to 2.4 GHz) are non-ionizing [23].
 
 In studies of effects of radio waves on humans, two perspectives are considered:
 1. the whole body averaged “specific absorption rate (SAR). SAR is the mass-normalized rate at which the energy of an electromagnetic field is coupled into an absorbing body; it has units of Watts per Kg” [23].
@@ -143,7 +160,7 @@ The concerns regarding thermal effects is mostly localized to parts of the body 
 There is no convincing evidence that exposure to RF radiation shortens the lifespan of human beings or that it is a carcinogen. However, there is evidence that chronic exposure to RF radiation with SAR of about 2 to 3 W/kg resulted in cancer promotion in mice[23].
 
 ###Tags in Patients
-The U.S. Food and Drug Administration (FDA) raised issues that patients implanted with an RFID tag will make them incompatible to MRI[24]. In a study by James Lambert, it was found that the “device is safe inside a patient during MRI testing as far as device movement, heating, and image distortion [are concerned]. However, the device may fail due to the MRI exam.”
+The U.S. Food and Drug Administration (FDA) raised issues that patients implanted with an RFID tag will make them incompatible to MRI [24]. In a study by James Lambert, it was found that the “device is safe inside a patient during MRI testing as far as device movement, heating, and image distortion [are concerned]. However, the device may fail due to the MRI exam.”
 
 Also researchers have found [25, 26] that “high-frequency (HF) 13.56 MHz RFID tags do not significantly interfere with the functionality of imaging devices, nor do those devices affect the tags’ functionality.”
 
