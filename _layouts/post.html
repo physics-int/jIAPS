@@ -13,6 +13,8 @@ layout: default
         </section>
 
         <footer>
+            <p>{{ page.content | number_of_words }} words</p>
+
             {% if page.previous %}
             <a href="{{ page.previous.url | prepend: site.url }}" class="float-left">&larr; Previous post</a> {% endif %}
             {% if page.next %}
