@@ -74,11 +74,9 @@ Due to these limitations, these tags are used to track large items over large di
 “Faraday’s principle of magnetic induction is the basis of near-field coupling between a reader and a tag” [11]. A reader will establish an alternating magnetic field such that when a tag is placed within it, an alternating voltage is generated across its coils. The voltage may be rectified and accumulated in a capacitor to then be used to power the semiconductor. Tags that use near-fieldcoupling use load-modulation.
 
 <figure>
-  <img src="{{ site.url }}/assets/rfid_setup-220x113.jpg" alt="Figure 2: RFID system. [6]">
-  <figcaption>Figure 2: RFID system. [6]</figcaption>
+  <img src="{{ site.url }}/assets/active_RFID_Park2011-640x360.jpg" alt="Figure 4: This is an example of an Active RFID tag. [9]">
+  <figcaption>Figure 4: This is an example of an Active RFID tag. [9]</figcaption>
 </figure>
-
-![Figure 4: This is an example of an Active RFID tag. 9]({{ site.url }}/assets/active_RFID_Park2011-640x360.jpg)
 
 Since the tag is powered by the magnetic field, this power consumption may be measured as a voltage drop in the reader antenna. The tag is supplied with a load resistance which may be switched on and off according to what data needs to be transmitted. The toggling of the load resistance will result voltage fluctuations which may be decoded by the reader to identify the data being sent – this technique is known as load-modulation, described below.
 
