@@ -5,6 +5,7 @@ date: 2012-04-16 18:24:53
 categories: Article
 author: Jackson Levi Said
 ---
+
 ##Possibly the Next Revolution in Gravity Research
 The problem of gravitation in all likelihood goes back to the very first questions Man asked about the world, however to this day problems persists with our understanding of the how and why it works the way it does. What is and was clear at the time is that that mass is attracted to the ground but for a very long time indeed it was taboo to even ponder whether the dots on the sky are subject to the laws that govern this mechanism. In fact Giordano Bruno an Italian Friar was burned at the stake in 1600 for holding the view that the Sun is just one of a class of many such objects, stars, that may also harbor planets with worlds similar to this one.
 

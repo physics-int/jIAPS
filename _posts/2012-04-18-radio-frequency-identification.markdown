@@ -5,6 +5,7 @@ date: 2012-04-18 16:40:10
 categories: Article
 author: Eric Pace
 ---
+
 ##History
 RFIDs have existed for over 50 years and devices that roughly resemble the operating principles of RFIDs can be traced back to the Second World War[1]. German scientists at the time discovered that by rolling their planes whenever they were returning to base, pilots changed the reflected radio signal and thus the radar crew on the ground could identify the aircraft [1, 2].
 

@@ -5,17 +5,14 @@ date: 2013-05-02
 categories: Article
 author: Norbert Bonnici
 ---
+
 ##Introduction to 3D displays
 What must a 2D plane do to make a viewer think that they are actually looking into a 3D space? This has been a question to many scientists and engineers worldwide to create a non-volumetric display which is capable of giving viewers stereoscopic cues for a monocular system: [1]
 
 1. occlusion which is the effect of an object partially covering another and the effect of shadows,
-
 2. linear perspective which is how same sized objects vary in size on the retina depending on the viewing distance,
-
 3. depth of field, since the eye adapts its lens to accommodate for a focused object,
-
 4. how objects look diffused (due to the atmosphere) when viewed from a large distance,
-
 5. and relative scales according to known objects (example a dog).
 
 New 3D displays now add binocular support thus we are able to observe cues such as stereo and movement parallax which are effects of seeing different images with each eye and how we move our heads respectively. Stereo parallax is usually the main feature of all 3D displays, to give viewers depth perception. [2]
