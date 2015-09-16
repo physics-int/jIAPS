@@ -8,7 +8,7 @@ author: the PLANCKS committee
 
 From the 22nd to the 24th of May 2015, the second edition of PLANCKS (Physics League Across Numerous Countries for Kick-ass Students) was held. The event started on Friday with a very successful opening symposium, which hosted over 300 people.
 
-The main event was of course the physics olympiad organised on Saturday. A total of 28 teams from 18 different countries took up the challenge, but only the best could be praised with the title of "Best Physics Students of the World", and winning the grand prize of € $\frac{h}{\pi}\cdot 10^{37}$.
+The main event was of course the physics olympiad organised on Saturday. A total of 28 teams from 18 different countries took up the challenge, but only the best could be praised with the title of "Best Physics Students of the World", and winning the grand prize of € $$ \frac{h}{\pi}\cdot 10^{37} $$.
 
 In the remaining part of the weekend, we focused on the most important goal of the whole event: bringing together physics students from all over the world. The competitors enjoyed one of the several excursions that we organised and a barbecue. As a grand finale, the closing ceremony was held in museum Boerhaave, the Leiden Museum of the History of Science.
 
@@ -54,7 +54,7 @@ Even though the line for the barbecue was a bit long sometimes, the sun was shin
 ##Closing ceremony
 On Sunday the weekend was closed with a ceremony at museum Boerhaave. During this ceremony, various people took the stage. The first was Andreea Munteanu, the president of the PLANCKS committee 2016, who told us about their plans for next year. Jan van Ruitenbeek, the chairman of the Dutch physical society (NNV), spoke about the problem he had contributed to the contest and the way he encountered it during research. Willem Tromp, the committee member responsible for the contest, showed us some statistics about the contest, and awarded some fun awards for remarkable results of the contest, such as a creativity award for an ingenious but wrong answer, and an efficiency award for the team that had managed the best points per page ratio.
 
-Then Jan van Ruitenbeek took the stage again to award the main prizes. The first prize, an amount of €$\frac{h}{\pi} \cdot 10^{37}$ = €2109.14, went to the Dutch team Strength in Unitarity, who had scored a total of 88.5 points out of 120. The second prize was won by the Dutch team Tena, the third place went to Czech team Charles' Angels.
+Then Jan van Ruitenbeek took the stage again to award the main prizes. The first prize, an amount of € $$ \frac{h}{\pi} \cdot 10^{37} $$ = €2109.14, went to the Dutch team Strength in Unitarity, who had scored a total of 88.5 points out of 120. The second prize was won by the Dutch team Tena, the third place went to Czech team Charles' Angels.
 
 ![]({{ site.url }}/assets/winnaar-1024x686.jpg)
 
