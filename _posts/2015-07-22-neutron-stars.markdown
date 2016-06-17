@@ -6,10 +6,12 @@ categories: Article
 author: Nicholai Cumbo
 ---
 
-##What is a Neutron Star?
+What is a Neutron Star?
+-----------------------
+
 A neutron star is a compact star composed mainly of neutrons. Its size is relatively small with a radius of around 10 to 20 km. However, the mass of a neutron star is about 1.4 to 2 times more than that of the Solar Mass (the mass of the Sun $latex M_o$) with the largest mass observed recorded at 2.01 $latex M_o$. This leads to high densities ranging from about $latex 2.4$ to $latex 9.1 \times 10^{17} kg/m^3$. The density distribution is lowest at the outer most part of the crust starting from about $latex 1 \times 10^{9} kg/m^{3}$. It then increases with depth to more than $latex 6 \times 10^{17} kg/m^3$ deep inside the core. The closest comparison to this density is the approximate density of an atomic nucleus of $latex 3 \times 10^{17} kg/m^3$. Compared to the sun, a neutron star is of order $latex 10^{24}$ times denser. The surface temperature is typically of around $latex 6 \times 10^{5} K$. To put things into perspective, "a single teaspoon of neutron star material would weigh a billion tons — assuming you somehow managed to snag a sample without being captured by the body's strong gravitational pull." [1,2,3]
 
-<p>[caption id="attachment_895" align="aligncenter" width="450"]<img class="wp-image-895 size-full" src="{{ site.baseurl }}/assets/1-NeutronStar.gif" alt="1-NeutronStar" width="450" height="282" /> Figure 1: Structure of Neutron Star [11][/caption]</p>
+<p><img class="wp-image-895 size-full" src="{{ site.baseurl }}/assets/1-NeutronStar.gif" alt="1-NeutronStar" width="450" height="282" /> Figure 1: Structure of Neutron Star [11]</p>
 <h2>The Formation of Neutron Stars</h2>
 <p>In ancient times, it was believed that the stars are ever-lasting. As time passed, this belief was proven false. A star is created, and goes through a long process. It spends its lifetime fusing matter together until its 'fuel' runs out. At this point fusion stops and the massive star collapses towards its center of mass due to the overwhelming influence of its own gravity. This process is called Gravitational collapse, and is the heart of structure formation in the universe. [1,4]</p>
 <p>A new star is formed through the gradual gravitational collapse of a cloud of interstellar matter. The collapse causes compression which raises the temperature until nuclear fuel ignites in the center of the star. This produces a thermal pressure outwards, which balances the gravitational forces and brings about dynamic equilibrium to the star. When the fuel runs out again, the same process is repeated until a new equilibrium state is reached. However, this process can not go on indefinitely, and so at some point the star will reach its death. The type of death the star experiences depends mostly on its mass. [1,4]</p>
