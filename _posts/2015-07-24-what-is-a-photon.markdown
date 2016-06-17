@@ -64,7 +64,7 @@ Nevertheless, the photon is not a point-like particle whose trajectory is shaped
 Does the photon have mass?
 --------------------------
 
-Photons are said to be massless but the mass of the photon is set to zero in order to satisfy conditions of special relativity as we shall see in this section. Consider an isolated system of one particle which is being accelerated to some velocity *v*. Using Newtonian mechanics we get that the particle's momentum *p* must be proportional to *v* where the proportionality constant is simply the particle's mass *m*, such that *p *= *m*.*v*. [13, 14]
+Photons are said to be massless but the mass of the photon is set to zero in order to satisfy conditions of special relativity as we shall see in this section. Consider an isolated system of one particle which is being accelerated to some velocity *v*. Using Newtonian mechanics we get that the particle's momentum *p* must be proportional to *v* where the proportionality constant is simply the particle's mass $$ m $$, such that $$ p=mv $$. [13, 14]
 
 In special relativity, it turns out that although *p* and *v* still point in the same direction, these two vectors are no longer proportional. To solve this, the best alternate way to define *p* is through the particle's "relativistic mass" $$ m_{rel}$$. This yields:
 
