@@ -100,7 +100,7 @@ giving the product $$ \Delta x \Delta p \, \sim \, h$$, which is Heisenberg's un
 
 $$ \Delta n \Delta \phi > 1 $$
 
-Both photons and material particles such as electrons create analogous interference patterns when passing through a double-slit experiment. For photons, this corresponds to the interference of a Maxwell light wave whereas, for material particles, this corresponds to the interference of the Schrödinger wave equation. Although this similarity might suggest that Maxwell's equations are simply Schrödinger's equation for photons, most physicists do not agree. [16, 17] For one thing, they are mathematically different. Schrödinger's one equation solves for a complex field, whereas Maxwell's four equations solve for real fields. More generally, the normal concept of a Schrödinger probability wave function cannot be applied to photons. [18] Being massless, they cannot be localised without being destroyed. Technically, photons cannot have a position eigenstate \(|r>\) and thus, the normal Heisenberg uncertainty principle \(\Delta x \Delta p > \dfrac{h}{2}\) does not pertain to photons.
+Both photons and material particles such as electrons create analogous interference patterns when passing through a double-slit experiment. For photons, this corresponds to the interference of a Maxwell light wave whereas, for material particles, this corresponds to the interference of the Schrödinger wave equation. Although this similarity might suggest that Maxwell's equations are simply Schrödinger's equation for photons, most physicists do not agree. [16, 17] For one thing, they are mathematically different. Schrödinger's one equation solves for a complex field, whereas Maxwell's four equations solve for real fields. More generally, the normal concept of a Schrödinger probability wave function cannot be applied to photons. [18] Being massless, they cannot be localised without being destroyed. Technically, photons cannot have a position eigenstate r and thus, the normal Heisenberg uncertainty principle \(\Delta x \Delta p\) greater than \(\dfrac{h}{2}\) does not pertain to photons.
 
 Bose Einstein model of a photon gas
 -----------------------------------
@@ -132,33 +132,63 @@ References
 ----------
 
 [1]  Kobychev, V.V.; Popov, S.B. (2005). “Constraints on the photon charge from observations of extragalactic sources”. Astronomy Letters 31 (3): 147151.
+
 [2]  Pedrotti, F.L., Pedrotti, L.S., Pedrotti, L.M., (2007). Introduction to Optics, 3rd edn. Pearson Addison and Wesley, 2007.
+
 [3]  Section 1.6 in Alonso, M.; Finn, E.J. (1968). Fundamental University Physics Volume III: Quantum and Statistical Physics. Addison-Wesley.
+
 [4]  Davison E. Soper, Electromagnetic radiation is made of photons, Institute of Theoretical Science, University of Oregon
+
 [5]  This property was experimentally verified by Raman and Bhagavantam in 1931: Raman, C.V.; Bhagavantam, S. (1931). “Experimental proof of the spin of the photon” (PDF). Indian Journal of Physics 6: 353. E.g., section 1.3.3.2 in Burgess, C.; Moore, G. (2007). The Standard
+
 [6]  E.g., section 1.3.3.2 in Burgess, C.; Moore, G. (2007). The Standard Model. A Primer. Cambridge University Press.
+
 [7]  Sheldon Glashow Nobel lecture, delivered 8 December 1979.
+
 [8]  Abdus Salam Nobel lecture, delivered 8 December 1979.
+
 [9]  Steven Weinberg Nobel lecture, delivered 8 December 1979.
+
 [10] Ryder, L.H. (1996). Quantum field theory. 2nd edn. Cambridge University Press.
+
 [11] Taylor, G.I. (1909). “Interference fringes with feeble light”. ”Proceedings of the Cambridge Philosophical Society” 15. pp. 114115.
+
 [12] Saleh, B. E. A. and Teich, M. C. (2007). Fundamentals of Photonics. Wiley.
+
 [13] E. Fischbach et al., Physical Review Letters 73, 514517 25 July 1994.
+
 [14] Chibisov et al., Sov. Ph. Usp. 19, 624 (1976).
+
 [15] Heisenberg, W. (1927). “Über den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik”. Zeitschrift fr Physik (in German) 43 (34): 172198.
+
 [16] Kramers, H.A. (1958). Quantum Mechanics. Amsterdam: North-Holland.
+
 [17] Bohm, D. (1989) [1954]. Quantum Theory. Dover Publications.
+
 [18] Newton, T.D.; Wigner, E.P. (1949). “Localized states for elementary particles”. Reviews of Modern Physics 21 (3): 400406.
+
 [19] Scott P., 27th November 2001, Photons and Blackbody Radiation. Available from: <a href="http://physics.ucsc.edu/ drip/5D/photons/photons.pdf">http://physics.ucsc.edu/drip/5D/photons/photons.pdf</a>. [Accessed on: 16th November 2014].
+
 [20] Klaers, J., Schmitt, J., Vewinger, F., Weitz, M., November 2010, Bose-Einstein condensation of photons in an optical microcavity, Nature, vol. 468, pp. 545-548. Available from: <a href="http://www.nature.com/nature/journal/v468/n7323/full/nature09567.html">http://www.nature.com/nature/journal/v468/n7323/full/nature09567.html</a>. [Accessed on 16th November 2014].
+
 [21] Bose-Einstein condensate (BEC). Available from: <a href="http://www.britannica.com/EBchecked/topic/74640/Bose-Einstein-condensate-BEC">http://www.britannica.com/EBchecked/topic/74640/Bose-Einstein-condensate-BEC</a>. [Accessed on: 16th November 2014].
+
 [22] Anderson, M.H.; Ensher, J.R.; Matthews, M.R.; Wieman, C.E.; Cornell, E.A. (1995). ”Observation of BoseEinstein Condensation in a Dilute Atomic Vapor”. Science 269 (5221): 198201.
+
 [23] Bose, S.N. (1924). “Plancks Gesetz und Lichtquantenhypothese”. Zeitschrift fr Physik 26: 178181.
+
 [24] Bustamante, C 2003, Remarks on Photon Hadron Interaction, Library Journal vol.10, No.2. Available from: <a href="http://redshift.vif.com/JournalFiles/V10NO2PDF/V10N2COM.pdf">http://redshift.vif.com/JournalFiles/V10NO2PDF/V10N2COM.pdf</a>. [Accessed on 16th November 2014].
+
 [25] Schuler, G.A.; Sjo ̈strand, T. (1992). The hadronic properties of the photon γp interactions. Available from: <a href="http://cds.cern.ch/record/243140/files/th-6718-92.pdf" >http://cds.cern.ch/record/243140/files/th-6718-92.pdf</a>. Accessed on: 9th November 2014.
+
 [26] Theory of strong interactions, J. J. Sakurai, Ann. Phys., 11 (1960)
+
 [27] Photomultiplier section 1.1.10, CCDs section 1.1.8, Geiger counters section 1.3.2.1 in Kitchin, C.R. (2008). Astrophysical Techniques. Boca Raton (FL): CRC Press.
+
 [28] Introductory-level material on the various sub-fields of quantum optics can be found in Fox, M. (2006). Quantum Optics: An Introduction. Oxford University Press.
+
 [29] Photon. Last updated 12 November 2014 at 01:44. [Online]. Available at: <a href="http://en.wikipedia.org/wiki/Photon" >http://en.wikipedia.org/wiki/Photon</a> [Accessed on 9th November 2014].
+
 [30] Gauge boson. Last updated 23 October 2014 at 21:50. [Online]. Available at: <a href="http://en.wikipedia.org/wiki/Gauge_boson" >http://en.wikipedia.org/wiki/Gauge_boson</a> [Accessed on 9th November 2014].
+
 [31] CERN (European Laboratory for Particle Physics). Last updated 2013. [Online]. Available at: <a href="http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.7eeac5cd345b4f34f09d fd1001432ea0/?vgnextoid=b46b87767d072410VgnVCM1000001d04140aRCRD" >http://www.idi.mineco.gob.es/portal/site/MICINN/menuitem.7eeac5cd345b4f34f09d fd1001432ea0/?vgnextoid=b46b87767d072410VgnVCM1000001d04140aRCRD</a> [Accessed on 9th November 2014].
