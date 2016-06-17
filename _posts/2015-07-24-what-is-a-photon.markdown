@@ -25,11 +25,16 @@ A photon has zero mass, no electric charge [1] and has two possible polarisation
  Figure 1. The cone shows possible values of wave 4-vector of a photon. The "time" axis gives the angular frequency (rad⋅s−1) and the "space" axes represent the angular wavenumber (rad⋅m−1). Green and indigo represent left and right polarisation. [29]
 
 <p style="text-align: justify;">Photons are emitted in many naturally occurring radiative processes. During a molecular, atomic or nuclear transition to a lower energy level, photons of various energy are emitted. These range from radio waves to gamma rays. A photon can also be emitted when a particle and its corresponding antiparticle are annihilated. In deriving equations for the energy of a photon and other particles such as electrons, concepts from quantum mechanics and special relativity are used. Special relativity is useful since it predicts the momentum $ p$ and wavelength $ \lambda$ of the "particle". Together with quantum mechanics these statistics yield the general equations given below where <em>m</em> is the rest mass and <em>E</em> the total energy. [2] It is important to note for now that photons have zero rest mass. The reason for this shall be explained later on. In empty space, the photon moves at <em>c</em> (the speed of light) and its energy and momentum are related by <em>E</em> = <em>pc</em>, where <em>p</em> is the magnitude of the momentum vector <strong>p</strong>. This derives from the following relativistic relation, with <em>m</em> = 0 [3]:</p>
-<p style="text-align: center;">$ E^{2}=p^{2}c^{2}+m^{2}c^{4}$</p>
-<p style="text-align: justify;">Moreover the energy and momentum of a photon depend only on its frequency $ \nu$ or inversely, its wavelength $ \lambda$:</p>
-<p style="text-align: center;">$ E=\hbar\omega=h\nu=\dfrac{hc}{\lambda}$</p>
-<p style="text-align: center;">$ \textbf{p}=\hbar\textbf{k}$</p>
-<p style="text-align: justify;">where <strong>k</strong> is the wavenumber and $ \hbar=\dfrac{h}{2\pi}$ is the reduced Planck constant. [4] Since <strong>p</strong> points in the direction of the photon's propagation, the magnitude of the momentum is</p>
+
+$E^{2}=p^{2}c^{2}+m^{2}c^{4}$
+
+Moreover the energy and momentum of a photon depend only on its frequency $ \nu$ or inversely, its wavelength $\lambda$:
+
+$E=\hbar\omega=h\nu=\dfrac{hc}{\lambda}$
+
+$\textbf{p}=\hbar\textbf{k}$
+
+where *k* is the wavenumber and $\hbar=\dfrac{h}{2\pi}$ is the reduced Planck constant. [4] Since *p* points in the direction of the photon's propagation, the magnitude of the momentum is</p>
 <p style="text-align: center;">$ p=\hbar k=\dfrac{h\nu}{c}=\dfrac{h}{\lambda}$</p>
 <p style="text-align: justify;">The photon also carries spin angular momentum that does not depend on its frequency. [5] The magnitude of its spin is $ \sqrt{2\hbar}$ and the component measured along its direction of motion, its helicity (a combination of the spin and the linear motion of a subatomic particle), must be $ \pm\hbar$. [6]</p>
 <h2>The photon as a gauge boson</h2>
