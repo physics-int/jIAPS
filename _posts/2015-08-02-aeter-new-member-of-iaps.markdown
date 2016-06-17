@@ -11,7 +11,7 @@ excerpt: Ever felt like visiting the Danish city of Odense but never had a prope
 
 Being part of Scandinavia with Germany to the South, the UK to the West, Sweden to the East, and Norway to the North, Denmark is comfortably placed in Northern Europe. The country's shape is defined by one of the largest coast lines in the world compared to land area, with the addition of a coastal climate which keeps the weather not too cold nor too warm. The largest and mainland part of the country is Jutland with the largest island being Zeeland where the capital Copenhagen is located. It is possible to study physics in Jutland in Aalborg and Aarhus as well as on Sealand in Copenhagen and Roskilde but we'll focus on the central island of Funen with the city of Odense.
 
-##Æter
+## Æter
 Æter (Danish for "ether") is the student council for physics, chemistry, and pharmacy students in Odense at the University of Southern Denmark. Run by the students, Æter works in the interest of its students and influences the politics at the university in general and in each of the study programmes. Æter has its own rooms at the university where students can come to study or have fun with the other colleagues while drinking coffee for free.
 
 ![Playing table football is not unheard of.]({{ site.url }}/assets/Bordfodbold.jpg)
@@ -28,7 +28,7 @@ When it comes to the relationship between students and researcher, Æter has sta
 
 Æter also backs this year's participants at ICPS, ensuring that their participation fees would be covered by the institute and the hearing support company Oticon. Though until recently forgotten, the University of Southern Denmark actually hosted ICPS in 2003.
 
-##The courses
+## The courses
 When the students are not in Æter they are likely to be studying and the research and teaching is mainly associated with the three research centres.
 
 In the theoretical corner is the Centre for Cosmology and Particle Physics Phenomenology (CP<sup>3</sup>) which does research in the area of elementary particles, dark matter, and dark energy. Their activities include conducting a winter school, workshops and cooperations with CERN among others. On a biweekly basis, they have the CP<sup>3</sup> Lectures where external researcher visit to give a lecture on their topic of interest. The lectures are attended by researchers and advanced students but everyone is welcome. Recently, an extra 15 minutes have been added before the lecture to give time to explain the basics which the topic of the lecture builds on. More informal, a journal club is also regularly held where researchers and sometimes students present an article for discussion; also these meetings are open. Especially for students, more basic lectures are also held.
@@ -43,7 +43,7 @@ Not to be forgotten, some of the researchers also study the science and physics 
 
 Finally, the University of Southern Denmark also host the Center For Life and Living Technologies (FLinT in short) which aims at creating artificial life from inanimate materials. Their work is diverse with project ranging from constructing protocells able to grow with energy from the Sun, over metabolising electronic chips, to 3D printers. Though nothing to mention at the moment of writing this, they also make external events so you might want to look out for that.
 
-##The city
+## The city
 When you are not at the university you can go to the city. In the day, cafés are available with two, StudieStuen and Studenterhuset, specifically targeting students ensuring a nice place to study as well. StudieStuen (English: "the Study Living Room") was founded by students in 2010 and continuous to be run and financed exclusively through the work of students. Events like lectures, concerts and social singing happen regularly.
 
 ![StudieStuen - one of many cafés]({{ site.url }}/assets/Cafe-1024x576.jpg)
@@ -62,12 +62,12 @@ If you, on the other hand, want to party with some music, the festival Tinderbox
 
 If you don't feel like paying for a festival ticket, you can also just go to the King's Garden near the city centre where free concerts are hosted every Thursday during the Summer.
 
-##Interested?
+## Interested?
 Are you feeling tempted to come study here? With all master courses as well as many bachelor courses being taught in English, language should, in any case, not be a barrier. Though there are generally tuition fees for foreign students, citizens of the EU, EEA, or Switzerland are exempt from those and can study for free. Meeting some specific conditions, some even become eligible to receive the state education support which will cover some, if not all, of your monthly expenses. To see what applies to you, better sources are available online.
 
 So from all of us to all of you: See you in Zagreb!
 
-##Find out more
+## Find out more
 If you want to get in touch with us at Æter, you are welcome to write to our e-mail: [lc-odense@iaps.info](mailto:lc-odense@iaps.info)
 
 If you want to learn more about studying in Odense, we recommend checking out these pages:
