@@ -57,7 +57,7 @@ Apart from the Doppler cooling limit there is also the recoil limit which is a f
 
 To calculate the 3D cooling limit due to recoil heating in the setup with four incident beams along $$ \pm x$$ and $$ \pm y$$ we separate the heat due to scattering into free space and into the cavity mode. The scattering into free space is unaffected only if the cavity mode occupies a very small solid angle.
 
-For a dipole pattern the average free space heating parallel to the dipole is $$ \frac{1}{5} E_{rec}$$ and that along the direction of the beam is $$ \frac{7}{5} E_{rec}$$. If the cavity line width $$ 2\gamma_{c} &gt; \frac{E_{rec}}{\hbar}$$, the detuning that minimizes the temperature will be given by $$ \delta^{'}_{i}=-\gamma_{c}$$. Thus if the cooling rate is equal to the heating rate, the resulting kinetic temperature $$ T_{\alpha,min}$$ along direction $$ \alpha$$ is:
+For a dipole pattern the average free space heating parallel to the dipole is $$ \frac{1}{5} E_{rec}$$ and that along the direction of the beam is $$ \frac{7}{5} E_{rec}$$. If the cavity line width $$ 2\gamma_{c} > \frac{E_{rec}}{\hbar}$$, the detuning that minimizes the temperature will be given by $$ \delta^{'}_{i}=-\gamma_{c}$$. Thus if the cooling rate is equal to the heating rate, the resulting kinetic temperature $$ T_{\alpha,min}$$ along direction $$ \alpha$$ is:
 
 $$ k_{B}T_{\alpha,min}=\frac{\hbar \gamma_{c}}{2}(1+ \frac{C_{\alpha}}{\eta_{0}D_{\alpha}})$$
 When the scattering rate into the resonator mode is bigger than the scattering rate into free space, the latter stops limiting the final temperature. Also, a large cavity linewidth leads to a large velocity capture range, while a narrow linewidth allows one to achieve a low final temperature.
