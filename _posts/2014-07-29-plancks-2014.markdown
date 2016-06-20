@@ -11,7 +11,7 @@ First international theoretical physics competition great success
 
 From Friday, 23<sup>rd</sup> till Sunday 25<sup>th</sup> May, 32 teams of students from 14 countries, participated in PLANCKS, the first international theoretical physics competition. PLANCKS was instigated and organised by students of Utrecht University in the Netherlands. Their opening symposium became great news, when they managed to attract Professor Stephen Hawking to give a lecture. Participants look forward to the next edition.
 
-![](http://jiaps.org/wp-content/uploads/2014/07/PlancksWinnaars.jpg)
+![]({{ site.baseurl }}/assets/PlancksWinnaars-1024x901.jpg)
 
 "We want to say DANK U WEL! We had an amazing weekend here in Utrecht and we were truly impressed by the excellent organisation. The only thing we can blame you for is the fact that half of our group is now seriously considering to delay their graduation in order to be allowed to participate in PLANCKS 2015!" Thus read one entry in the guest book, but there were many more along the same lines.
 

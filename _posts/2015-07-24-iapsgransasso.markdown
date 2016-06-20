@@ -70,4 +70,4 @@ For my part, I invite everyone to join the second edition of this event, which m
 [5] Italian National Institute of Nuclear Physics (INFN). iaps@gransasso timetable. [https://agenda.infn.it/conferenceDisplay.py?ovw=True&amp;confId=9213](https://agenda.infn.it/conferenceDisplay.py?ovw=True&amp;confId=9213), May 2015.
 
 1. The nuclear reaction is of the kind $$ (A,Z) \to (A, Z+2) + 2 \beta + 2 \nu $$
-2. The amplitude of the oscillation depends on $$ \Delta m^2 $$
+2. The amplitude of the oscillation depends on $$ \Delta m^2 $$
