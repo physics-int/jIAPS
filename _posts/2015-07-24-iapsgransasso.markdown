@@ -3,10 +3,10 @@ layout: post
 title: iaps@GranSasso
 date: 2015-07-24 13:45:46
 categories: Event
-author: Norbert Bonnici
+author: Jacopo Mazza
 ---
 
-Me, walking into a sunny courtyard, then entering a narrow corridor; at its end, a hall, and a blue T-shirt already flying to my face from Leon's hands. This is the first memory I have of *iaps@GranSasso*, the very first event organised in Italy by IAPS, alongside the newborn and fast-growing <a href="http://jiaps.org/italy-joins-iaps/">AISF</a> - its Italian national committee.
+Me, walking into a sunny courtyard, then entering a narrow corridor; at its end, a hall, and a blue T-shirt already flying to my face from Leon's hands. This is the first memory I have of *iaps@GranSasso*, the very first event organised in Italy by IAPS, alongside the newborn and fast-growing [http://jiaps.org/italy-joins-iaps/](AISF) - its Italian national committee.
 
 Forty students, from all over Europe and beyond, took part in this five-day event deep within the heart of central Italy. Main theme: astroparticles - but much more was in plan.
 
@@ -39,11 +39,11 @@ Meanwhile, a whole set of experiments at LNGS aims at directly detecting DM cand
 ### Neutrinos
 Low backgrounds offer as well a great chance to perform very fine measurements on highly elusive, though more easily detectable, particles, namely neutrinos: electrically neutral elementary particles, assumed to be massless within the Standard Model.
 
-Since their electrical charge is zero, one may well wonder whether neutrinos and antineutrinos are indeed the same particles. The question turns out to be all but trivial and may be rephrased as follows: is the neutrino a Dirac ($$ \nu \neq \bar{\nu}$$) or a Majorana ($$ \nu = \bar{\nu}$) particle? In the latter case, one should be able to observe a particular double $$ \beta $$ decay, though a neutrinoless one, thus violating lepton number conservation: indeed the standard version of this decay, which is ordinarily detected, results in two $$ \beta $$ particles and two neutrinos<sup>1</sup>.
+Since their electrical charge is zero, one may well wonder whether neutrinos and antineutrinos are indeed the same particles. The question turns out to be all but trivial and may be rephrased as follows: is the neutrino a Dirac ($$ \nu \neq \bar{\nu}$$) or a Majorana ($$ \nu = \bar{\nu} $$) particle? In the latter case, one should be able to observe a particular double $$ \beta $$ decay, though a neutrinoless one, thus violating lepton number conservation: indeed the standard version of this decay, which is ordinarily detected, results in two $$ \beta $$ particles and two neutrinos<sup>1</sup>.
 
 Many experiments at LNGS aim at detecting such decay. One of those I'd like to mention, because of a minor detail that nonetheless surprised me: CUORE. Its inner shield, built to ensure a further protection from spurious radioactivity, is made of true Roman lead, 2000 years old, taken some years ago from a sunk ship in the Mediterranean Sea. Not exactly something you'd find at a hardware store.
 
-We said neutrinos are assumed to be massless, yet a peculiar phenomenon has been observed which proves that they do have mass. Like leptons (electrons, muons and taus), also neutrinos come in three species, or flavours: electronic, muonic and tau. Unlike leptons, neutrinos have a certain probability to "oscillate" between different flavours. This means that a neutrino which is born, say, electronic, after traveling for some time, may end up being detected as muonic. The existence of this phenomenon, labelled *neutrino oscillation*, guarantees that the mass difference between flavours is non-zero<sup>2</sup>. Neutrino oscillations have been studied at LNGS by OPERA, an experimental set-up now in the dismantling phase designed to measure neutrinos shot from CERN to Gran Sasso: just a few days ago, on June 16th, the OPERA spokesperson announced in a press conference the detection of the fifth ever tau neutrino in that beam, thus reaching a $$ 5\sigma$ confidence level for $$ \nu_{\mu} \to \nu_{\tau} $$ transitions [1]  in fact, $$ \nu_e \to \nu_{\mu}$$ transitions had already been confirmed.
+We said neutrinos are assumed to be massless, yet a peculiar phenomenon has been observed which proves that they do have mass. Like leptons (electrons, muons and taus), also neutrinos come in three species, or flavours: electronic, muonic and tau. Unlike leptons, neutrinos have a certain probability to "oscillate" between different flavours. This means that a neutrino which is born, say, electronic, after traveling for some time, may end up being detected as muonic. The existence of this phenomenon, labelled *neutrino oscillation*, guarantees that the mass difference between flavours is non-zero<sup>2</sup>. Neutrino oscillations have been studied at LNGS by OPERA, an experimental set-up now in the dismantling phase designed to measure neutrinos shot from CERN to Gran Sasso: just a few days ago, on June 16th, the OPERA spokesperson announced in a press conference the detection of the fifth ever tau neutrino in that beam, thus reaching a $$ 5\sigma $$ confidence level for $$ \nu_{\mu} \to \nu_{\tau} $$ transitions [1]  in fact, $$ \nu_e \to \nu_{\mu} $$ transitions had already been confirmed.
 
 In the late afternoon we moved to the underground facilities, by coach: the whole area can be easily reached from the nearby highway tunnel, a distinctive and very useful feature of the Gran Sasso labs. We were guided to see all the experiments mentioned above an many more. Overall a very impressive visit.
 
@@ -63,11 +63,11 @@ The same eagerness seemed to be fully shared by our hosting institutions: not on
 For my part, I invite everyone to join the second edition of this event, which many (including myself) hope will take place next year. Should you be interested in the scientific activity of the institutions that hosted us, you will find the links to their web pages among the references; also, you can find all the event materials, both by researchers and students, online at [5] - I made great use of them for writing this article. Lastly, I would like to draw your attention to their thesis and PhD proposals: they are willing to welcome students from all countries and backgrounds, to share an investigation which may bring us back to the Big Bang and forward to a brilliant future of advances in Physics.
 
 ## References
-[1] OPERA Collaboration. “A Fifth Tau Neutrino Detected at Gran Sasso”, press release. <a href="http://operaweb.lngs.infn.it/spip.php?article66">http://operaweb.lngs.infn.it/spip.php?article66</a>, June 2015.
-[2] Gran Sasso Science Institute (GSSI). Homepage. <a href="http://www.gssi.infn.it/">http://www.gssi.infn.it/</a>.
-[3] Energy Italian National Agency for New Technologies and Sustainable Economic Development (ENEA). Enea fusion. <a href="http://www.fusione.enea.it/index.html.en">http://www.fusione.enea.it/index.html.en</a>, June 2015.
-[4] Energy Italian National Agency for New Technologies and Sustainable Economic Development (ENEA). Homepage. <a href="http://www.enea.it/en/home?set_language=en&amp;cl=en">http://www.enea.it/en/home?set_language=en&amp;cl=en</a>, June 2015.
-[5] Italian National Institute of Nuclear Physics (INFN). iaps@gransasso timetable. <a href="https://agenda.infn.it/conferenceDisplay.py?ovw=True&amp;confId=9213">https://agenda.infn.it/conferenceDisplay.py?ovw=True&amp;confId=9213</a>, May 2015.
+[1] OPERA Collaboration. “A Fifth Tau Neutrino Detected at Gran Sasso”, press release.<br /> [http://operaweb.lngs.infn.it/spip.php?article66](http://operaweb.lngs.infn.it/spip.php?article66), June 2015.<br />
+[2] Gran Sasso Science Institute (GSSI). Homepage. [http://www.gssi.infn.it/](http://www.gssi.infn.it/).<br />
+[3] Energy Italian National Agency for New Technologies and Sustainable Economic Development (ENEA). Enea fusion.<br /> [http://www.fusione.enea.it/index.html.en](http://www.fusione.enea.it/index.html.en), June 2015.<br />
+[4] Energy Italian National Agency for New Technologies and Sustainable Economic Development (ENEA). Homepage.<br /> [http://www.enea.it/en/home?set_language=en&amp;cl=en](http://www.enea.it/en/home?set_language=en&amp;cl=en), June 2015.<br />
+[5] Italian National Institute of Nuclear Physics (INFN). iaps@gransasso timetable. [https://agenda.infn.it/conferenceDisplay.py?ovw=True&amp;confId=9213](https://agenda.infn.it/conferenceDisplay.py?ovw=True&amp;confId=9213), May 2015.
 
 1. The nuclear reaction is of the kind $$ (A,Z) \to (A, Z+2) + 2 \beta + 2 \nu $$
 2. The amplitude of the oscillation depends on $$ \Delta m^2 $$

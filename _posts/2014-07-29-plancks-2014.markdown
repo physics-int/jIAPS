@@ -5,24 +5,39 @@ date: 2014-07-29 15:25:55
 categories: Event
 author: ‎Casper van Schuppen
 ---
-<p><b><i>Initiative of students of Utrecht University, the Netherlands</i></b></p>
-<p><b>First international theoretical physics competition great success</b></p>
-<p><b>From Friday, 23</b><b><sup>rd</sup></b><b> till Sunday 25</b><b><sup>th</sup></b><b> May, 32 teams of students from 14 countrie<i>s,</i> participated in PLANCKS, the first international theoretical physics competition. PLANCKS was instigated and organised by students of Utrecht University in the Netherlands. Their opening symposium became great news, when they managed to attract Professor Stephen Hawking to give a lecture. Participants look forward to the next edition.</b></p>
-<p><a href="http://jiaps.org/wp-content/uploads/2014/07/PlancksWinnaars.jpg"><img class="aligncenter size-large wp-image-784" src="{{ site.baseurl }}/assets/PlancksWinnaars-1024x901.jpg" alt="PlancksWinnaars" width="1024" height="901" /></a></p>
-<p>"We want to say DANK U WEL! We had an amazing weekend here in Utrecht and we were truly impressed by the excellent organisation. The only thing we can blame you for is the fact that half of our group is now seriously considering to delay their graduation in order to be allowed to participate in PLANCKS 2015!" Thus read one entry in the guest book, but there were many more along the same lines.</p>
-<p><b>PLANCKS</b></p>
-<p>The Physics League Across Numerous Countries for Kickass Students, (PLANCKS),  was instigated by the students of A-Eskwadraat, the study association of Utrecht University which caters for students of Mathematics, Computer science, Information science, Physics and Astronomy. The association is allied to SPIN, an umbrella organisation for Dutch study associations specifically in the field of physics. In 2012 the new, ambitious SPIN committee proclaimed the ambition to give a facelift to the annual Dutch national physics competition, PION, that existed since 1995. Thus PLANCKS was born.</p>
-<p>This first edition attracted no less than 32 teams of between 3 and 4 students, from 14 countrie<i>s</i> as far away as China. The actual competition took place on the morning after the opening symposium, during which the teams had to make 10 challenging assignments carefully composed by scientists from different institutions. The event was sponsored by Utrecht University, several companies and funding agencies.</p>
-<p><b>Stephen Hawking</b></p>
-<p>Since they wanted good PR for their initiative, the organising committee decided to send an email inviting Professor Hawking for the opening symposium, thinking, ‘We’ve got nothing to lose.’ To their surprise, a reply arrived almost by return saying he would be delighted.</p>
-<p>When the news of Hawking’s coming was made public, it soon became clear that a great number of the general public very much wanted to be present at the symposium. The students decided to rent a Theatre Hall for the symposium which can hold 1500 and extend their organising team of 8 with 4 more students. The tickets for the 500 seats they reserved for the general public were sold out within 1 minute.</p>
-<p>Professor Hawking took the stage to a reception the Stones would have been jealous of. Especially for the opening symposium he wrote a new lecture, which included recent work on BICEP (Background Imaging of Cosmic Extragalactic Polarization).</p>
-<p>When after his lecture he was asked ‘Do you think scientists have an obligation to convey their knowledge to the lay audience and why?’, Hawking answered: ‘It is important, that we all, have a good understanding of science and technology. Science and technology are changing our world dramatically, and it is important to ensure that these changes are in the right directions. In a democratic society, this means that we all need to have a basic understanding of science, so we can make informed decisions ourselves, rather than leave them to the experts.’</p>
-<p>Besides Stephen Hawking, the PLANCKS organisation also managed to attract theoretical physicist and Nobel Prize Winner Professor Gerard ‘t Hooft of Utrecht University and experimental physicist Professor Immanuel Bloch Director of the Max Planck Institute in Munich, who received the Körber European Science Prize 2013.</p>
-<p><b>Winners</b></p>
-<p>At the award ceremony Professor Gerard ‘t Hooft presented the prizes. The third prize was shared between Smoluchowski’s Team from the Jagiellonian University in Poland and NOFY066 from the Charles University in Prague, Czech Republic. Second prize went to Tena, a home-grown mixed team from Utrecht, Nijmegen and Eindhoven Universities, and the winners were another mixed home-grown team, Dutch Physics Olympiad from Utrecht and Nijmegen Universities. The winning students, Troy Figiel, Ruben Doornenbal, Martijn van Kuppenvelt en Joost Houben, had not expected to achieve such a high score. Even so, they were the best by a considerable margin. First prize was a cheque for € 2109,14; (h/pi∙10<sup>37</sup>; h is the Planck Constant), together with a trophy in the form of a plank.</p>
-<p>At the end of the awards, the baton was passed to Irene Haasnoot of Leiden University which will organise PLANCKS 2015. From 2016 on, the Dutch initiators hope PLANCKS will start touring around the world.</p>
-<p><a href="http://jiaps.org/wp-content/uploads/2014/07/plancks-team_4671.jpg"><img class="aligncenter size-large wp-image-785" src="{{ site.baseurl }}/assets/plancks-team_4671-1024x682.jpg" alt="plancks-team_4671" width="1024" height="682" /></a></p>
-<p><b>Websites</b>:</p>
-<p style="color: #0463c1;"><span style="color: #000000;">PLANCKS 2014: <a href="http://www.plancks.info/">http://www.plancks.info</a>.</span></p>
-<p>Utrecht University: www.uu.nl/en</p>
+Initiative of students of Utrecht University, the Netherlands
+
+First international theoretical physics competition great success
+
+From Friday, 23<sup>rd</sup> till Sunday 25<sup>th</sup> May, 32 teams of students from 14 countries, participated in PLANCKS, the first international theoretical physics competition. PLANCKS was instigated and organised by students of Utrecht University in the Netherlands. Their opening symposium became great news, when they managed to attract Professor Stephen Hawking to give a lecture. Participants look forward to the next edition.
+
+![](http://jiaps.org/wp-content/uploads/2014/07/PlancksWinnaars.jpg)
+
+"We want to say DANK U WEL! We had an amazing weekend here in Utrecht and we were truly impressed by the excellent organisation. The only thing we can blame you for is the fact that half of our group is now seriously considering to delay their graduation in order to be allowed to participate in PLANCKS 2015!" Thus read one entry in the guest book, but there were many more along the same lines.
+
+## PLANCKS
+The Physics League Across Numerous Countries for Kickass Students, (PLANCKS),  was instigated by the students of A-Eskwadraat, the study association of Utrecht University which caters for students of Mathematics, Computer science, Information science, Physics and Astronomy. The association is allied to SPIN, an umbrella organisation for Dutch study associations specifically in the field of physics. In 2012 the new, ambitious SPIN committee proclaimed the ambition to give a facelift to the annual Dutch national physics competition, PION, that existed since 1995. Thus PLANCKS was born.
+
+This first edition attracted no less than 32 teams of between 3 and 4 students, from 14 countries as far away as China. The actual competition took place on the morning after the opening symposium, during which the teams had to make 10 challenging assignments carefully composed by scientists from different institutions. The event was sponsored by Utrecht University, several companies and funding agencies.
+
+## Stephen Hawking
+Since they wanted good PR for their initiative, the organising committee decided to send an email inviting Professor Hawking for the opening symposium, thinking, ‘We’ve got nothing to lose.’ To their surprise, a reply arrived almost by return saying he would be delighted.
+
+When the news of Hawking’s coming was made public, it soon became clear that a great number of the general public very much wanted to be present at the symposium. The students decided to rent a Theatre Hall for the symposium which can hold 1500 and extend their organising team of 8 with 4 more students. The tickets for the 500 seats they reserved for the general public were sold out within 1 minute.
+
+Professor Hawking took the stage to a reception the Stones would have been jealous of. Especially for the opening symposium he wrote a new lecture, which included recent work on BICEP (Background Imaging of Cosmic Extragalactic Polarization).
+
+When after his lecture he was asked ‘Do you think scientists have an obligation to convey their knowledge to the lay audience and why?’, Hawking answered: ‘It is important, that we all, have a good understanding of science and technology. Science and technology are changing our world dramatically, and it is important to ensure that these changes are in the right directions. In a democratic society, this means that we all need to have a basic understanding of science, so we can make informed decisions ourselves, rather than leave them to the experts.’
+
+Besides Stephen Hawking, the PLANCKS organisation also managed to attract theoretical physicist and Nobel Prize Winner Professor Gerard ‘t Hooft of Utrecht University and experimental physicist Professor Immanuel Bloch Director of the Max Planck Institute in Munich, who received the Körber European Science Prize 2013.
+
+## Winners
+At the award ceremony Professor Gerard ‘t Hooft presented the prizes. The third prize was shared between Smoluchowski’s Team from the Jagiellonian University in Poland and NOFY066 from the Charles University in Prague, Czech Republic. Second prize went to Tena, a home-grown mixed team from Utrecht, Nijmegen and Eindhoven Universities, and the winners were another mixed home-grown team, Dutch Physics Olympiad from Utrecht and Nijmegen Universities. The winning students, Troy Figiel, Ruben Doornenbal, Martijn van Kuppenvelt en Joost Houben, had not expected to achieve such a high score. Even so, they were the best by a considerable margin. First prize was a cheque for € 2109,14; (h/pi∙10<sup>37</sup>; h is the Planck Constant), together with a trophy in the form of a plank.
+
+At the end of the awards, the baton was passed to Irene Haasnoot of Leiden University which will organise PLANCKS 2015. From 2016 on, the Dutch initiators hope PLANCKS will start touring around the world.
+
+![]({{ site.baseurl }}/assets/plancks-team_4671-1024x682.jpg)
+
+## Websites:
+PLANCKS 2014: [http://www.plancks.info/](http://www.plancks.info/)<br />
+Utrecht University: [www.uu.nl/en](www.uu.nl/en)

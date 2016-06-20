@@ -72,24 +72,16 @@ If you want to get in touch with us at Æter, you are welcome to write to our e-
 
 If you want to learn more about studying in Odense, we recommend checking out these pages:
 
-Æter on Facebook: [facebook.com/aeter.sdu](http://facebook.com/aeter.sdu)
-
-The University of Southern Denmark: [sdu.dk/english](http://sdu.dk/english)
-
-CP<sup>3</sup>-Origins: [CP3-origins.dk](http://CP3-origins.dk)
-
-The Physics Challenge: [CP3-genius-program](http://CP3-origins.dk/research/CP3-genius-program/2015-physics-challenge)
-
-MEMPHYS: [memphys.dk](http://memphys.dk)
-
-FLinT: [flint.sdu.dk/](http://flint.sdu.dk/)
-
-Can I receive support from the state?: [su.dk](http://su.dk/English/Sider/foreign.aspx)
+Æter on Facebook: [facebook.com/aeter.sdu](http://facebook.com/aeter.sdu)<br />
+The University of Southern Denmark: [sdu.dk/english](http://sdu.dk/english)<br />
+CP<sup>3</sup>-Origins: [CP3-origins.dk](http://CP3-origins.dk)<br />
+The Physics Challenge: [CP3-genius-program](http://CP3-origins.dk/research/CP3-genius-program/2015-physics-challenge)<br />
+MEMPHYS: [memphys.dk](http://memphys.dk)<br />
+FLinT: [flint.sdu.dk/](http://flint.sdu.dk/)<br />
+Can I receive support from the state?: [su.dk](http://su.dk/English/Sider/foreign.aspx)<br />
 
 If you want to learn more about spare time activities and life in general, you can also check out:
 
-Tinderbox: [tinderbox.dk](http://tinderbox.dk)
-
-Odense's website: [odense.dk](http://odense.dk/subsites5/english)
-
+Tinderbox: [tinderbox.dk](http://tinderbox.dk)<br />
+Odense's website: [odense.dk](http://odense.dk/subsites5/english)<br />
 This Is Odense (weekly recommendations): [thisisodense.dk](http://thisisodense.dk/en)

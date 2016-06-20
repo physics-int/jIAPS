@@ -6,44 +6,57 @@ categories: Bid
 author: Andrea Celon
 ---
 
-<p>Every year ICPS is organised by an IAPS member in a different country. We would be glad to offer the city of Turin (Torino) in Italy, as the 2017 destination.</p>
-<p>The Italian Association of Physics Students (AISF) is quite new in IAPS, but has already proved its members' motivation and resolution in creating events both of international and national interest. You can have a better insight in the article dedicated to AISF in this issue. Up to now, Italy has never hosted an ICPS, so we would be immensely pleased to break this record and offer all IAPS guests this new, unforgettable experience.</p>
-<h2>ICPS organisers</h2>
-<p>The Organising Committee will be composed of 12 core members and around 30-40 volunteers. To ensure the most suitable outcome, we would appoint three main officers: a Project coordinator, a Financial coordinator and an Operations coordinator.</p>
-<h2>Dates</h2>
-<ul>
-<li>Arrival on the 14th August 2017</li>
-<li>Departure on the 21st August 2017</li>
-</ul>
-<h2>Location</h2>
-<p>Italy is well known for its landscapes and history, not to mention food and wines and unorthodox Prime Ministers. Turin is a large city (roughly 1 million people) in the north-west of the country, close to the Alps and the border with France.</p>
-<p><img class="aligncenter wp-image-881 size-large" src="{{ site.baseurl }}/assets/torino-1024x678.jpg" alt="torino" width="1024" height="678" /></p>
-<p>Its position is particularly smart and allows for easy trips to the mountains as well as to the sea. Turin was the first capital of the country, when it was united in a kingdom in 1861 and its royal origins are still very clear in the architecture of the city. Later on, it was one of the main industrial centres in Italy, due to the car manufacturing of FIAT (now FIAT-Chrysler). The fine baroque city centre and the dynamic passion for modernity and technology make Turin a unique place, all to enjoy and discover. Turin has a clear vocation for international and multicultural events: in 2006, for example, it hosted the XX Olympic winter games, so why not ICPS in 2017?</p>
-<h2>Politecnico di Torino</h2>
-<p>The Politecnico di Torino (Polytechnic University of Turin) was established in 1859, it is Italy's oldest technical University, devoted to engineering and architecture. It counts more than 32.000 students per year and it is listed in the top world Universities rankings. The main lectures and parallel session will be held here.</p>
-<h2>Accommodation</h2>
-<p><img class="aligncenter wp-image-883 size-full" src="{{ site.baseurl }}/assets/borsellino.jpg" alt="borsellino" width="500" height="375" /></p>
-<p>Around the "cittadella politecnica" the hall of residence Borsellino (10 minutes from the Main Hall) will host 404 students in double and single rooms, while the Collegio Einaudi residence (15 minutes walking from Main Hall) will be able to host up to 150 more students.</p>
-<h2>Conference fee &amp; prices</h2>
-<p>The conference fee will be student-friendly, as in the previous editions of ICPS. We will be having an early registration and a late registration fees, but please note that due to organising issues, the late registration one needs to be a bit more expensive than last years':</p>
-<ul>
-<li>Early registration fee: 190 €</li>
-<li>Late registration fee: 250 €</li>
-</ul>
-<h2>Scientific Programme</h2>
-<p>Among the main goals of the organising committee there is the attention to the educational aspects of ICPS and the will to offer an excellent scientific programme, with top quality guests.</p>
-<p><img class="aligncenter size-full wp-image-884" src="{{ site.baseurl }}/assets/politecnico.jpg" alt="politecnico" width="800" height="535" /></p>
-<p>We are already in contact with leading Italian scientists (Carlo Rubbia, Fabiola Gianotti, etc.), and we will get in touch with world famous foreign physicists.</p>
-<p>Our main goal is to provide the widest range of topics in Physics, from theory to medical physics, from solid state to astrophysics. This way, virtually every participant will have the chance to find its <em>inspiration</em>. As usual, parallel talks will give everyone the opportunity to talk about his/her own research, as in the customary poster session.</p>
-<h2>Lab tours and excursions</h2>
-<p>There will be the possibility to visit different laboratories in research institutes and technical companies.</p>
-<p>We have already in the programme, for instance, a visit to <em>Thales Alenia Space</em>, a leading company for building of spacecrafts and ISS modules; <em>INRIM</em>, the National Institute of Metrology, with precision experiments on nanomaterials and quantum optics; <em>CNAO</em> the hadrotherapy oncologic national center, in Pavia, that carries out groundbreaking research in cancer treatment with particles radiation; the <em>CSHR</em>, Center for Space Human Robotics; the <em>Astronomic Observatory</em>; the <em>Italian Institute of Technology</em> (IIT) in Genova and the <em>Underground Modane Laboratory</em> (LSM) an important facility for neutrino detection and study. A softer and much relaxed side will be coupled to all tours, such as Laser park, canoeing on the Po river, a wine tasting and cellar visit, a Biopark safari, half day trip to the beach or to the mountains, visit of the city of Pavia and many others.</p>
-<h2>Nights</h2>
-<p>We will provide a full course of traditional and well-known ICPS parties, such as the <em>Nations Party</em> and the <em>Costume Party</em>, an astounding welcome party and a farewell party. There will be an "Italian Food night party" with a proper taste of Italy's finest "cucina'', plus Italian music and the "That's amore party", a spicy surprise for everyone. We would like also to test your physical (in both senses) skills, by proposing again, after 6 years since its last edition in Budapest, the "Drink &amp; derive" contest, that will be held during the free night.</p>
-<h2>Transportation</h2>
-<p><img class="aligncenter size-large wp-image-885" src="{{ site.baseurl }}/assets/bridge-1024x679.jpg" alt="bridge" width="1024" height="679" /></p>
-<p>Turin has an international airport (TRN) which is 40 minutes by bus 5 € to the city centre and the accommodation facilities. The intercontinental Milan-Malpensa (MXP) airport can also be used to get to Turin, taking into account 2 more hours by bus to get to the city. There are two international stations, well-connected to the rest of Europe via high-speed trains. All city transport during the week will be included in the registration fee.</p>
-<h2>Backup solution</h2>
-<p>In the event that not so many participants would attend the conference, we will use the Campus Einaudi, a smaller but brand new facility (opened in 2012) for lectures and accommodations, reducing the expenses consistently.</p>
-<h2>Conclusions</h2>
-<p>As stated before, this would be the first ICPS occurring in Italy, in more than thirty editions. We would like to provide all participants with the best the city of Turin has to offer. We would be extremely glad to welcome all students in our warm, funny country and show you that the Italian physicists are indeed quite easygoing, chaotic and messy at times, but can also produce a very well organised, memorable event that will surely meet and surpass everyone's expectations.</p>
+Every year ICPS is organised by an IAPS member in a different country. We would be glad to offer the city of Turin (Torino) in Italy, as the 2017 destination.
+
+The Italian Association of Physics Students (AISF) is quite new in IAPS, but has already proved its members' motivation and resolution in creating events both of international and national interest. You can have a better insight in the article dedicated to AISF in this issue. Up to now, Italy has never hosted an ICPS, so we would be immensely pleased to break this record and offer all IAPS guests this new, unforgettable experience.
+
+## ICPS organisers
+The Organising Committee will be composed of 12 core members and around 30-40 volunteers. To ensure the most suitable outcome, we would appoint three main officers: a Project coordinator, a Financial coordinator and an Operations coordinator.
+
+## Dates
+* Arrival on the 14th August 2017
+* Departure on the 21st August 2017
+
+## Location
+Italy is well known for its landscapes and history, not to mention food and wines and unorthodox Prime Ministers. Turin is a large city (roughly 1 million people) in the north-west of the country, close to the Alps and the border with France.
+<img class="aligncenter wp-image-881 size-large" src="{{ site.baseurl }}/assets/torino-1024x678.jpg" alt="torino" width="1024" height="678" />
+Its position is particularly smart and allows for easy trips to the mountains as well as to the sea. Turin was the first capital of the country, when it was united in a kingdom in 1861 and its royal origins are still very clear in the architecture of the city. Later on, it was one of the main industrial centres in Italy, due to the car manufacturing of FIAT (now FIAT-Chrysler). The fine baroque city centre and the dynamic passion for modernity and technology make Turin a unique place, all to enjoy and discover. Turin has a clear vocation for international and multicultural events: in 2006, for example, it hosted the XX Olympic winter games, so why not ICPS in 2017?
+
+## Politecnico di Torino
+The Politecnico di Torino (Polytechnic University of Turin) was established in 1859, it is Italy's oldest technical University, devoted to engineering and architecture. It counts more than 32.000 students per year and it is listed in the top world Universities rankings. The main lectures and parallel session will be held here.
+
+## Accommodation
+![borsellino]({{ site.baseurl }}/assets/borsellino.jpg)
+Around the "cittadella politecnica" the hall of residence Borsellino (10 minutes from the Main Hall) will host 404 students in double and single rooms, while the Collegio Einaudi residence (15 minutes walking from Main Hall) will be able to host up to 150 more students.
+
+## Conference fee &amp; prices
+The conference fee will be student-friendly, as in the previous editions of ICPS. We will be having an early registration and a late registration fees, but please note that due to organising issues, the late registration one needs to be a bit more expensive than last years':
+
+* Early registration fee: 190 €
+* Late registration fee: 250 €
+
+## Scientific Programme
+Among the main goals of the organising committee there is the attention to the educational aspects of ICPS and the will to offer an excellent scientific programme, with top quality guests.
+
+![politecnico]({{ site.baseurl }}/assets/politecnico.jpg)
+We are already in contact with leading Italian scientists (Carlo Rubbia, Fabiola Gianotti, etc.), and we will get in touch with world famous foreign physicists.
+
+Our main goal is to provide the widest range of topics in Physics, from theory to medical physics, from solid state to astrophysics. This way, virtually every participant will have the chance to find its *inspiration*. As usual, parallel talks will give everyone the opportunity to talk about his/her own research, as in the customary poster session.
+
+## Lab tours and excursions
+There will be the possibility to visit different laboratories in research institutes and technical companies.
+
+We have already in the programme, for instance, a visit to *Thales Alenia Space*, a leading company for building of spacecrafts and ISS modules; *INRIM*, the National Institute of Metrology, with precision experiments on nanomaterials and quantum optics; *CNAO* the hadrotherapy oncologic national center, in Pavia, that carries out groundbreaking research in cancer treatment with particles radiation; the *CSHR*, Center for Space Human Robotics; the *Astronomic Observatory*; the *Italian Institute of Technology* (IIT) in Genova and the *Underground Modane Laboratory* (LSM) an important facility for neutrino detection and study. A softer and much relaxed side will be coupled to all tours, such as Laser park, canoeing on the Po river, a wine tasting and cellar visit, a Biopark safari, half day trip to the beach or to the mountains, visit of the city of Pavia and many others.
+
+## Nights
+We will provide a full course of traditional and well-known ICPS parties, such as the *Nations Party* and the *Costume Party*, an astounding welcome party and a farewell party. There will be an "Italian Food night party" with a proper taste of Italy's finest "cucina'', plus Italian music and the "That's amore party", a spicy surprise for everyone. We would like also to test your physical (in both senses) skills, by proposing again, after 6 years since its last edition in Budapest, the "Drink &amp; derive" contest, that will be held during the free night.
+
+## Transportation
+![bridge]({{ site.baseurl }}/assets/bridge-1024x679.jpg)
+Turin has an international airport (TRN) which is 40 minutes by bus 5 € to the city centre and the accommodation facilities. The intercontinental Milan-Malpensa (MXP) airport can also be used to get to Turin, taking into account 2 more hours by bus to get to the city. There are two international stations, well-connected to the rest of Europe via high-speed trains. All city transport during the week will be included in the registration fee.
+
+## Backup solution
+In the event that not so many participants would attend the conference, we will use the Campus Einaudi, a smaller but brand new facility (opened in 2012) for lectures and accommodations, reducing the expenses consistently.
+
+## Conclusions
+As stated before, this would be the first ICPS occurring in Italy, in more than thirty editions. We would like to provide all participants with the best the city of Turin has to offer. We would be extremely glad to welcome all students in our warm, funny country and show you that the Italian physicists are indeed quite easygoing, chaotic and messy at times, but can also produce a very well organised, memorable event that will surely meet and surpass everyone's expectations.

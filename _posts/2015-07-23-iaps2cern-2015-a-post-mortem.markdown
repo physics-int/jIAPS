@@ -8,8 +8,7 @@ author: Norbert Bonnici
 
 The European Organisation of Nuclear Research (CERN) is the place to be for particle physics, and with 45 participants from all around the world the annual IAPS visit took place from the 20th to the 23rd of April 2015. As one of the volunteers organising the trip, and de-facto leader during the trip I would like to both summarise the trip and share some of my impressions; for the benefit of all those who where there, and for those who were not - there is always another chance next year.
 
-![A view of the Synchrocyclotron at CERN]({{ site.baseurl }}/assets/11149692_10203764736310232_7901976709789638346_o-1024x573.jpg")
-
+![A view of the Synchrocyclotron at CERN]({{ site.baseurl }}/assets/11149692_10203764736310232_7901976709789638346_o-1024x573.jpg)
 A view of the Synchrocyclotron at CERN. Picture by Max Lisogorski
 
 First of all, the trip was a full success. The participants were of course fantastic, and the programme organised for us by CERN was amazing - even as someone who was there a few times before the visit was full of nice surprises.
@@ -31,9 +30,7 @@ To roundup the trip, we also visited the United Nations in Geneva, seeing both 
 On a personal note, the trip was certainly a weird one, as I got to know IAPS as a participant in the 2013 iaps2CERN tour. Having switched sides now, I can appreciate the effort that goes into such a trip, and hope that everyone enjoyed the trip as much as I enjoyed my first visit to CERN. Organising this trip was a lot of work and very stressful - especially when simultaneously working on a master thesis - but also a lot of fun. I highly recommend that you get involved with IAPS, if you are not already. Maybe you could help with the existing trips, or if you have an idea why not try to start up a new IAPS excursion?
 
 ![The Synchrocyclotron in a light-show]({{ site.baseurl }}/assets/11129756_10205413572092681_3095513993904435694_o-1024x768.jpg)
-
 The Synchrocyclotron in a light-show. Picture by Thamires Vieira
 
 ![The group in front of the ATLAS control centre building at CERN]({{ site.baseurl }}/assets/11182728_943120929043458_3005433467477228003_o-1024x681.jpg)
-
 The group in front of the ATLAS control centre building at CERN.
